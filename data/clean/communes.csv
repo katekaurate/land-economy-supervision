@@ -1,0 +1,2199 @@
+id,name,KTNR,district_id,district,canton,lang_rule,lang,mixed_area,area_km2,id17
+1,Aeugst am Albis,1,101,Bezirk Affoltern,1,German,German,False,7.9586555,1
+10,Obfelden,1,101,Bezirk Affoltern,1,German,German,False,7.557358,10
+100,Stadel,1,104,Bezirk Dielsdorf,1,German,German,False,12.7935575,100
+1001,Doppleschwand,3,316,Wahlkreis Entlebuch,3,German,German,False,7.165479052502722,1001
+1002,Entlebuch,3,316,Wahlkreis Entlebuch,3,German,German,False,56.74258805749519,1002
+1004,Flühli,3,316,Wahlkreis Entlebuch,3,German,German,False,107.8725285,1004
+1005,Hasle (LU),3,316,Wahlkreis Entlebuch,3,German,German,False,40.294676705001464,1005
+1007,Romoos,3,316,Wahlkreis Entlebuch,3,German,German,False,36.86405219999793,1007
+1008,Schüpfheim,3,316,Wahlkreis Entlebuch,3,German,German,False,38.7898065,1008
+1009,Werthenstein,3,316,Wahlkreis Entlebuch,3,German,German,False,15.899088,1009
+101,Steinmaur,1,104,Bezirk Dielsdorf,1,German,German,False,9.44048708749956,101
+1010,Escholzmatt-Marbach,3,316,Wahlkreis Entlebuch,3,German,German,False,106.394784,1010
+102,Weiach,1,104,Bezirk Dielsdorf,1,German,German,False,9.600089842778901,102
+1021,Aesch (LU),3,313,Wahlkreis Hochdorf,3,German,German,False,4.577601,1021
+1022,Altwis,3,313,Wahlkreis Hochdorf,3,German,German,False,2.9255685,1022
+1023,Ballwil,3,313,Wahlkreis Hochdorf,3,German,German,False,8.927197,1023
+1024,Emmen,3,313,Wahlkreis Hochdorf,3,German,German,False,20.35410818499901,1024
+1025,Ermensee,3,313,Wahlkreis Hochdorf,3,German,German,False,5.6880898374990245,1025
+1026,Eschenbach (LU),3,313,Wahlkreis Hochdorf,3,German,German,False,13.043584,1026
+1030,Hitzkirch,3,313,Wahlkreis Hochdorf,3,German,German,False,24.804734162500978,1030
+1031,Hochdorf,3,313,Wahlkreis Hochdorf,3,German,German,False,9.5953215,1031
+1032,Hohenrain,3,313,Wahlkreis Hochdorf,3,German,German,False,23.331755,1032
+1033,Inwil,3,313,Wahlkreis Hochdorf,3,German,German,False,10.11264945796662,1033
+1037,Rain,3,313,Wahlkreis Hochdorf,3,German,German,False,9.3027545,1037
+1039,Römerswil,3,313,Wahlkreis Hochdorf,3,German,German,False,16.6182875,1039
+1040,Rothenburg,3,313,Wahlkreis Hochdorf,3,German,German,False,15.5727795,1040
+1041,Schongau,3,313,Wahlkreis Hochdorf,3,German,German,False,12.684869,1041
+1051,Adligenswil,3,312,Wahlkreis Luzern-Land,3,German,German,False,6.997199,1051
+1052,Buchrain,3,312,Wahlkreis Luzern-Land,3,German,German,False,4.94283181312486,1052
+1053,Dierikon,3,312,Wahlkreis Luzern-Land,3,German,German,False,2.7674645,1053
+1054,Ebikon,3,312,Wahlkreis Luzern-Land,3,German,German,False,9.71392000187613,1054
+1055,Gisikon,3,312,Wahlkreis Luzern-Land,3,German,German,False,1.0314085,1055
+1056,Greppen,3,312,Wahlkreis Luzern-Land,3,German,German,False,3.1022165,1056
+1057,Honau,3,312,Wahlkreis Luzern-Land,3,German,German,False,1.3242605,1057
+1058,Horw,3,312,Wahlkreis Luzern-Land,3,German,German,False,13.18336549562519,1058
+1059,Kriens,3,312,Wahlkreis Luzern-Land,3,German,German,False,27.323430797501114,1059
+1061,Luzern,3,311,Wahlkreis Luzern-Stadt,3,German,German,False,29.3787685,1061
+1062,Malters,3,312,Wahlkreis Luzern-Land,3,German,German,False,28.8631235,1062
+1063,Meggen,3,312,Wahlkreis Luzern-Land,3,German,German,False,7.2421505,1063
+1064,Meierskappel,3,312,Wahlkreis Luzern-Land,3,German,German,False,6.8211385,1064
+1065,Root,3,312,Wahlkreis Luzern-Land,3,German,German,False,8.76224154203338,1065
+1066,Schwarzenberg,3,312,Wahlkreis Luzern-Land,3,German,German,False,39.29958750874824,1066
+1067,Udligenswil,3,312,Wahlkreis Luzern-Land,3,German,German,False,6.1854115,1067
+1068,Vitznau,3,312,Wahlkreis Luzern-Land,3,German,German,False,8.968645,1068
+1069,Weggis,3,312,Wahlkreis Luzern-Land,3,German,German,False,12.0578805,1069
+1081,Beromünster,3,314,Wahlkreis Sursee,3,German,German,False,42.14011799253644,1081
+1082,Büron,3,314,Wahlkreis Sursee,3,German,German,False,5.231331,1082
+1083,Buttisholz,3,314,Wahlkreis Sursee,3,German,German,False,16.578414,1083
+1084,Eich,3,314,Wahlkreis Sursee,3,German,German,False,6.072075,1084
+1085,Geuensee,3,314,Wahlkreis Sursee,3,German,German,False,6.5027265,1085
+1086,Grosswangen,3,314,Wahlkreis Sursee,3,German,German,False,19.712732,1086
+1088,Hildisrieden,3,314,Wahlkreis Sursee,3,German,German,False,7.0597335,1088
+1089,Knutwil,3,314,Wahlkreis Sursee,3,German,German,False,9.897754,1089
+1091,Mauensee,3,314,Wahlkreis Sursee,3,German,German,False,7.0920195,1091
+1093,Neuenkirch,3,314,Wahlkreis Sursee,3,German,German,False,25.4782235,1093
+1094,Nottwil,3,314,Wahlkreis Sursee,3,German,German,False,10.2922585,1094
+1095,Oberkirch,3,314,Wahlkreis Sursee,3,German,German,False,9.036652,1095
+1097,Rickenbach (LU),3,314,Wahlkreis Sursee,3,German,German,False,11.750363,1097
+1098,Ruswil,3,314,Wahlkreis Sursee,3,German,German,False,45.448731,1098
+1099,Schenkon,3,314,Wahlkreis Sursee,3,German,German,False,6.899396458090216,1099
+11,Ottenbach,1,101,Bezirk Affoltern,1,German,German,False,5.0550985,11
+1100,Schlierbach,3,314,Wahlkreis Sursee,3,German,German,False,7.172343,1100
+1102,Sempach,3,314,Wahlkreis Sursee,3,German,German,False,8.928151,1102
+1103,Sursee,3,314,Wahlkreis Sursee,3,German,German,False,6.011872,1103
+1104,Triengen,3,314,Wahlkreis Sursee,3,German,German,False,21.9715595,1104
+1107,Wolhusen,3,316,Wahlkreis Entlebuch,3,German,German,False,14.0891255,1107
+111,Bäretswil,1,105,Bezirk Hinwil,1,German,German,False,22.170486,111
+112,Bubikon,1,105,Bezirk Hinwil,1,German,German,False,11.4364065,112
+1121,Alberswil,3,315,Wahlkreis Willisau,3,German,German,False,3.468286,1121
+1122,Altbüron,3,315,Wahlkreis Willisau,3,German,German,False,6.67163,1122
+1123,Altishofen,3,315,Wahlkreis Willisau,3,German,German,False,14.20913285437566,1126
+1125,Dagmersellen,3,315,Wahlkreis Willisau,3,German,German,False,23.85483,1125
+1127,Egolzwil,3,315,Wahlkreis Willisau,3,German,German,False,4.173135,1127
+1128,Ettiswil,3,315,Wahlkreis Willisau,3,German,German,False,12.566665,1128
+1129,Fischbach,3,315,Wahlkreis Willisau,3,German,German,False,8.4735855,1129
+113,Dürnten,1,105,Bezirk Hinwil,1,German,German,False,10.3090605,113
+1130,Gettnau,3,315,Wahlkreis Willisau,3,German,German,False,5.915134,1130
+1131,Grossdietwil,3,315,Wahlkreis Willisau,3,German,German,False,10.1057375,1131
+1132,Hergiswil bei Willisau,3,315,Wahlkreis Willisau,3,German,German,False,31.3426935,1132
+1135,Luthern,3,315,Wahlkreis Willisau,3,German,German,False,37.8298045,1135
+1136,Menznau,3,315,Wahlkreis Willisau,3,German,German,False,30.412268,1136
+1137,Nebikon,3,315,Wahlkreis Willisau,3,German,German,False,3.7286045,1137
+1139,Pfaffnau,3,315,Wahlkreis Willisau,3,German,German,False,17.588376,1139
+114,Fischenthal,1,105,Bezirk Hinwil,1,German,German,False,30.346233,114
+1140,Reiden,3,315,Wahlkreis Willisau,3,German,German,False,26.986918558751054,1140
+1142,Roggliswil,3,315,Wahlkreis Willisau,3,German,German,False,6.287263,1142
+1143,Schötz,3,315,Wahlkreis Willisau,3,German,German,False,15.377035645624339,1143
+1145,Ufhusen,3,315,Wahlkreis Willisau,3,German,German,False,12.026936848976472,1145
+1146,Wauwil,3,315,Wahlkreis Willisau,3,German,German,False,2.877097,1146
+1147,Wikon,3,315,Wahlkreis Willisau,3,German,German,False,8.365108711875884,1147
+115,Gossau (ZH),1,105,Bezirk Hinwil,1,German,German,False,18.2531915,115
+1150,Zell (LU),3,315,Wahlkreis Willisau,3,German,German,False,13.895379651023527,1150
+1151,Willisau,3,315,Wahlkreis Willisau,3,German,German,False,41.2958295,1151
+116,Grüningen,1,105,Bezirk Hinwil,1,German,German,False,8.8984485,116
+117,Hinwil,1,105,Bezirk Hinwil,1,German,German,False,22.1832735,117
+118,Rüti (ZH),1,105,Bezirk Hinwil,1,German,German,False,10.09651006809924,118
+119,Seegräben,1,105,Bezirk Hinwil,1,German,German,False,3.77004,119
+12,Rifferswil,1,101,Bezirk Affoltern,1,German,German,False,6.3825805,12
+120,Wald (ZH),1,105,Bezirk Hinwil,1,German,German,False,25.316867306874983,120
+1201,Altdorf (UR),4,400,Uri (KT),4,German,German,False,10.142990709373544,1201
+1202,Andermatt,4,400,Uri (KT),4,German,German,False,62.22722049499993,1202
+1203,Attinghausen,4,400,Uri (KT),4,German,German,False,46.40452220500116,1203
+1204,Bauen,4,400,Uri (KT),4,German,German,False,4.01668,1204
+1205,Bürglen (UR),4,400,Uri (KT),4,German,German,False,53.096267406248614,1205
+1206,Erstfeld,4,400,Uri (KT),4,German,German,False,59.340793550115734,1206
+1207,Flüelen,4,400,Uri (KT),4,German,German,False,12.396576188595551,1207
+1208,Göschenen,4,400,Uri (KT),4,German,German,False,104.0427529262519,1208
+1209,Gurtnellen,4,400,Uri (KT),4,German,German,False,83.81072877378885,1209
+121,Wetzikon (ZH),1,105,Bezirk Hinwil,1,German,German,False,16.8087595,121
+1210,Hospental,4,400,Uri (KT),4,German,German,False,34.96683263749535,1210
+1211,Isenthal,4,400,Uri (KT),4,German,German,False,61.1583775,1211
+1212,Realp,4,400,Uri (KT),4,German,German,False,78.093850015625,1212
+1213,Schattdorf,4,400,Uri (KT),4,German,German,False,16.56920188562828,1213
+1214,Seedorf (UR),4,400,Uri (KT),4,German,German,False,15.8659255,1214
+1215,Seelisberg,4,400,Uri (KT),4,German,German,False,13.625927,1215
+1216,Silenen,4,400,Uri (KT),4,German,German,False,144.5542619748439,1216
+1217,Sisikon,4,400,Uri (KT),4,German,German,False,16.714380316408473,1217
+1218,Spiringen,4,400,Uri (KT),4,German,German,False,64.8239365,1218
+1219,Unterschächen,4,400,Uri (KT),4,German,German,False,80.2569305,1219
+1220,Wassen,4,400,Uri (KT),4,German,German,False,96.6751695,1220
+13,Stallikon,1,101,Bezirk Affoltern,1,German,German,False,12.158354,13
+1301,Einsiedeln,5,501,Bezirk Einsiedeln,5,German,German,False,99.2331842199766,1301
+131,Adliswil,1,106,Bezirk Horgen,1,German,German,False,7.7012165,131
+1311,Gersau,5,502,Bezirk Gersau,5,German,German,False,14.654205,1311
+1321,Feusisberg,5,503,Bezirk Höfe,5,German,German,False,17.590106561253034,1321
+1322,Freienbach,5,503,Bezirk Höfe,5,German,German,False,14.026227,1322
+1323,Wollerau,5,503,Bezirk Höfe,5,German,German,False,6.4324395,1323
+1331,Küssnacht (SZ),5,504,Bezirk Küssnacht (SZ),5,German,German,False,29.9818955,1331
+1341,Altendorf,5,505,Bezirk March,5,German,German,False,20.5438035,1341
+1342,Galgenen,5,505,Bezirk March,5,German,German,False,13.551294,1342
+1343,Innerthal,5,505,Bezirk March,5,German,German,False,50.07990896875054,1343
+1344,Lachen,5,505,Bezirk March,5,German,German,False,2.6326215,1344
+1345,Reichenburg,5,505,Bezirk March,5,German,German,False,11.651690079876124,1345
+1346,Schübelbach,5,505,Bezirk March,5,German,German,False,28.58457738749877,1346
+1347,Tuggen,5,505,Bezirk March,5,German,German,False,14.136506,1347
+1348,Vorderthal,5,505,Bezirk March,5,German,German,False,27.795302143750696,1348
+1349,Wangen (SZ),5,505,Bezirk March,5,German,German,False,8.4269635,1349
+135,Kilchberg (ZH),1,106,Bezirk Horgen,1,German,German,False,2.750942,135
+136,Langnau am Albis,1,106,Bezirk Horgen,1,German,German,False,8.8737015,136
+1361,Alpthal,5,506,Bezirk Schwyz,5,German,German,False,22.76218258439364,1361
+1362,Arth,5,506,Bezirk Schwyz,5,German,German,False,43.043808,1362
+1363,Illgau,5,506,Bezirk Schwyz,5,German,German,False,10.6872175,1363
+1364,Ingenbohl,5,506,Bezirk Schwyz,5,German,German,False,13.7959775,1364
+1365,Lauerz,5,506,Bezirk Schwyz,5,German,German,False,9.1571095,1365
+1366,Morschach,5,506,Bezirk Schwyz,5,German,German,False,20.902929294453628,1366
+1367,Muotathal,5,506,Bezirk Schwyz,5,German,German,False,171.7943945,1367
+1368,Oberiberg,5,506,Bezirk Schwyz,5,German,German,False,32.885124847500755,1368
+1369,Riemenstalden,5,506,Bezirk Schwyz,5,German,German,False,11.116115200542344,1369
+137,Oberrieden,1,106,Bezirk Horgen,1,German,German,False,3.029709,137
+1370,Rothenthurm,5,506,Bezirk Schwyz,5,German,German,False,22.886872,1370
+1371,Sattel,5,506,Bezirk Schwyz,5,German,German,False,17.372174709999967,1371
+1372,Schwyz,5,506,Bezirk Schwyz,5,German,German,False,53.406871290000026,1372
+1373,Steinen,5,506,Bezirk Schwyz,5,German,German,False,11.7277985,1373
+1374,Steinerberg,5,506,Bezirk Schwyz,5,German,German,False,7.0122185,1374
+1375,Unteriberg,5,506,Bezirk Schwyz,5,German,German,False,46.53659315437474,1375
+138,Richterswil,1,106,Bezirk Horgen,1,German,German,False,7.702862,138
+139,Rüschlikon,1,106,Bezirk Horgen,1,German,German,False,3.090254,139
+14,Wettswil am Albis,1,101,Bezirk Affoltern,1,German,German,False,3.7420195,14
+1401,Alpnach,6,600,Obwalden (KT),6,German,German,False,54.0706963431972,1401
+1402,Engelberg,6,600,Obwalden (KT),6,German,German,False,74.8900525,1402
+1403,Giswil,6,600,Obwalden (KT),6,German,German,False,86.47111385312343,1403
+1404,Kerns,6,600,Obwalden (KT),6,German,German,False,92.23607369086025,1404
+1405,Lungern,6,600,Obwalden (KT),6,German,German,False,46.508222,1405
+1406,Sachseln,6,600,Obwalden (KT),6,German,German,False,54.1154095,1406
+1407,Sarnen,6,600,Obwalden (KT),6,German,German,False,73.56186722094867,1407
+141,Thalwil,1,106,Bezirk Horgen,1,German,German,False,5.6143315,141
+1501,Beckenried,7,700,Nidwalden (KT),7,German,German,False,24.448986,1501
+1502,Buochs,7,700,Nidwalden (KT),7,German,German,False,10.102955,1502
+1503,Dallenwil,7,700,Nidwalden (KT),7,German,German,False,15.65479,1503
+1504,Emmetten,7,700,Nidwalden (KT),7,German,German,False,24.8949395,1504
+1505,Ennetbürgen,7,700,Nidwalden (KT),7,German,German,False,9.5287965,1505
+1506,Ennetmoos,7,700,Nidwalden (KT),7,German,German,False,14.0448095,1506
+1507,Hergiswil (NW),7,700,Nidwalden (KT),7,German,German,False,14.851325251248937,1507
+1508,Oberdorf (NW),7,700,Nidwalden (KT),7,German,German,False,16.151264,1508
+1509,Stans,7,700,Nidwalden (KT),7,German,German,False,11.131033,1509
+151,Erlenbach (ZH),1,107,Bezirk Meilen,1,German,German,False,3.053975,151
+1510,Stansstad,7,700,Nidwalden (KT),7,German,German,False,9.328169957501345,1510
+1511,Wolfenschiessen,7,700,Nidwalden (KT),7,German,German,False,92.8117295,1511
+152,Herrliberg,1,107,Bezirk Meilen,1,German,German,False,9.148067,152
+153,Hombrechtikon,1,107,Bezirk Meilen,1,German,German,False,12.1336145,153
+154,Küsnacht (ZH),1,107,Bezirk Meilen,1,German,German,False,12.392751,154
+155,Männedorf,1,107,Bezirk Meilen,1,German,German,False,4.855979,155
+156,Meilen,1,107,Bezirk Meilen,1,German,German,False,12.200823,156
+157,Oetwil am See,1,107,Bezirk Meilen,1,German,German,False,6.1923805,157
+158,Stäfa,1,107,Bezirk Meilen,1,German,German,False,8.8839055,158
+159,Uetikon am See,1,107,Bezirk Meilen,1,German,German,False,3.6089605,159
+160,Zumikon,1,107,Bezirk Meilen,1,German,German,False,5.5260475,160
+161,Zollikon,1,107,Bezirk Meilen,1,German,German,False,8.074834,161
+1630,Glarus Nord,8,800,Glarus (KT),8,German,German,False,147.26034001000116,1630
+1631,Glarus Süd,8,800,Glarus (KT),8,German,German,False,430.6037245,1631
+1632,Glarus,8,800,Glarus (KT),8,German,German,False,103.8073095,1632
+1701,Baar,9,900,Zug (KT),9,German,German,False,24.950398770000085,1701
+1702,Cham,9,900,Zug (KT),9,German,German,False,17.6281455,1702
+1703,Hünenberg,9,900,Zug (KT),9,German,German,False,18.4752955,1703
+1704,Menzingen,9,900,Zug (KT),9,German,German,False,27.67659598062489,1704
+1705,Neuheim,9,900,Zug (KT),9,German,German,False,8.100298,1705
+1706,Oberägeri,9,900,Zug (KT),9,German,German,False,30.601122632501237,1706
+1707,Risch,9,900,Zug (KT),9,German,German,False,15.2889585,1707
+1708,Steinhausen,9,900,Zug (KT),9,German,German,False,4.877068,1708
+1709,Unterägeri,9,900,Zug (KT),9,German,German,False,25.797059249375025,1709
+1710,Walchwil,9,900,Zug (KT),9,German,German,False,14.008542431874764,1710
+1711,Zug,9,900,Zug (KT),9,German,German,False,22.42600656812524,1711
+172,Fehraltorf,1,108,Bezirk Pfäffikon,1,German,German,False,9.356832,172
+173,Hittnau,1,108,Bezirk Pfäffikon,1,German,German,False,13.2017265,173
+176,Lindau,1,108,Bezirk Pfäffikon,1,German,German,False,12.105872,176
+177,Pfäffikon,1,108,Bezirk Pfäffikon,1,German,German,False,19.434282,177
+178,Russikon,1,108,Bezirk Pfäffikon,1,German,German,False,14.134977,178
+180,Weisslingen,1,108,Bezirk Pfäffikon,1,German,German,False,12.962843,180
+181,Wila,1,108,Bezirk Pfäffikon,1,German,German,False,9.310658696731906,181
+182,Wildberg,1,108,Bezirk Pfäffikon,1,German,German,False,10.38679550937528,182
+191,Dübendorf,1,109,Bezirk Uster,1,German,German,False,13.5821665,191
+192,Egg,1,109,Bezirk Uster,1,German,German,False,14.540029,192
+193,Fällanden,1,109,Bezirk Uster,1,German,German,False,6.464567,193
+194,Greifensee,1,109,Bezirk Uster,1,German,German,False,2.2999855,194
+195,Maur,1,109,Bezirk Uster,1,German,German,False,14.86052,195
+196,Mönchaltorf,1,109,Bezirk Uster,1,German,German,False,7.468784,196
+197,Schwerzenbach,1,109,Bezirk Uster,1,German,German,False,2.63512,197
+198,Uster,1,109,Bezirk Uster,1,German,German,False,28.603014,198
+199,Volketswil,1,109,Bezirk Uster,1,German,German,False,13.9979955,199
+2,Affoltern am Albis,1,101,Bezirk Affoltern,1,German,German,False,10.566186334999138,2
+200,Wangen-Brüttisellen,1,109,Bezirk Uster,1,German,German,False,7.859843028750252,200
+2008,Châtillon (FR),10,1001,District de la Broye,10,French,French,False,1.3060485,2008
+2009,Cheiry,10,1001,District de la Broye,10,French,French,False,6.480985506483502,2009
+2011,Cugy (FR),10,1001,District de la Broye,10,French,French,False,9.852076884500978,2011
+2016,Fétigny,10,1001,District de la Broye,10,French,French,False,4.110091682710111,2016
+2022,Gletterens,10,1001,District de la Broye,10,French,French,False,3.081837,2022
+2025,Lully (FR),10,1001,District de la Broye,10,French,French,False,5.548191659867683,2025
+2027,Ménières,10,1001,District de la Broye,10,French,French,False,4.448998874441997,2027
+2029,Montagny (FR),10,1001,District de la Broye,10,French,French,False,17.526635013201442,2029
+2035,Nuvilly,10,1001,District de la Broye,10,French,French,False,3.9430334279236385,2035
+2038,Prévondavaux,10,1001,District de la Broye,10,French,French,False,1.837053493516498,2038
+2041,Saint-Aubin (FR),10,1001,District de la Broye,10,French,French,False,8.064799947123694,2041
+2043,Sévaz,10,1001,District de la Broye,10,French,French,False,2.406680539102359,2043
+2044,Surpierre,10,1001,District de la Broye,10,French,French,False,8.3615305,2044
+2045,Vallon,10,1001,District de la Broye,10,French,French,False,3.5420915,2045
+2050,Les Montets,10,1001,District de la Broye,10,French,French,False,10.158120238648728,2050
+2051,Delley-Portalban,10,1001,District de la Broye,10,French,French,False,7.2791225,2051
+2053,Belmont-Broye,10,1001,District de la Broye,10,French,French,False,25.813191022257016,2013
+2054,Estavayer,10,1001,District de la Broye,10,French,French,False,40.64116017437409,2034
+2055,Cheyres-Châbles,10,1001,District de la Broye,10,French,French,False,9.75491616124853,2010
+2061,Auboranges,10,1002,District de la Glâne,10,French,French,False,1.8106425,2061
+2063,Billens-Hennens,10,1002,District de la Glâne,10,French,French,False,4.817498499151071,2063
+2066,Chapelle (Glâne),10,1002,District de la Glâne,10,French,French,False,1.9274555,2066
+2067,Le Châtelard,10,1002,District de la Glâne,10,French,French,False,7.439835608125652,2067
+2068,Châtonnaye,10,1002,District de la Glâne,10,French,French,False,6.376614558747232,2068
+2072,Ecublens (FR),10,1002,District de la Glâne,10,French,French,False,4.7620605,2072
+2079,Grangettes,10,1002,District de la Glâne,10,French,French,False,3.281058,2079
+2086,Massonnens,10,1002,District de la Glâne,10,French,French,False,4.274747063122664,2086
+2087,Mézières (FR),10,1002,District de la Glâne,10,French,French,False,8.867868050624907,2087
+2089,Montet (Glâne),10,1002,District de la Glâne,10,French,French,False,2.1244625,2089
+2096,Romont (FR),10,1002,District de la Glâne,10,French,French,False,10.982706,2096
+2097,Rue,10,1002,District de la Glâne,10,French,French,False,11.2730835,2097
+2099,Siviriez,10,1002,District de la Glâne,10,French,French,False,20.18483545022402,2099
+21,Adlikon,1,102,Bezirk Andelfingen,1,German,German,False,6.619977897500109,21
+2102,Ursy,10,1002,District de la Glâne,10,French,French,False,15.1151425,2102
+211,Altikon,1,110,Bezirk Winterthur,1,German,German,False,7.558536,211
+2117,Villaz,10,1002,District de la Glâne,10,French,French,False,15.401173088753113,2116
+2113,Vuisternens-devant-Romont,10,1002,District de la Glâne,10,French,French,False,24.074832,2113
+2114,Villorsonnens,10,1002,District de la Glâne,10,French,French,False,15.587236705000906,2114
+2115,Torny,10,1002,District de la Glâne,10,French,French,False,10.151391,2115
+2121,Haut-Intyamon,10,1003,District de la Gruyère,10,French,French,False,60.14710318874865,2121
+2122,Pont-en-Ogoz,10,1003,District de la Gruyère,10,French,French,False,9.927886456876847,2122
+2123,Botterens,10,1003,District de la Gruyère,10,French,French,False,3.997056,2123
+2124,Broc,10,1003,District de la Gruyère,10,French,French,False,9.9063955,2124
+2125,Bulle,10,1003,District de la Gruyère,10,French,French,False,23.809406433473082,2125
+2128,Châtel-sur-Montsalvens,10,1003,District de la Gruyère,10,French,French,False,1.9934745,2128
+2129,Corbières,10,1003,District de la Gruyère,10,French,French,False,9.7481055,2129
+213,Brütten,1,110,Bezirk Winterthur,1,German,German,False,6.540015,213
+2130,Crésuz,10,1003,District de la Gruyère,10,French,French,False,1.8424705,2130
+2131,Echarlens,10,1003,District de la Gruyère,10,French,French,False,4.7069825,2131
+2134,Grandvillard,10,1003,District de la Gruyère,10,French,French,False,24.23078022885482,2134
+2135,Gruyères,10,1003,District de la Gruyère,10,French,French,False,28.4146814704803,2135
+2137,Hauteville,10,1003,District de la Gruyère,10,French,French,False,10.487183,2137
+2138,Jaun,10,1003,District de la Gruyère,10,German,German,False,54.90356121375146,2138
+214,Dägerlen,1,110,Bezirk Winterthur,1,German,German,False,7.8392765,214
+2140,Marsens,10,1003,District de la Gruyère,10,French,French,False,7.8026926081261445,2140
+2143,Morlon,10,1003,District de la Gruyère,10,French,French,False,2.3042635,2143
+2145,Le Pâquier (FR),10,1003,District de la Gruyère,10,French,French,False,4.4660735,2145
+2147,Pont-la-Ville,10,1003,District de la Gruyère,10,French,French,False,4.3592305,2147
+2148,Riaz,10,1003,District de la Gruyère,10,French,French,False,7.531459926245067,2148
+2149,La Roche,10,1003,District de la Gruyère,10,French,French,False,24.095924560878164,2149
+215,Dättlikon,1,110,Bezirk Winterthur,1,German,German,False,2.8754525,215
+2152,Sâles,10,1003,District de la Gruyère,10,French,French,False,18.9259325,2152
+2153,Sorens,10,1003,District de la Gruyère,10,French,French,False,8.783538043123153,2153
+2155,Vaulruz,10,1003,District de la Gruyère,10,French,French,False,10.4777265,2155
+216,Dinhard,1,110,Bezirk Winterthur,1,German,German,False,7.1672195,216
+2160,Vuadens,10,1003,District de la Gruyère,10,French,French,False,10.25424731480051,2160
+2162,Bas-Intyamon,10,1003,District de la Gruyère,10,French,French,False,33.21893958239653,2162
+2163,Val-de-Charmey,10,1003,District de la Gruyère,10,French,French,False,112.11994765169239,2163
+2171,Arconciel,10,1004,District de la Sarine,10,French,French,False,5.9857,2171
+2173,Autigny,10,1004,District de la Sarine,10,French,French,False,6.150391,2173
+2174,Avry,10,1004,District de la Sarine,10,French,French,False,5.949979,2174
+2175,Belfaux,10,1004,District de la Sarine,10,French,French,False,8.9826195,2175
+2177,Chénens,10,1004,District de la Sarine,10,French,French,False,4.0027205,2177
+218,Ellikon an der Thur,1,110,Bezirk Winterthur,1,German,German,False,5.0918165,218
+2183,Corminboeuf,10,1004,District de la Sarine,10,French,French,False,7.310965562501781,2183
+2186,Cottens (FR),10,1004,District de la Sarine,10,French,French,False,4.952035,2186
+2189,Ependes (FR),10,1004,District de la Sarine,10,French,French,False,5.8161465,2189
+219,Elsau,1,110,Bezirk Winterthur,1,German,German,False,8.053257,219
+2194,Ferpicloz,10,1004,District de la Sarine,10,French,French,False,0.9276715,2194
+2196,Fribourg,10,1004,District de la Sarine,10,French,French,False,9.351475,2196
+2197,Givisiez,10,1004,District de la Sarine,10,French,French,False,3.3061709730611883,2197
+2198,Granges-Paccot,10,1004,District de la Sarine,10,French,French,False,3.9694465,2198
+22,Benken (ZH),1,102,Bezirk Andelfingen,1,German,German,False,5.5369855,22
+220,Hagenbuch,1,110,Bezirk Winterthur,1,German,German,False,8.123394,220
+2200,Grolley,10,1004,District de la Sarine,10,French,French,False,5.301578,2200
+2206,Marly,10,1004,District de la Sarine,10,French,French,False,7.7855825,2206
+2208,Matran,10,1004,District de la Sarine,10,French,French,False,2.860059080000162,2208
+221,Hettlingen,1,110,Bezirk Winterthur,1,German,German,False,5.8372395,221
+2211,Neyruz (FR),10,1004,District de la Sarine,10,French,French,False,5.464175,2211
+2216,Pierrafortscha,10,1004,District de la Sarine,10,French,French,False,4.951166784999974,2216
+2217,Ponthaux,10,1004,District de la Sarine,10,French,French,False,5.893363,2217
+2220,Le Mouret,10,1004,District de la Sarine,10,French,French,False,18.806306674998034,2220
+2237,Prez,10,1004,District de la Sarine,10,French,French,False,15.8933755,2213
+2225,Senèdes,10,1004,District de la Sarine,10,French,French,False,0.5138665,2225
+2226,Treyvaux,10,1004,District de la Sarine,10,French,French,False,11.402763939121833,2226
+2228,Villars-sur-Glâne,10,1004,District de la Sarine,10,French,French,False,5.642300964437031,2228
+223,Neftenbach,1,110,Bezirk Winterthur,1,German,German,False,14.919392484374667,223
+2230,Villarsel-sur-Marly,10,1004,District de la Sarine,10,French,French,False,1.230542,2230
+2233,Hauterive (FR),10,1004,District de la Sarine,10,French,French,False,12.057416419999837,2233
+2234,La Brillaz,10,1004,District de la Sarine,10,French,French,False,10.310387,2234
+2235,La Sonnaz,10,1004,District de la Sarine,10,French,French,False,7.013105910627168,2235
+2236,Gibloux,10,1004,District de la Sarine,10,French,French,False,35.948717976250435,2223
+224,Pfungen,1,110,Bezirk Winterthur,1,German,German,False,5.0955615,224
+225,Rickenbach (ZH),1,110,Bezirk Winterthur,1,German,German,False,5.9098935,225
+2250,Courgevaux,10,1005,Bezirk See / District du Lac,10,French,German,True,3.359753,2250
+2254,Courtepin,10,1005,Bezirk See / District du Lac,10,French,French,True,21.854002614289303,2243
+2257,Cressier (FR),10,1005,Bezirk See / District du Lac,10,German,French,True,4.150542849842163,2257
+2258,Fräschels,10,1005,Bezirk See / District du Lac,10,German,German,True,3.161931,2258
+2259,Galmiz,10,1005,Bezirk See / District du Lac,10,German,German,True,9.258167667678759,2259
+226,Schlatt (ZH),1,110,Bezirk Winterthur,1,German,German,False,8.7787875,226
+2260,Gempenach,10,1005,Bezirk See / District du Lac,10,German,German,True,1.6285251296990737,2260
+2261,Greng,10,1005,Bezirk See / District du Lac,10,German,German,True,0.9882815,2261
+2262,Gurmels,10,1005,Bezirk See / District du Lac,10,German,German,True,17.191047492750993,2262
+2265,Kerzers,10,1005,Bezirk See / District du Lac,10,German,German,True,12.156788739063343,2265
+2266,Kleinbösingen,10,1005,Bezirk See / District du Lac,10,German,German,True,2.9445895024996234,2266
+227,Seuzach,1,110,Bezirk Winterthur,1,German,German,False,7.6252425,227
+2271,Meyriez,10,1005,Bezirk See / District du Lac,10,German,German,True,0.365105,2271
+2272,Misery-Courtion,10,1005,Bezirk See / District du Lac,10,French,French,True,11.290759370238138,2272
+2274,Muntelier,10,1005,Bezirk See / District du Lac,10,German,German,True,1.3012168062765332,2274
+2275,Murten,10,1005,Bezirk See / District du Lac,10,German,German,True,24.75091656671536,2275
+2276,Ried bei Kerzers,10,1005,Bezirk See / District du Lac,10,German,German,True,7.5562736733559746,2276
+2278,Ulmiz,10,1005,Bezirk See / District du Lac,10,German,German,True,2.927445089457978,2278
+228,Turbenthal,1,110,Bezirk Winterthur,1,German,German,False,25.485520503892914,228
+2284,Mont-Vully,10,1005,Bezirk See / District du Lac,10,French,French,True,17.248855,2280
+2291,Alterswil,10,1006,Bezirk Sense,10,German,German,False,16.1625915,2291
+2292,Brünisried,10,1006,Bezirk Sense,10,German,German,False,3.1564445,2292
+2293,Düdingen,10,1006,Bezirk Sense,10,German,German,False,30.661433968528243,2293
+2294,Giffers,10,1006,Bezirk Sense,10,German,German,False,5.3737461768407275,2294
+2295,Bösingen,10,1006,Bezirk Sense,10,German,German,False,14.3863995,2295
+2296,Heitenried,10,1006,Bezirk Sense,10,German,German,False,9.087492239998946,2296
+2299,Plaffeien,10,1006,Bezirk Sense,10,German,German,False,66.44440013455615,2299
+23,Berg am Irchel,1,102,Bezirk Andelfingen,1,German,German,False,7.1323145,23
+230,Winterthur,1,110,Bezirk Winterthur,1,German,German,False,67.9263215,230
+2300,Plasselb,10,1006,Bezirk Sense,10,German,German,False,18.130074526877223,2300
+2301,Rechthalten,10,1006,Bezirk Sense,10,German,German,False,7.277056816853837,2301
+2302,St. Antoni,10,1006,Bezirk Sense,10,German,German,False,16.628658,2302
+2303,St. Silvester,10,1006,Bezirk Sense,10,German,German,False,6.821122816875881,2303
+2304,St. Ursen,10,1006,Bezirk Sense,10,German,German,False,15.860367838808406,2304
+2305,Schmitten (FR),10,1006,Bezirk Sense,10,German,German,False,13.736781,2305
+2306,Tafers,10,1006,Bezirk Sense,10,German,German,False,8.370667,2306
+2307,Tentlingen,10,1006,Bezirk Sense,10,German,German,False,3.6847588637459165,2307
+2308,Ueberstorf,10,1006,Bezirk Sense,10,German,German,False,16.088736,2308
+2309,Wünnewil-Flamatt,10,1006,Bezirk Sense,10,German,German,False,13.377687,2309
+231,Zell (ZH),1,110,Bezirk Winterthur,1,German,German,False,13.13974475,231
+2321,Attalens,10,1007,District de la Veveyse,10,French,French,False,9.7202365,2321
+2323,Bossonnens,10,1007,District de la Veveyse,10,French,French,False,4.071409,2323
+2325,Châtel-Saint-Denis,10,1007,District de la Veveyse,10,French,French,False,47.631580881486805,2325
+2328,Granges (Veveyse),10,1007,District de la Veveyse,10,French,French,False,4.5831055,2328
+2333,Remaufens,10,1007,District de la Veveyse,10,French,French,False,5.9992025,2333
+2335,Saint-Martin (FR),10,1007,District de la Veveyse,10,French,French,False,9.935061538749945,2335
+2336,Semsales,10,1007,District de la Veveyse,10,French,French,False,29.5249554016961,2336
+2337,Le Flon,10,1007,District de la Veveyse,10,French,French,False,9.634789,2337
+2338,La Verrerie,10,1007,District de la Veveyse,10,French,French,False,13.04886751119204,2338
+24,Buch am Irchel,1,102,Bezirk Andelfingen,1,German,German,False,10.076341515625334,24
+2401,Egerkingen,11,1101,Bezirk Gäu,11,German,German,False,6.8605915,2401
+2402,Härkingen,11,1101,Bezirk Gäu,11,German,German,False,5.637832,2402
+2403,Kestenholz,11,1101,Bezirk Gäu,11,German,German,False,8.7295835,2403
+2404,Neuendorf,11,1101,Bezirk Gäu,11,German,German,False,7.25595,2404
+2405,Niederbuchsiten,11,1101,Bezirk Gäu,11,German,German,False,5.443959,2405
+2406,Oberbuchsiten,11,1101,Bezirk Gäu,11,German,German,False,9.275453659374937,2406
+2407,Oensingen,11,1101,Bezirk Gäu,11,German,German,False,12.022798185625355,2407
+2408,Wolfwil,11,1101,Bezirk Gäu,11,German,German,False,6.767875704998818,2408
+241,Aesch (ZH),1,111,Bezirk Dietikon,1,German,German,False,5.3497395,241
+242,Birmensdorf (ZH),1,111,Bezirk Dietikon,1,German,German,False,11.5772945,242
+2421,Aedermannsdorf,11,1102,Bezirk Thal,11,German,German,False,12.759925276250348,2421
+2422,Balsthal,11,1102,Bezirk Thal,11,German,German,False,15.530477654999707,2422
+2423,Gänsbrunnen,11,1102,Bezirk Thal,11,German,German,False,11.6249585,2423
+2424,Herbetswil,11,1102,Bezirk Thal,11,German,German,False,16.33446402124969,2424
+2425,Holderbank (SO),11,1102,Bezirk Thal,11,German,German,False,7.8055675,2425
+2426,Laupersdorf,11,1102,Bezirk Thal,11,German,German,False,15.6309335,2426
+2427,Matzendorf,11,1102,Bezirk Thal,11,German,German,False,11.397374,2427
+2428,Mümliswil-Ramiswil,11,1102,Bezirk Thal,11,German,German,False,35.62221720249996,2428
+2429,Welschenrohr,11,1102,Bezirk Thal,11,German,German,False,13.020923,2429
+243,Dietikon,1,111,Bezirk Dietikon,1,German,German,False,9.367181,243
+244,Geroldswil,1,111,Bezirk Dietikon,1,German,German,False,1.9093375,244
+2445,Biezwil,11,1103,Bezirk Bucheggberg,11,German,German,False,4.199173,2445
+245,Oberengstringen,1,111,Bezirk Dietikon,1,German,German,False,2.0712025,245
+2455,Lüterkofen-Ichertswil,11,1103,Bezirk Bucheggberg,11,German,German,False,4.3927175,2455
+2456,Lüterswil-Gächliwil,11,1103,Bezirk Bucheggberg,11,German,German,False,3.012036,2456
+2457,Messen,11,1103,Bezirk Bucheggberg,11,German,German,False,11.8290965,2457
+246,Oetwil an der Limmat,1,111,Bezirk Dietikon,1,German,German,False,2.7346295,246
+2461,Schnottwil,11,1103,Bezirk Bucheggberg,11,German,German,False,6.979351,2461
+2463,Unterramsern,11,1103,Bezirk Bucheggberg,11,German,German,False,1.599282,2463
+2464,Lüsslingen-Nennigkofen,11,1103,Bezirk Bucheggberg,11,German,German,False,7.930122,2464
+2465,Buchegg,11,1103,Bezirk Bucheggberg,11,German,German,False,22.51999,2465
+247,Schlieren,1,111,Bezirk Dietikon,1,German,German,False,6.613897891875282,247
+2471,Bättwil,11,1104,Bezirk Dorneck,11,German,German,False,1.5360778020211114,2471
+2472,Büren (SO),11,1104,Bezirk Dorneck,11,German,German,False,6.113725551508891,2472
+2473,Dornach,11,1104,Bezirk Dorneck,11,German,German,False,5.702144336874176,2473
+2474,Gempen,11,1104,Bezirk Dorneck,11,German,German,False,6.043496,2474
+2475,Hochwald,11,1104,Bezirk Dorneck,11,German,German,False,8.333207,2475
+2476,Hofstetten-Flüh,11,1104,Bezirk Dorneck,11,German,German,False,7.579642798460953,2476
+2477,Metzerlen-Mariastein,11,1104,Bezirk Dorneck,11,German,German,False,8.438237743233117,2477
+2478,Nuglar-St. Pantaleon,11,1104,Bezirk Dorneck,11,German,German,False,6.305985163122695,2478
+2479,Rodersdorf,11,1104,Bezirk Dorneck,11,German,German,False,5.310149779962328,2479
+248,Uitikon,1,111,Bezirk Dietikon,1,German,German,False,4.272109,248
+2480,Seewen,11,1104,Bezirk Dorneck,11,German,German,False,16.453835,2480
+2481,Witterswil,11,1104,Bezirk Dorneck,11,German,German,False,2.678016,2481
+249,Unterengstringen,1,111,Bezirk Dietikon,1,German,German,False,3.047681608124718,249
+2491,Hauenstein-Ifenthal,11,1105,Bezirk Gösgen,11,German,German,False,5.214241562501419,2491
+2492,Kienberg,11,1105,Bezirk Gösgen,11,German,German,False,8.486919741252816,2492
+2493,Lostorf,11,1105,Bezirk Gösgen,11,German,German,False,13.0938055,2493
+2495,Niedergösgen,11,1105,Bezirk Gösgen,11,German,German,False,4.2686375,2495
+2497,Obergösgen,11,1105,Bezirk Gösgen,11,German,German,False,3.612858,2497
+2498,Rohr (SO),11,1105,Bezirk Gösgen,11,German,German,False,2.2232075,2498
+2499,Stüsslingen,11,1105,Bezirk Gösgen,11,German,German,False,6.1828005,2499
+25,Dachsen,1,102,Bezirk Andelfingen,1,German,German,False,2.779356073122688,25
+250,Urdorf,1,111,Bezirk Dietikon,1,German,German,False,7.604603,250
+2500,Trimbach,11,1105,Bezirk Gösgen,11,German,German,False,7.668428437498581,2500
+2501,Winznau,11,1105,Bezirk Gösgen,11,German,German,False,3.9286725,2501
+2502,Wisen (SO),11,1105,Bezirk Gösgen,11,German,German,False,4.767427647498816,2502
+2503,Erlinsbach (SO),11,1105,Bezirk Gösgen,11,German,German,False,8.725233626874742,2503
+251,Weiningen (ZH),1,111,Bezirk Dietikon,1,German,German,False,5.6625315,251
+2511,Aeschi (SO),11,1106,Bezirk Wasseramt,11,German,German,False,5.4240949693504215,2511
+2513,Biberist,11,1106,Bezirk Wasseramt,11,German,German,False,12.388736,2513
+2514,Bolken,11,1106,Bezirk Wasseramt,11,German,German,False,2.098081,2514
+2516,Deitingen,11,1106,Bezirk Wasseramt,11,German,German,False,7.56052,2516
+2517,Derendingen,11,1106,Bezirk Wasseramt,11,German,German,False,5.604209,2517
+2518,Etziken,11,1106,Bezirk Wasseramt,11,German,German,False,3.3417685,2518
+2519,Gerlafingen,11,1106,Bezirk Wasseramt,11,German,German,False,1.949841,2519
+2520,Halten,11,1106,Bezirk Wasseramt,11,German,German,False,1.9011895,2520
+2523,Horriwil,11,1106,Bezirk Wasseramt,11,German,German,False,2.64192,2523
+2524,Hüniken,11,1106,Bezirk Wasseramt,11,German,German,False,1.077553,2524
+2525,Kriegstetten,11,1106,Bezirk Wasseramt,11,German,German,False,1.137804,2525
+2526,Lohn-Ammannsegg,11,1106,Bezirk Wasseramt,11,German,German,False,4.3616355,2526
+2527,Luterbach,11,1106,Bezirk Wasseramt,11,German,German,False,4.5080245,2527
+2528,Obergerlafingen,11,1106,Bezirk Wasseramt,11,German,German,False,1.5412455,2528
+2529,Oekingen,11,1106,Bezirk Wasseramt,11,German,German,False,2.3590435,2529
+2530,Recherswil,11,1106,Bezirk Wasseramt,11,German,German,False,3.407867,2530
+2532,Subingen,11,1106,Bezirk Wasseramt,11,German,German,False,6.3712025,2532
+2534,Zuchwil,11,1106,Bezirk Wasseramt,11,German,German,False,4.564683,2534
+2535,Drei Höfe,11,1106,Bezirk Wasseramt,11,German,German,False,4.3444225,2535
+2541,Balm bei Günsberg,11,1107,Bezirk Lebern,11,German,German,False,5.2953015,2541
+2542,Bellach,11,1107,Bezirk Lebern,11,German,German,False,5.2613245,2542
+2543,Bettlach,11,1107,Bezirk Lebern,11,German,German,False,12.1029775,2543
+2544,Feldbrunnen-St. Niklaus,11,1107,Bezirk Lebern,11,German,German,False,2.438287,2544
+2545,Flumenthal,11,1107,Bezirk Lebern,11,German,German,False,3.1349715,2545
+2546,Grenchen,11,1107,Bezirk Lebern,11,German,German,False,26.010396,2546
+2547,Günsberg,11,1107,Bezirk Lebern,11,German,German,False,5.339426,2547
+2548,Hubersdorf,11,1107,Bezirk Lebern,11,German,German,False,1.3370095,2548
+2549,Kammersrohr,11,1107,Bezirk Lebern,11,German,German,False,0.816936,2549
+2550,Langendorf,11,1107,Bezirk Lebern,11,German,German,False,1.9868245,2550
+2551,Lommiswil,11,1107,Bezirk Lebern,11,German,German,False,5.7500525,2551
+2553,Oberdorf (SO),11,1107,Bezirk Lebern,11,German,German,False,11.840991,2553
+2554,Riedholz,11,1107,Bezirk Lebern,11,German,German,False,7.1432105,2554
+2555,Rüttenen,11,1107,Bezirk Lebern,11,German,German,False,8.8492305,2555
+2556,Selzach,11,1107,Bezirk Lebern,11,German,German,False,19.4066785,2556
+2571,Boningen,11,1108,Bezirk Olten,11,German,German,False,2.68449,2571
+2572,Däniken,11,1108,Bezirk Olten,11,German,German,False,5.4271805,2572
+2573,Dulliken,11,1108,Bezirk Olten,11,German,German,False,6.1419715,2573
+2574,Eppenberg-Wöschnau,11,1108,Bezirk Olten,11,German,German,False,1.7589025037497765,2574
+2575,Fulenbach,11,1108,Bezirk Olten,11,German,German,False,4.3938525,2575
+2576,Gretzenbach,11,1108,Bezirk Olten,11,German,German,False,5.8922035,2576
+2578,Gunzgen,11,1108,Bezirk Olten,11,German,German,False,3.985308,2578
+2579,Hägendorf,11,1108,Bezirk Olten,11,German,German,False,13.843451,2579
+2580,Kappel (SO),11,1108,Bezirk Olten,11,German,German,False,5.092424,2580
+2581,Olten,11,1108,Bezirk Olten,11,German,German,False,11.296840684045836,2581
+2582,Rickenbach (SO),11,1108,Bezirk Olten,11,German,German,False,2.718151,2582
+2583,Schönenwerd,11,1108,Bezirk Olten,11,German,German,False,3.7597503975001647,2583
+2584,Starrkirch-Wil,11,1108,Bezirk Olten,11,German,German,False,1.880747,2584
+2585,Walterswil (SO),11,1108,Bezirk Olten,11,German,German,False,4.3605825,2585
+2586,Wangen bei Olten,11,1108,Bezirk Olten,11,German,German,False,6.972869,2586
+26,Dorf,1,102,Bezirk Andelfingen,1,German,German,False,5.568183,26
+2601,Solothurn,11,1109,Bezirk Solothurn,11,German,German,False,6.222237,2601
+261,Zürich,1,112,Bezirk Zürich,1,German,German,False,88.8041245,261
+2611,Bärschwil,11,1110,Bezirk Thierstein,11,German,German,False,11.216878,2611
+2612,Beinwil (SO),11,1110,Bezirk Thierstein,11,German,German,False,22.7185585,2612
+2613,Breitenbach,11,1110,Bezirk Thierstein,11,German,German,False,6.986828,2613
+2614,Büsserach,11,1110,Bezirk Thierstein,11,German,German,False,7.5492725,2614
+2615,Erschwil,11,1110,Bezirk Thierstein,11,German,German,False,7.3644705,2615
+2616,Fehren,11,1110,Bezirk Thierstein,11,German,German,False,1.4663475,2616
+2617,Grindel,11,1110,Bezirk Thierstein,11,German,German,False,3.2114765,2617
+2618,Himmelried,11,1110,Bezirk Thierstein,11,German,German,False,6.1144875,2618
+2619,Kleinlützel,11,1110,Bezirk Thierstein,11,German,German,False,16.492400542587667,2619
+2620,Meltingen,11,1110,Bezirk Thierstein,11,German,German,False,5.7086785,2620
+2621,Nunningen,11,1110,Bezirk Thierstein,11,German,German,False,10.266262,2621
+2622,Zullwil,11,1110,Bezirk Thierstein,11,German,German,False,3.6853225,2622
+27,Feuerthalen,1,102,Bezirk Andelfingen,1,German,German,False,2.622886797499964,27
+2701,Basel,12,1200,Basel-Stadt (KT),12,German,German,False,23.766078563185705,2701
+2702,Bettingen,12,1200,Basel-Stadt (KT),12,German,German,False,2.280063652705217,2702
+2703,Riehen,12,1200,Basel-Stadt (KT),12,German,German,False,10.748265133076577,2703
+2761,Aesch (BL),13,1301,Bezirk Arlesheim,13,German,German,False,7.332835416250847,2761
+2762,Allschwil,13,1301,Bezirk Arlesheim,13,German,German,False,9.021382733651281,2762
+2763,Arlesheim,13,1301,Bezirk Arlesheim,13,German,German,False,7.064678,2763
+2764,Biel-Benken,13,1301,Bezirk Arlesheim,13,German,German,False,3.9575726358196532,2764
+2765,Binningen,13,1301,Bezirk Arlesheim,13,German,German,False,4.282427,2765
+2766,Birsfelden,13,1301,Bezirk Arlesheim,13,German,German,False,2.35443541580229,2766
+2767,Bottmingen,13,1301,Bezirk Arlesheim,13,German,German,False,3.0322826868743094,2767
+2768,Ettingen,13,1301,Bezirk Arlesheim,13,German,German,False,6.24355,2768
+2769,Münchenstein,13,1301,Bezirk Arlesheim,13,German,German,False,7.0048215593752925,2769
+2770,Muttenz,13,1301,Bezirk Arlesheim,13,German,German,False,16.91895693952071,2770
+2771,Oberwil (BL),13,1301,Bezirk Arlesheim,13,German,German,False,7.978592809036963,2771
+2772,Pfeffingen,13,1301,Bezirk Arlesheim,13,German,German,False,5.0417177149992884,2772
+2773,Reinach (BL),13,1301,Bezirk Arlesheim,13,German,German,False,7.053602436191782,2773
+2774,Schönenbuch,13,1301,Bezirk Arlesheim,13,German,German,False,1.3369324023621592,2774
+2775,Therwil,13,1301,Bezirk Arlesheim,13,German,German,False,7.5443715,2775
+2781,Blauen,13,1302,Bezirk Laufen,13,German,German,False,7.1195715,2781
+2782,Brislach,13,1302,Bezirk Laufen,13,German,German,False,9.080369189999827,2782
+2783,Burg im Leimental,13,1302,Bezirk Laufen,13,German,German,False,2.8533861982911897,2783
+2784,Dittingen,13,1302,Bezirk Laufen,13,German,German,False,6.692776,2784
+2785,Duggingen,13,1302,Bezirk Laufen,13,German,German,False,5.892600285000712,2785
+2786,Grellingen,13,1302,Bezirk Laufen,13,German,German,False,3.2978906368756498,2786
+2787,Laufen,13,1302,Bezirk Laufen,13,German,German,False,11.415642,2787
+2788,Liesberg,13,1302,Bezirk Laufen,13,German,German,False,12.2370505,2788
+2789,Nenzlingen,13,1302,Bezirk Laufen,13,German,German,False,3.69419986312435,2789
+2790,Roggenburg,13,1302,Bezirk Laufen,13,German,German,False,6.424215463706969,2790
+2791,Röschenz,13,1302,Bezirk Laufen,13,German,German,False,9.973956,2791
+2792,Wahlen,13,1302,Bezirk Laufen,13,German,German,False,5.2718815,2792
+2793,Zwingen,13,1302,Bezirk Laufen,13,German,German,False,4.705434310000173,2793
+28,Flaach,1,102,Bezirk Andelfingen,1,German,German,False,9.89179720000025,28
+2821,Arisdorf,13,1303,Bezirk Liestal,13,German,German,False,9.903096395625415,2821
+2822,Augst,13,1303,Bezirk Liestal,13,German,German,False,1.7138712441380894,2822
+2823,Bubendorf,13,1303,Bezirk Liestal,13,German,German,False,10.783528,2823
+2824,Frenkendorf,13,1303,Bezirk Liestal,13,German,German,False,4.477667,2824
+2825,Füllinsdorf,13,1303,Bezirk Liestal,13,German,German,False,4.6821,2825
+2826,Giebenach,13,1303,Bezirk Liestal,13,German,German,False,1.2323261810143886,2826
+2827,Hersberg,13,1303,Bezirk Liestal,13,German,German,False,1.6671695,2827
+2828,Lausen,13,1303,Bezirk Liestal,13,German,German,False,5.6098355,2828
+2829,Liestal,13,1303,Bezirk Liestal,13,German,German,False,18.3132895,2829
+2830,Lupsingen,13,1303,Bezirk Liestal,13,German,German,False,3.242303785368414,2830
+2831,Pratteln,13,1303,Bezirk Liestal,13,German,German,False,10.624433571209758,2831
+2832,Ramlinsburg,13,1303,Bezirk Liestal,13,German,German,False,2.2150435,2832
+2833,Seltisberg,13,1303,Bezirk Liestal,13,German,German,False,3.515599,2833
+2834,Ziefen,13,1303,Bezirk Liestal,13,German,German,False,7.5997825,2834
+2841,Anwil,13,1304,Bezirk Sissach,13,German,German,False,4.008588290625321,2841
+2842,Böckten,13,1304,Bezirk Sissach,13,German,German,False,2.3327655,2842
+2843,Buckten,13,1304,Bezirk Sissach,13,German,German,False,1.778004,2843
+2844,Buus,13,1304,Bezirk Sissach,13,German,German,False,8.7546725,2844
+2845,Diepflingen,13,1304,Bezirk Sissach,13,German,German,False,1.3715679099996387,2845
+2846,Gelterkinden,13,1304,Bezirk Sissach,13,German,German,False,9.730510161249725,2846
+2847,Häfelfingen,13,1304,Bezirk Sissach,13,German,German,False,3.997006290628154,2847
+2848,Hemmiken,13,1304,Bezirk Sissach,13,German,German,False,3.5044805,2848
+2849,Itingen,13,1304,Bezirk Sissach,13,German,German,False,3.1231955,2849
+2850,Känerkinden,13,1304,Bezirk Sissach,13,German,German,False,1.539843,2850
+2851,Kilchberg (BL),13,1304,Bezirk Sissach,13,German,German,False,1.64676,2851
+2852,Läufelfingen,13,1304,Bezirk Sissach,13,German,German,False,8.30506356187303,2852
+2853,Maisprach,13,1304,Bezirk Sissach,13,German,German,False,5.069076,2853
+2854,Nusshof,13,1304,Bezirk Sissach,13,German,German,False,1.667022480625309,2854
+2855,Oltingen,13,1304,Bezirk Sissach,13,German,German,False,7.147016,2855
+2856,Ormalingen,13,1304,Bezirk Sissach,13,German,German,False,6.8212055,2856
+2857,Rickenbach (BL),13,1304,Bezirk Sissach,13,German,German,False,2.942414,2857
+2858,Rothenfluh,13,1304,Bezirk Sissach,13,German,German,False,10.820597,2858
+2859,Rümlingen,13,1304,Bezirk Sissach,13,German,German,False,2.32872,2859
+2860,Rünenberg,13,1304,Bezirk Sissach,13,German,German,False,4.855538,2860
+2861,Sissach,13,1304,Bezirk Sissach,13,German,German,False,8.862097,2861
+2862,Tecknau,13,1304,Bezirk Sissach,13,German,German,False,2.5282465,2862
+2863,Tenniken,13,1304,Bezirk Sissach,13,German,German,False,4.6156705,2863
+2864,Thürnen,13,1304,Bezirk Sissach,13,German,German,False,2.303766,2864
+2865,Wenslingen,13,1304,Bezirk Sissach,13,German,German,False,5.9443315,2865
+2866,Wintersingen,13,1304,Bezirk Sissach,13,German,German,False,7.016191,2866
+2867,Wittinsburg,13,1304,Bezirk Sissach,13,German,German,False,3.205673928750636,2867
+2868,Zeglingen,13,1304,Bezirk Sissach,13,German,German,False,7.9678265,2868
+2869,Zunzgen,13,1304,Bezirk Sissach,13,German,German,False,6.982454,2869
+2881,Arboldswil,13,1305,Bezirk Waldenburg,13,German,German,False,3.5386745,2881
+2882,Bennwil,13,1305,Bezirk Waldenburg,13,German,German,False,6.609459008750213,2882
+2883,Bretzwil,13,1305,Bezirk Waldenburg,13,German,German,False,7.4261735,2883
+2884,Diegten,13,1305,Bezirk Waldenburg,13,German,German,False,9.59662334812689,2884
+2885,Eptingen,13,1305,Bezirk Waldenburg,13,German,German,False,11.184008643122896,2885
+2886,Hölstein,13,1305,Bezirk Waldenburg,13,German,German,False,5.863629,2886
+2887,Lampenberg,13,1305,Bezirk Waldenburg,13,German,German,False,4.1991415,2887
+2888,Langenbruck,13,1305,Bezirk Waldenburg,13,German,German,False,15.544152,2888
+2889,Lauwil,13,1305,Bezirk Waldenburg,13,German,German,False,7.434915,2889
+2890,Liedertswil,13,1305,Bezirk Waldenburg,13,German,German,False,1.919253,2890
+2891,Niederdorf,13,1305,Bezirk Waldenburg,13,German,German,False,4.145252,2891
+2892,Oberdorf (BL),13,1305,Bezirk Waldenburg,13,German,German,False,6.283894028389961,2892
+2893,Reigoldswil,13,1305,Bezirk Waldenburg,13,German,German,False,9.1002405,2893
+2894,Titterten,13,1305,Bezirk Waldenburg,13,German,German,False,3.71056,2894
+2895,Waldenburg,13,1305,Bezirk Waldenburg,13,German,German,False,8.30601997161004,2895
+29,Flurlingen,1,102,Bezirk Andelfingen,1,German,German,False,2.4651394124998562,29
+2901,Gächlingen,14,1401,Bezirk Oberklettgau,14,German,German,False,7.271974,2901
+2903,Löhningen,14,1401,Bezirk Oberklettgau,14,German,German,False,6.97656,2903
+2904,Neunkirch,14,1401,Bezirk Oberklettgau,14,German,German,False,17.822860153566044,2904
+2914,Büttenhardt,14,1402,Bezirk Reiat,14,German,German,False,3.958473037790373,2914
+2915,Dörflingen,14,1402,Bezirk Reiat,14,German,German,False,5.825423690270134,2915
+2917,Lohn (SH),14,1402,Bezirk Reiat,14,German,German,False,4.917098,2917
+2919,Stetten (SH),14,1402,Bezirk Reiat,14,German,German,False,4.721005,2919
+292,Stammheim,1,102,Bezirk Andelfingen,1,German,German,False,23.914516,36
+2920,Thayngen,14,1402,Bezirk Reiat,14,German,German,False,19.610509297734975,2920
+293,Wädenswil,1,106,Bezirk Horgen,1,German,German,False,35.953171,142
+2931,Bargen (SH),14,1403,Bezirk Schaffhausen,14,German,German,False,8.187868813170827,2931
+2932,Beringen,14,1403,Bezirk Schaffhausen,14,German,German,False,18.716364601090685,2932
+2933,Buchberg,14,1403,Bezirk Schaffhausen,14,German,German,False,5.5232525,2933
+2936,Merishausen,14,1403,Bezirk Schaffhausen,14,German,German,False,17.5345011510905,2936
+2937,Neuhausen am Rheinfall,14,1403,Bezirk Schaffhausen,14,German,German,False,8.046102556194342,2937
+2938,Rüdlingen,14,1403,Bezirk Schaffhausen,14,German,German,False,5.777815579173571,2938
+2939,Schaffhausen,14,1403,Bezirk Schaffhausen,14,German,German,False,41.60911590431309,2939
+294,Elgg,1,110,Bezirk Winterthur,1,German,German,False,24.573296,217
+295,Horgen,1,106,Bezirk Horgen,1,German,German,False,31.012541,133
+2951,Beggingen,14,1404,Bezirk Schleitheim,14,German,German,False,12.40815269597362,2951
+2952,Schleitheim,14,1404,Bezirk Schleitheim,14,German,German,False,21.63025342151143,2952
+2953,Siblingen,14,1404,Bezirk Schleitheim,14,German,German,False,9.468205,2953
+296,Illnau-Effretikon,1,108,Bezirk Pfäffikon,1,German,German,False,32.8701925,174
+2961,Buch (SH),14,1405,Bezirk Stein,14,German,German,False,3.727682205572005,2961
+2962,Hemishofen,14,1405,Bezirk Stein,14,German,German,False,7.849875740494395,2962
+2963,Ramsen,14,1405,Bezirk Stein,14,German,German,False,13.660874055839498,2963
+2964,Stein am Rhein,14,1405,Bezirk Stein,14,German,German,False,5.873822227524883,2964
+297,Bauma,1,108,Bezirk Pfäffikon,1,German,German,False,29.59755174062472,297
+2971,Hallau,14,1406,Bezirk Unterklettgau,14,German,German,False,15.33038064011874,2971
+2972,Oberhallau,14,1406,Bezirk Unterklettgau,14,German,German,False,5.901010325000109,2972
+2973,Trasadingen,14,1406,Bezirk Unterklettgau,14,German,German,False,4.076644227613227,2973
+2974,Wilchingen,14,1406,Bezirk Unterklettgau,14,German,German,False,21.2871336418146,2974
+298,Wiesendangen,1,110,Bezirk Winterthur,1,German,German,False,19.201188,298
+3,Bonstetten,1,101,Bezirk Affoltern,1,German,German,False,7.466696,3
+30,Andelfingen,1,102,Bezirk Andelfingen,1,German,German,False,6.628420942502007,30
+3001,Herisau,15,1501,Bezirk Hinterland,15,German,German,False,25.146315768125906,3001
+3002,Hundwil,15,1501,Bezirk Hinterland,15,German,German,False,24.137948230628247,3002
+3003,Schönengrund,15,1501,Bezirk Hinterland,15,German,German,False,5.102229,3003
+3004,Schwellbrunn,15,1501,Bezirk Hinterland,15,German,German,False,17.3995315656258,3004
+3005,Stein (AR),15,1501,Bezirk Hinterland,15,German,German,False,9.431660593750705,3005
+3006,Urnäsch,15,1501,Bezirk Hinterland,15,German,German,False,48.173167409374436,3006
+3007,Waldstatt,15,1501,Bezirk Hinterland,15,German,German,False,6.7500735,3007
+301,Aarberg,2,243,Verwaltungskreis Seeland,2,German,German,False,7.787449951251736,301
+302,Bargen (BE),2,243,Verwaltungskreis Seeland,2,German,German,False,8.057135155622397,302
+3021,Bühler,15,1502,Bezirk Mittelland,15,German,German,False,5.507696920652664,3021
+3022,Gais,15,1502,Bezirk Mittelland,15,German,German,False,21.296982088233857,3022
+3023,Speicher,15,1502,Bezirk Mittelland,15,German,German,False,8.259701722499065,3023
+3024,Teufen (AR),15,1502,Bezirk Mittelland,15,German,German,False,15.387717528750088,3024
+3025,Trogen,15,1502,Bezirk Mittelland,15,German,German,False,10.0688965,3025
+303,Grossaffoltern,2,243,Verwaltungskreis Seeland,2,German,German,False,14.8818045,303
+3031,Grub (AR),15,1503,Bezirk Vorderland,15,German,German,False,4.32451483312552,3031
+3032,Heiden,15,1503,Bezirk Vorderland,15,German,German,False,7.445153525623849,3032
+3033,Lutzenberg,15,1503,Bezirk Vorderland,15,German,German,False,2.131215,3033
+3034,Rehetobel,15,1503,Bezirk Vorderland,15,German,German,False,6.6988015,3034
+3035,Reute (AR),15,1503,Bezirk Vorderland,15,German,German,False,4.78429384187348,3035
+3036,Wald (AR),15,1503,Bezirk Vorderland,15,German,German,False,6.833655,3036
+3037,Walzenhausen,15,1503,Bezirk Vorderland,15,German,German,False,6.916989035077735,3037
+3038,Wolfhalden,15,1503,Bezirk Vorderland,15,German,German,False,6.94791702625045,3038
+304,Kallnach,2,243,Verwaltungskreis Seeland,2,German,German,False,17.912577344377603,304
+305,Kappelen,2,243,Verwaltungskreis Seeland,2,German,German,False,11.015510211248433,305
+306,Lyss,2,243,Verwaltungskreis Seeland,2,German,German,False,14.81811135374935,306
+307,Meikirch,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,10.182858,307
+309,Radelfingen,2,243,Verwaltungskreis Seeland,2,German,German,False,14.6759435,309
+31,Henggart,1,102,Bezirk Andelfingen,1,German,German,False,3.237866,31
+310,Rapperswil (BE),2,243,Verwaltungskreis Seeland,2,German,German,False,22.6815325,310
+3101,Appenzell,16,1600,Appenzell Innerrhoden (KT),16,German,German,False,16.94076494124761,3101
+3102,Gonten,16,1600,Appenzell Innerrhoden (KT),16,German,German,False,24.44094992499954,3102
+3103,Rüte,16,1600,Appenzell Innerrhoden (KT),16,German,German,False,41.05468277687631,3103
+3104,Schlatt-Haslen,16,1600,Appenzell Innerrhoden (KT),16,German,German,False,17.822409462363392,3104
+3105,Schwende,16,1600,Appenzell Innerrhoden (KT),16,German,German,False,57.44317612312314,3105
+311,Schüpfen,2,243,Verwaltungskreis Seeland,2,German,German,False,19.863168,311
+3111,Oberegg,16,1600,Appenzell Innerrhoden (KT),16,German,German,False,14.917135629297162,3111
+312,Seedorf (BE),2,243,Verwaltungskreis Seeland,2,German,German,False,20.7827435,312
+32,Humlikon,1,102,Bezirk Andelfingen,1,German,German,False,3.613092,32
+3201,Häggenschwil,17,1721,Wahlkreis St. Gallen,17,German,German,False,8.9214555,3201
+3202,Muolen,17,1721,Wahlkreis St. Gallen,17,German,German,False,10.206841606248018,3202
+3203,St. Gallen,17,1721,Wahlkreis St. Gallen,17,German,German,False,39.48873182489295,3203
+3204,Wittenbach,17,1721,Wahlkreis St. Gallen,17,German,German,False,12.176283,3204
+321,Aarwangen,2,244,Verwaltungskreis Oberaargau,2,German,German,False,9.929848775403126,321
+3211,Berg (SG),17,1722,Wahlkreis Rorschach,17,German,German,False,3.6176148912506605,3211
+3212,Eggersriet,17,1721,Wahlkreis St. Gallen,17,German,German,False,8.695600381875504,3212
+3213,Goldach,17,1722,Wahlkreis Rorschach,17,German,German,False,4.816034777500823,3213
+3214,Mörschwil,17,1722,Wahlkreis Rorschach,17,German,German,False,9.908192222499176,3214
+3215,Rorschach,17,1722,Wahlkreis Rorschach,17,German,German,False,1.8425285,3215
+3216,Rorschacherberg,17,1722,Wahlkreis Rorschach,17,German,German,False,7.2680315,3216
+3217,Steinach,17,1722,Wahlkreis Rorschach,17,German,German,False,4.5972545,3217
+3218,Tübach,17,1722,Wahlkreis Rorschach,17,German,German,False,2.0074335,3218
+3219,Untereggen,17,1722,Wahlkreis Rorschach,17,German,German,False,7.047878,3219
+322,Auswil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,4.5395815,322
+323,Bannwil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,4.5701725,323
+3231,Au (SG),17,1723,Wahlkreis Rheintal,17,German,German,False,4.57023939861306,3231
+3232,Balgach,17,1723,Wahlkreis Rheintal,17,German,German,False,6.543291965213171,3232
+3233,Berneck,17,1723,Wahlkreis Rheintal,17,German,German,False,5.6432545,3233
+3234,Diepoldsau,17,1723,Wahlkreis Rheintal,17,German,German,False,11.257989667024736,3234
+3235,Rheineck,17,1723,Wahlkreis Rheintal,17,German,German,False,2.199091716740279,3235
+3236,St. Margrethen,17,1723,Wahlkreis Rheintal,17,German,German,False,6.963347614722256,3236
+3237,Thal,17,1722,Wahlkreis Rorschach,17,German,German,False,10.036151405108784,3237
+3238,Widnau,17,1723,Wahlkreis Rheintal,17,German,German,False,4.193814832285649,3238
+324,Bleienbach,2,244,Verwaltungskreis Oberaargau,2,German,German,False,5.730577,324
+325,Busswil bei Melchnau,2,244,Verwaltungskreis Oberaargau,2,German,German,False,2.867565,325
+3251,Altstätten,17,1723,Wahlkreis Rheintal,17,German,German,False,39.66360001971949,3251
+3252,Eichberg,17,1723,Wahlkreis Rheintal,17,German,German,False,5.3474115,3252
+3253,Marbach (SG),17,1723,Wahlkreis Rheintal,17,German,German,False,4.371336401035306,3253
+3254,Oberriet (SG),17,1723,Wahlkreis Rheintal,17,German,German,False,34.55900865200301,3254
+3255,Rebstein,17,1723,Wahlkreis Rheintal,17,German,German,False,4.405727797716717,3255
+3256,Rüthi (SG),17,1723,Wahlkreis Rheintal,17,German,German,False,9.290291435239839,3256
+326,Gondiswil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,9.252146,326
+3271,Buchs (SG),17,1724,Wahlkreis Werdenberg,17,German,German,False,15.976388947802484,3271
+3272,Gams,17,1724,Wahlkreis Werdenberg,17,German,German,False,22.310799898130448,3272
+3273,Grabs,17,1724,Wahlkreis Werdenberg,17,German,German,False,54.70916897485355,3273
+3274,Sennwald,17,1724,Wahlkreis Werdenberg,17,German,German,False,41.49622529906286,3274
+3275,Sevelen,17,1724,Wahlkreis Werdenberg,17,German,German,False,30.466293957343787,3275
+3276,Wartau,17,1724,Wahlkreis Werdenberg,17,German,German,False,41.76287964494542,3276
+329,Langenthal,2,244,Verwaltungskreis Oberaargau,2,German,German,False,16.97841862010376,329
+3291,Bad Ragaz,17,1725,Wahlkreis Sarganserland,17,German,German,False,25.44886819499891,3291
+3292,Flums,17,1725,Wahlkreis Sarganserland,17,German,German,False,75.0111035,3292
+3293,Mels,17,1725,Wahlkreis Sarganserland,17,German,German,False,139.15966263687497,3293
+3294,Pfäfers,17,1725,Wahlkreis Sarganserland,17,German,German,False,128.6362844056135,3294
+3295,Quarten,17,1725,Wahlkreis Sarganserland,17,German,German,False,62.5287575,3295
+3296,Sargans,17,1725,Wahlkreis Sarganserland,17,German,German,False,9.547664395372689,3296
+3297,Vilters-Wangs,17,1725,Wahlkreis Sarganserland,17,German,German,False,32.598381896775905,3297
+3298,Walenstadt,17,1725,Wahlkreis Sarganserland,17,German,German,False,45.6336495,3298
+33,Kleinandelfingen,1,102,Bezirk Andelfingen,1,German,German,False,10.298329824997293,33
+331,Lotzwil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,6.13962625624907,331
+3311,Amden,17,1726,Wahlkreis See-Gaster,17,German,German,False,42.8242245,3311
+3312,Benken (SG),17,1726,Wahlkreis See-Gaster,17,German,German,False,16.46906841012273,3312
+3313,Kaltbrunn,17,1726,Wahlkreis See-Gaster,17,German,German,False,18.6092895,3313
+3315,Schänis,17,1726,Wahlkreis See-Gaster,17,German,German,False,40.419781,3315
+3316,Weesen,17,1726,Wahlkreis See-Gaster,17,German,German,False,5.3363785,3316
+332,Madiswil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,23.26091091562526,332
+333,Melchnau,2,244,Verwaltungskreis Oberaargau,2,German,German,False,10.3951725,333
+3338,Schmerikon,17,1726,Wahlkreis See-Gaster,17,German,German,False,4.244247092500761,3338
+3339,Uznach,17,1726,Wahlkreis See-Gaster,17,German,German,False,7.584444,3339
+334,Obersteckholz,2,244,Verwaltungskreis Oberaargau,2,German,German,False,4.025211633750579,334
+3340,Rapperswil-Jona,17,1726,Wahlkreis See-Gaster,17,German,German,False,22.524237793150878,3340
+3341,Gommiswald,17,1726,Wahlkreis See-Gaster,17,German,German,False,33.661156,3341
+3342,Eschenbach (SG),17,1726,Wahlkreis See-Gaster,17,German,German,False,54.74801123937413,3342
+335,Oeschenbach,2,244,Verwaltungskreis Oberaargau,2,German,German,False,3.983989,335
+3352,Ebnat-Kappel,17,1727,Wahlkreis Toggenburg,17,German,German,False,43.591878,3352
+3359,Wildhaus-Alt St. Johann,17,1727,Wahlkreis Toggenburg,17,German,German,False,87.24993417764337,3359
+336,Reisiswil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,1.946506,336
+3360,Nesslau,17,1727,Wahlkreis Toggenburg,17,German,German,False,92.87769017125002,3360
+337,Roggwil (BE),2,244,Verwaltungskreis Oberaargau,2,German,German,False,7.859555601474361,337
+3372,Hemberg,17,1727,Wahlkreis Toggenburg,17,German,German,False,20.45457,3372
+3374,Lichtensteig,17,1727,Wahlkreis Toggenburg,17,German,German,False,2.8601525,3374
+3375,Oberhelfenschwil,17,1727,Wahlkreis Toggenburg,17,German,German,False,12.594197181872477,3375
+3378,Neckertal,17,1727,Wahlkreis Toggenburg,17,German,German,False,48.72946717582328,3378
+3379,Wattwil,17,1727,Wahlkreis Toggenburg,17,German,German,False,50.9532755,3379
+338,Rohrbach,2,244,Verwaltungskreis Oberaargau,2,German,German,False,4.0662955,338
+339,Rohrbachgraben,2,244,Verwaltungskreis Oberaargau,2,German,German,False,6.4444365,339
+3392,Kirchberg (SG),17,1727,Wahlkreis Toggenburg,17,German,German,False,42.687722124999794,3392
+3393,Lütisburg,17,1727,Wahlkreis Toggenburg,17,German,German,False,14.127603364212856,3393
+3394,Mosnang,17,1727,Wahlkreis Toggenburg,17,German,German,False,50.28352065250051,3394
+3395,Bütschwil-Ganterschwil,17,1727,Wahlkreis Toggenburg,17,German,German,False,21.818452798093073,3395
+34,Laufen-Uhwiesen,1,102,Bezirk Andelfingen,1,German,German,False,6.159343616127483,34
+340,Rütschelen,2,244,Verwaltungskreis Oberaargau,2,German,German,False,4.043912828125671,340
+3401,Degersheim,17,1728,Wahlkreis Wil,17,German,German,False,14.675669680621219,3401
+3402,Flawil,17,1728,Wahlkreis Wil,17,German,German,False,11.237660124375461,3402
+3405,Jonschwil,17,1728,Wahlkreis Wil,17,German,German,False,11.069413523750335,3405
+3407,Oberuzwil,17,1728,Wahlkreis Wil,17,German,German,False,14.21062111687515,3407
+3408,Uzwil,17,1728,Wahlkreis Wil,17,German,German,False,14.28811798187323,3408
+341,Schwarzhäusern,2,244,Verwaltungskreis Oberaargau,2,German,German,False,3.596702101876024,341
+342,Thunstetten,2,244,Verwaltungskreis Oberaargau,2,German,German,False,9.580350934268203,342
+3422,Niederbüren,17,1728,Wahlkreis Wil,17,German,German,False,15.701636085626133,3422
+3423,Niederhelfenschwil,17,1728,Wahlkreis Wil,17,German,German,False,16.120123003124085,3423
+3424,Oberbüren,17,1728,Wahlkreis Wil,17,German,German,False,17.898550879999878,3424
+3426,Zuzwil (SG),17,1728,Wahlkreis Wil,17,German,German,False,9.084168398127936,3426
+3427,Wil (SG),17,1728,Wahlkreis Wil,17,German,German,False,20.766285101248783,3427
+344,Ursenbach,2,244,Verwaltungskreis Oberaargau,2,German,German,False,9.2023065,344
+3441,Andwil (SG),17,1721,Wahlkreis St. Gallen,17,German,German,False,6.121579209997974,3441
+3442,Gaiserwald,17,1721,Wahlkreis St. Gallen,17,German,German,False,12.571415452607983,3442
+3443,Gossau (SG),17,1721,Wahlkreis St. Gallen,17,German,German,False,27.533203014376795,3443
+3444,Waldkirch,17,1721,Wahlkreis St. Gallen,17,German,German,False,31.4471325,3444
+345,Wynau,2,244,Verwaltungskreis Oberaargau,2,German,German,False,5.053759645625198,345
+35,Marthalen,1,102,Bezirk Andelfingen,1,German,German,False,14.295157,35
+3506,Vaz/Obervaz,18,1841,Region Albula,18,German,German,False,42.5556385,3506
+351,Bern,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,51.729623,351
+3513,Lantsch/Lenz,18,1841,Region Albula,18,German,German,False,21.9295835,3513
+3514,Schmitten (GR),18,1841,Region Albula,18,German,German,False,11.3888285,3514
+352,Bolligen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,16.5682605,352
+353,Bremgarten bei Bern,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,1.867325,353
+354,Kirchlindach,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,12.178902,354
+3542,Albula/Alvra,18,1841,Region Albula,18,German,German,False,93.5158545,3542
+3543,Surses,18,1841,Region Albula,18,German,German,False,324.563968,3531
+3544,Bergün Filisur,18,1841,Region Albula,18,German,German,False,190.09700007062548,3521
+355,Köniz,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,51.04734537500296,355
+3551,Brusio,18,1842,Region Bernina,18,Italian,Italian,False,46.388432086700014,3551
+356,Muri bei Bern,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,7.627753,356
+3561,Poschiavo,18,1842,Region Bernina,18,Italian,Italian,False,191.19778291369278,3561
+357,Oberbalm,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,12.469879124997032,357
+3572,Falera,18,1850,Region Surselva,18,German,Romansh,False,22.3679025,3572
+3575,Laax,18,1850,Region Surselva,18,German,German,False,31.398927,3575
+358,Stettlen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,3.484516,358
+3581,Sagogn,18,1850,Region Surselva,18,German,Romansh,False,6.761199,3581
+3582,Schluein,18,1850,Region Surselva,18,German,Romansh,False,4.829967326250646,3582
+359,Vechigen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,24.8813245,359
+360,Wohlen bei Bern,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,36.074779,360
+3603,Vals,18,1850,Region Surselva,18,German,German,False,175.606781,3603
+361,Zollikofen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,5.4090425,361
+3618,Lumnezia,18,1850,Region Surselva,18,German,Romansh,False,165.57114837124897,3618
+3619,Ilanz/Glion,18,1850,Region Surselva,18,German,German,False,133.64028930250038,3619
+362,Ittigen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,4.272179,362
+363,Ostermundigen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,5.9859665,363
+3633,Fürstenau,18,1851,Region Viamala,18,German,German,False,1.1476515568737946,3633
+3637,Rothenbrunnen,18,1851,Region Viamala,18,German,German,False,3.0497284712513424,3637
+3638,Scharans,18,1851,Region Viamala,18,German,German,False,14.413397249999784,3638
+3640,Sils im Domleschg,18,1851,Region Viamala,18,German,German,False,9.282949750000217,3640
+3661,Cazis,18,1851,Region Viamala,18,German,German,False,31.287820289372057,3661
+3662,Flerden,18,1851,Region Viamala,18,German,German,False,6.1039285,3662
+3663,Masein,18,1851,Region Viamala,18,German,German,False,4.2453215,3663
+3668,Thusis,18,1851,Region Viamala,18,German,German,False,16.951733000626927,3503
+3669,Tschappina,18,1851,Region Viamala,18,German,German,False,24.649924,3669
+3670,Urmein,18,1851,Region Viamala,18,German,German,False,4.321745,3670
+3672,Safiental,18,1850,Region Surselva,18,German,German,False,151.3214245,3672
+3673,Domleschg,18,1851,Region Viamala,18,German,German,False,45.97387068187588,3673
+3681,Avers,18,1851,Region Viamala,18,German,German,False,93.40788841243783,3681
+3695,Sufers,18,1851,Region Viamala,18,German,German,False,34.680614421713514,3695
+37,Ossingen,1,102,Bezirk Andelfingen,1,German,German,False,13.198719707499546,37
+3701,Andeer,18,1851,Region Viamala,18,German,German,False,46.449914,3701
+3703,Casti-Wergenstein,18,1851,Region Viamala,18,German,German,False,25.5236835,3703
+3705,Donat,18,1851,Region Viamala,18,German,German,False,4.621581,3705
+3707,Lohn (GR),18,1851,Region Viamala,18,German,German,False,8.163764,3707
+3708,Mathon,18,1851,Region Viamala,18,German,German,False,15.093673,3708
+371,Biel/Bienne,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,21.38096893999872,371
+3711,Rongellen,18,1851,Region Viamala,18,German,German,False,1.921339,3711
+3712,Zillis-Reischen,18,1851,Region Viamala,18,German,German,False,24.5211115,3712
+3713,Ferrera,18,1851,Region Viamala,18,German,German,False,75.10998798611136,3713
+3714,Rheinwald,18,1851,Region Viamala,18,German,German,False,136.89031347197158,3694
+372,Evilard,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,3.715194798127964,372
+3721,Bonaduz,18,1844,Region Imboden,18,German,German,False,14.493311937500566,3721
+3722,Domat/Ems,18,1844,Region Imboden,18,German,German,False,24.347587751674407,3722
+3723,Rhäzüns,18,1844,Region Imboden,18,German,German,False,13.270328899999644,3723
+3731,Felsberg,18,1844,Region Imboden,18,German,German,False,13.170240512590372,3731
+3732,Flims,18,1844,Region Imboden,18,German,German,False,50.505524,3732
+3733,Tamins,18,1844,Region Imboden,18,German,German,False,40.37010955074459,3733
+3734,Trin,18,1844,Region Imboden,18,German,German,False,47.449096,3734
+3746,Zernez,18,1843,Region Engiadina Bassa / Val Müstair,18,German,Romansh,False,344.15901385781274,3746
+3752,Samnaun,18,1843,Region Engiadina Bassa / Val Müstair,18,German,German,False,55.976817402346015,3752
+3762,Scuol,18,1843,Region Engiadina Bassa / Val Müstair,18,German,Romansh,False,439.0043466786644,3762
+3764,Valsot,18,1843,Region Engiadina Bassa / Val Müstair,18,German,Romansh,False,159.1223488135191,3764
+3781,Bever,18,1846,Region Maloja,18,German,German,False,45.815011,3781
+3782,Celerina/Schlarigna,18,1846,Region Maloja,18,German,German,False,24.03650329499994,3782
+3783,Madulain,18,1846,Region Maloja,18,German,German,False,16.4019605,3783
+3784,Pontresina,18,1846,Region Maloja,18,German,German,False,118.08069894071258,3784
+3785,La Punt-Chamues-ch,18,1846,Region Maloja,18,German,German,False,63.381996,3785
+3786,Samedan,18,1846,Region Maloja,18,German,German,False,113.64097676889783,3786
+3787,St. Moritz,18,1846,Region Maloja,18,German,German,False,28.5620955,3787
+3788,S-chanf,18,1846,Region Maloja,18,German,Romansh,False,138.21891331954956,3788
+3789,Sils im Engadin/Segl,18,1846,Region Maloja,18,German,German,False,63.90403501030303,3789
+3790,Silvaplana,18,1846,Region Maloja,18,German,German,False,44.8546305,3790
+3791,Zuoz,18,1846,Region Maloja,18,German,German,False,65.47605850583899,3791
+3792,Bregaglia,18,1846,Region Maloja,18,Italian,Italian,False,250.62685504776545,3792
+38,Rheinau,1,102,Bezirk Andelfingen,1,German,German,False,8.95070526744305,38
+3804,Buseno,18,1847,Region Moesa,18,Italian,Italian,False,11.165591,3804
+3805,Castaneda,18,1847,Region Moesa,18,Italian,Italian,False,3.9706765,3805
+3808,Rossa,18,1847,Region Moesa,18,Italian,Italian,False,58.67750841999438,3808
+381,Arch,2,243,Verwaltungskreis Seeland,2,German,German,False,6.375359,381
+3810,Santa Maria in Calanca,18,1847,Region Moesa,18,Italian,Italian,False,9.339012,3810
+382,Büetigen,2,243,Verwaltungskreis Seeland,2,German,German,False,3.6480655,382
+3821,Lostallo,18,1847,Region Moesa,18,Italian,Italian,False,50.841498128022735,3821
+3822,Mesocco,18,1847,Region Moesa,18,Italian,Italian,False,164.84191285288804,3822
+3823,Soazza,18,1847,Region Moesa,18,Italian,Italian,False,46.4763867817773,3823
+383,Büren an der Aare,2,243,Verwaltungskreis Seeland,2,German,German,False,12.639753,383
+3831,Cama,18,1847,Region Moesa,18,Italian,Italian,False,14.576361743651963,3831
+3832,Grono,18,1847,Region Moesa,18,Italian,Italian,False,37.814691824139196,3832
+3834,Roveredo (GR),18,1847,Region Moesa,18,Italian,Italian,False,39.017675377335856,3834
+3835,San Vittore,18,1847,Region Moesa,18,Italian,Italian,False,21.578702975374036,3835
+3837,Calanca,18,1847,Region Moesa,18,Italian,Italian,False,37.72450458000562,3837
+3847,Val Müstair,18,1843,Region Engiadina Bassa / Val Müstair,18,German,Romansh,False,198.91958151313517,3847
+385,Diessbach bei Büren,2,243,Verwaltungskreis Seeland,2,German,German,False,6.289365,385
+3851,Davos,18,1849,Region Prättigau / Davos,18,German,German,False,283.9107959293745,3851
+386,Dotzigen,2,243,Verwaltungskreis Seeland,2,German,German,False,4.116066,386
+3861,Fideris,18,1849,Region Prättigau / Davos,18,German,German,False,25.75148753562407,3861
+3862,Furna,18,1849,Region Prättigau / Davos,18,German,German,False,33.2986575,3862
+3863,Jenaz,18,1849,Region Prättigau / Davos,18,German,German,False,25.865762458124962,3863
+387,Lengnau (BE),2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,7.4606275,387
+3871,Klosters-Serneus,18,1849,Region Prättigau / Davos,18,German,German,False,220.06751302491796,3871
+388,Leuzigen,2,243,Verwaltungskreis Seeland,2,German,German,False,10.559957,388
+3881,Conters im Prättigau,18,1849,Region Prättigau / Davos,18,German,German,False,18.215683,3881
+3882,Küblis,18,1849,Region Prättigau / Davos,18,German,German,False,8.212357903749899,3882
+389,Meienried,2,243,Verwaltungskreis Seeland,2,German,German,False,0.585867,389
+3891,Luzein,18,1849,Region Prättigau / Davos,18,German,German,False,83.69981347522526,3893
+39,Thalheim an der Thur,1,102,Bezirk Andelfingen,1,German,German,False,6.5330094275007955,39
+390,Meinisberg,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,4.476873,390
+3901,Chur,18,1848,Region Plessur,18,German,German,False,35.961526,3901
+391,Oberwil bei Büren,2,243,Verwaltungskreis Seeland,2,German,German,False,6.8298325,391
+3911,Churwalden,18,1848,Region Plessur,18,German,German,False,48.8673125,3911
+392,Pieterlen,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,8.291882,392
+3921,Arosa,18,1848,Region Plessur,18,German,German,False,154.027962,3921
+393,Rüti bei Büren,2,243,Verwaltungskreis Seeland,2,German,German,False,6.437157,393
+3932,Tschiertschen-Praden,18,1848,Region Plessur,18,German,German,False,27.9779015,3932
+394,Wengi,2,243,Verwaltungskreis Seeland,2,German,German,False,7.33723,394
+3941,Haldenstein,18,1848,Region Plessur,18,German,German,False,18.1637015,3941
+3945,Trimmis,18,1845,Region Landquart,18,German,German,False,43.037665,3945
+3946,Untervaz,18,1845,Region Landquart,18,German,German,False,27.4398715,3946
+3947,Zizers,18,1845,Region Landquart,18,German,German,False,11.491403,3947
+3951,Fläsch,18,1845,Region Landquart,18,German,German,False,20.25296053302934,3951
+3952,Jenins,18,1845,Region Landquart,18,German,German,False,10.368426,3952
+3953,Maienfeld,18,1845,Region Landquart,18,German,German,False,32.12852596964601,3953
+3954,Malans,18,1845,Region Landquart,18,German,German,False,11.5024575,3954
+3955,Landquart,18,1845,Region Landquart,18,German,German,False,18.6952115,3955
+3961,Grüsch,18,1849,Region Prättigau / Davos,18,German,German,False,43.59423085124901,3961
+3962,Schiers,18,1849,Region Prättigau / Davos,18,German,German,False,61.281466245776436,3962
+3972,Seewis im Prättigau,18,1849,Region Prättigau / Davos,18,German,German,False,49.3073123128974,3972
+3981,Breil/Brigels,18,1850,Region Surselva,18,German,Romansh,False,96.13857824339962,3981
+3982,Disentis/Mustér,18,1850,Region Surselva,18,German,Romansh,False,91.404924418748,3982
+3983,Medel (Lucmagn),18,1850,Region Surselva,18,German,Romansh,False,136.075527,3983
+3985,Sumvitg,18,1850,Region Surselva,18,German,Romansh,False,101.98201608125201,3985
+3986,Tujetsch,18,1850,Region Surselva,18,German,Romansh,False,133.783344,3986
+3987,Trun,18,1850,Region Surselva,18,German,Romansh,False,51.593664,3987
+3988,Obersaxen Mundaun,18,1850,Region Surselva,18,German,German,False,70.40880575660039,3612
+4,Hausen am Albis,1,101,Bezirk Affoltern,1,German,German,False,13.780005,4
+40,Trüllikon,1,102,Bezirk Andelfingen,1,German,German,False,9.6178665,40
+4001,Aarau,19,1901,Bezirk Aarau,19,German,German,False,12.238799264995954,4001
+4002,Biberstein,19,1901,Bezirk Aarau,19,German,German,False,4.218705457503356,4002
+4003,Buchs (AG),19,1901,Bezirk Aarau,19,German,German,False,5.295110704375472,4003
+4004,Densbüren,19,1901,Bezirk Aarau,19,German,German,False,12.5813625,4004
+4005,Erlinsbach (AG),19,1901,Bezirk Aarau,19,German,German,False,9.862804275624132,4005
+4006,Gränichen,19,1901,Bezirk Aarau,19,German,German,False,17.23376,4006
+4007,Hirschthal,19,1901,Bezirk Aarau,19,German,German,False,3.5620525,4007
+4008,Küttigen,19,1901,Bezirk Aarau,19,German,German,False,11.9938445,4008
+4009,Muhen,19,1901,Bezirk Aarau,19,German,German,False,7.041146,4009
+401,Aefligen,2,245,Verwaltungskreis Emmental,2,German,German,False,2.0467205,401
+4010,Oberentfelden,19,1901,Bezirk Aarau,19,German,German,False,7.1020715,4010
+4012,Suhr,19,1901,Bezirk Aarau,19,German,German,False,10.782402848124109,4012
+4013,Unterentfelden,19,1901,Bezirk Aarau,19,German,German,False,2.991569245000757,4013
+402,Alchenstorf,2,245,Verwaltungskreis Emmental,2,German,German,False,6.5555885,402
+4021,Baden,19,1902,Bezirk Baden,19,German,German,False,13.436524,4021
+4022,Bellikon,19,1902,Bezirk Baden,19,German,German,False,4.9607375,4022
+4023,Bergdietikon,19,1902,Bezirk Baden,19,German,German,False,5.985074,4023
+4024,Birmenstorf (AG),19,1902,Bezirk Baden,19,German,German,False,7.8004005,4024
+4026,Ennetbaden,19,1902,Bezirk Baden,19,German,German,False,2.0256567324990855,4026
+4027,Fislisbach,19,1902,Bezirk Baden,19,German,German,False,5.1055235,4027
+4028,Freienwil,19,1902,Bezirk Baden,19,German,German,False,3.907481356250666,4028
+4029,Gebenstorf,19,1902,Bezirk Baden,19,German,German,False,5.6466895,4029
+403,Bäriswil,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.736673,403
+4030,Killwangen,19,1902,Bezirk Baden,19,German,German,False,2.5341380762492585,4030
+4031,Künten,19,1902,Bezirk Baden,19,German,German,False,4.8092855,4031
+4032,Mägenwil,19,1902,Bezirk Baden,19,German,German,False,3.5286475,4032
+4033,Mellingen,19,1902,Bezirk Baden,19,German,German,False,4.7775685,4033
+4034,Neuenhof,19,1902,Bezirk Baden,19,German,German,False,5.438531,4034
+4035,Niederrohrdorf,19,1902,Bezirk Baden,19,German,German,False,3.241024,4035
+4037,Oberrohrdorf,19,1902,Bezirk Baden,19,German,German,False,4.2319565,4037
+4038,Obersiggenthal,19,1902,Bezirk Baden,19,German,German,False,8.3431685,4038
+4039,Remetschwil,19,1902,Bezirk Baden,19,German,German,False,3.828751,4039
+404,Burgdorf,2,245,Verwaltungskreis Emmental,2,German,German,False,15.73485485250106,404
+4040,Spreitenbach,19,1902,Bezirk Baden,19,German,German,False,8.7342759699994,4040
+4041,Stetten (AG),19,1902,Bezirk Baden,19,German,German,False,4.5641585,4041
+4042,Turgi,19,1902,Bezirk Baden,19,German,German,False,1.5783215,4042
+4044,Untersiggenthal,19,1902,Bezirk Baden,19,German,German,False,7.9746545,4044
+4045,Wettingen,19,1902,Bezirk Baden,19,German,German,False,10.5781415,4045
+4046,Wohlenschwil,19,1902,Bezirk Baden,19,German,German,False,4.3240975,4046
+4047,Würenlingen,19,1902,Bezirk Baden,19,German,German,False,9.466985,4047
+4048,Würenlos,19,1902,Bezirk Baden,19,German,German,False,8.732960953751341,4048
+4049,Ehrendingen,19,1902,Bezirk Baden,19,German,German,False,7.3712544112502485,4049
+405,Ersigen,2,245,Verwaltungskreis Emmental,2,German,German,False,15.6479665,405
+406,Hasle bei Burgdorf,2,245,Verwaltungskreis Emmental,2,German,German,False,22.014902,406
+4061,Arni (AG),19,1903,Bezirk Bremgarten,19,German,German,False,3.300925,4061
+4062,Berikon,19,1903,Bezirk Bremgarten,19,German,German,False,5.2671,4062
+4063,Bremgarten (AG),19,1903,Bezirk Bremgarten,19,German,German,False,11.479428183748846,4063
+4064,Büttikon,19,1903,Bezirk Bremgarten,19,German,German,False,2.9984755,4064
+4065,Dottikon,19,1903,Bezirk Bremgarten,19,German,German,False,3.904866,4065
+4066,Eggenwil,19,1903,Bezirk Bremgarten,19,German,German,False,2.331077,4066
+4067,Fischbach-Göslikon,19,1903,Bezirk Bremgarten,19,German,German,False,3.1084885,4067
+4068,Hägglingen,19,1903,Bezirk Bremgarten,19,German,German,False,7.877592,4068
+407,Heimiswil,2,245,Verwaltungskreis Emmental,2,German,German,False,23.0746895,407
+4071,Jonen,19,1903,Bezirk Bremgarten,19,German,German,False,5.6987835,4071
+4072,Niederwil (AG),19,1903,Bezirk Bremgarten,19,German,German,False,6.1189925,4072
+4073,Oberlunkhofen,19,1903,Bezirk Bremgarten,19,German,German,False,3.27836,4073
+4074,Oberwil-Lieli,19,1903,Bezirk Bremgarten,19,German,German,False,5.3026025,4074
+4075,Rudolfstetten-Friedlisberg,19,1903,Bezirk Bremgarten,19,German,German,False,5.031636,4075
+4076,Sarmenstorf,19,1903,Bezirk Bremgarten,19,German,German,False,8.262497,4076
+4077,Tägerig,19,1903,Bezirk Bremgarten,19,German,German,False,3.2551915,4077
+4078,Uezwil,19,1903,Bezirk Bremgarten,19,German,German,False,2.3837575,4078
+4079,Unterlunkhofen,19,1903,Bezirk Bremgarten,19,German,German,False,4.5135105,4079
+408,Hellsau,2,245,Verwaltungskreis Emmental,2,German,German,False,1.490764,408
+4080,Villmergen,19,1903,Bezirk Bremgarten,19,German,German,False,11.8012565,4080
+4081,Widen,19,1903,Bezirk Bremgarten,19,German,German,False,2.6408195,4081
+4082,Wohlen (AG),19,1903,Bezirk Bremgarten,19,German,German,False,12.450731,4082
+4083,Zufikon,19,1903,Bezirk Bremgarten,19,German,German,False,4.740235,4083
+4084,Islisberg,19,1903,Bezirk Bremgarten,19,German,German,False,1.5172895,4084
+409,Hindelbank,2,245,Verwaltungskreis Emmental,2,German,German,False,6.7340005,409
+4091,Auenstein,19,1904,Bezirk Brugg,19,German,German,False,5.524915753751024,4091
+4092,Birr,19,1904,Bezirk Brugg,19,German,German,False,4.9620095,4092
+4093,Birrhard,19,1904,Bezirk Brugg,19,German,German,False,2.971176,4093
+4094,Bözen,19,1904,Bezirk Brugg,19,German,German,False,3.9893755,4094
+4095,Brugg,19,1904,Bezirk Brugg,19,German,German,False,8.468436,4095
+4096,Effingen,19,1904,Bezirk Brugg,19,German,German,False,6.968128,4096
+4097,Elfingen,19,1904,Bezirk Brugg,19,German,German,False,4.153,4097
+4099,Habsburg,19,1904,Bezirk Brugg,19,German,German,False,2.1602275,4099
+41,Truttikon,1,102,Bezirk Andelfingen,1,German,German,False,4.514455,41
+410,Höchstetten,2,245,Verwaltungskreis Emmental,2,German,German,False,2.6755192737495603,410
+4100,Hausen (AG),19,1904,Bezirk Brugg,19,German,German,False,3.1806015,4100
+4104,Lupfig,19,1904,Bezirk Brugg,19,German,German,False,8.4818965,4104
+4105,Mandach,19,1904,Bezirk Brugg,19,German,German,False,5.426248,4105
+4106,Mönthal,19,1904,Bezirk Brugg,19,German,German,False,3.884737,4106
+4107,Mülligen,19,1904,Bezirk Brugg,19,German,German,False,3.1660925,4107
+411,Kernenried,2,245,Verwaltungskreis Emmental,2,German,German,False,3.237876,411
+4110,Remigen,19,1904,Bezirk Brugg,19,German,German,False,7.8011305,4110
+4111,Riniken,19,1904,Bezirk Brugg,19,German,German,False,4.5124845,4111
+4112,Rüfenach,19,1904,Bezirk Brugg,19,German,German,False,4.277985,4112
+4117,Thalheim (AG),19,1904,Bezirk Brugg,19,German,German,False,9.906696,4117
+412,Kirchberg (BE),2,245,Verwaltungskreis Emmental,2,German,German,False,9.174818,412
+4120,Veltheim (AG),19,1904,Bezirk Brugg,19,German,German,False,5.151194343474266,4120
+4121,Villigen,19,1904,Bezirk Brugg,19,German,German,False,11.3024425,4121
+4122,Villnachern,19,1904,Bezirk Brugg,19,German,German,False,5.663013765622182,4122
+4123,Windisch,19,1904,Bezirk Brugg,19,German,German,False,4.979281,4123
+4124,Bözberg,19,1904,Bezirk Brugg,19,German,German,False,15.734925734377816,4124
+4125,Schinznach,19,1904,Bezirk Brugg,19,German,German,False,12.2206365,4125
+413,Koppigen,2,245,Verwaltungskreis Emmental,2,German,German,False,6.809221293123908,413
+4131,Beinwil am See,19,1905,Bezirk Kulm,19,German,German,False,4.0918895,4131
+4132,Birrwil,19,1905,Bezirk Kulm,19,German,German,False,3.513167,4132
+4133,Burg (AG),19,1905,Bezirk Kulm,19,German,German,False,0.893596,4133
+4134,Dürrenäsch,19,1905,Bezirk Kulm,19,German,German,False,5.906218,4134
+4135,Gontenschwil,19,1905,Bezirk Kulm,19,German,German,False,9.8405585,4135
+4136,Holziken,19,1905,Bezirk Kulm,19,German,German,False,2.7688290713199923,4136
+4137,Leimbach (AG),19,1905,Bezirk Kulm,19,German,German,False,1.1962865,4137
+4138,Leutwil,19,1905,Bezirk Kulm,19,German,German,False,3.661794,4138
+4139,Menziken,19,1905,Bezirk Kulm,19,German,German,False,6.388210049373347,4139
+414,Krauchthal,2,245,Verwaltungskreis Emmental,2,German,German,False,19.461949,414
+4140,Oberkulm,19,1905,Bezirk Kulm,19,German,German,False,9.2985515,4140
+4141,Reinach (AG),19,1905,Bezirk Kulm,19,German,German,False,9.4615755,4141
+4142,Schlossrued,19,1905,Bezirk Kulm,19,German,German,False,7.097194,4142
+4143,Schmiedrued,19,1905,Bezirk Kulm,19,German,German,False,8.5673675,4143
+4144,Schöftland,19,1905,Bezirk Kulm,19,German,German,False,6.3365945,4144
+4145,Teufenthal (AG),19,1905,Bezirk Kulm,19,German,German,False,3.5620725,4145
+4146,Unterkulm,19,1905,Bezirk Kulm,19,German,German,False,8.981767,4146
+4147,Zetzwil,19,1905,Bezirk Kulm,19,German,German,False,5.841925,4147
+415,Lyssach,2,245,Verwaltungskreis Emmental,2,German,German,False,5.956266,415
+416,Mötschwil,2,245,Verwaltungskreis Emmental,2,German,German,False,3.100533,416
+4161,Eiken,19,1906,Bezirk Laufenburg,19,German,German,False,7.108993420019909,4161
+4163,Frick,19,1906,Bezirk Laufenburg,19,German,German,False,10.008866643125783,4163
+4164,Gansingen,19,1906,Bezirk Laufenburg,19,German,German,False,8.722269,4164
+4165,Gipf-Oberfrick,19,1906,Bezirk Laufenburg,19,German,German,False,10.026629,4165
+4166,Herznach,19,1906,Bezirk Laufenburg,19,German,German,False,6.1533055,4166
+4167,Hornussen,19,1906,Bezirk Laufenburg,19,German,German,False,7.276808541874218,4167
+4169,Kaisten,19,1906,Bezirk Laufenburg,19,German,German,False,18.284402996160516,4169
+4170,Laufenburg,19,1906,Bezirk Laufenburg,19,German,German,False,14.634010254406547,4170
+4172,Münchwilen (AG),19,1906,Bezirk Laufenburg,19,German,German,False,2.4850115,4172
+4173,Oberhof,19,1906,Bezirk Laufenburg,19,German,German,False,8.23617,4173
+4175,Oeschgen,19,1906,Bezirk Laufenburg,19,German,German,False,4.241563,4175
+4176,Schwaderloch,19,1906,Bezirk Laufenburg,19,German,German,False,2.8069393823357607,4176
+4177,Sisseln,19,1906,Bezirk Laufenburg,19,German,German,False,2.5482266852669055,4177
+4179,Ueken,19,1906,Bezirk Laufenburg,19,German,German,False,5.132700814999998,4179
+418,Oberburg,2,245,Verwaltungskreis Emmental,2,German,German,False,14.217361647498938,418
+4181,Wittnau,19,1906,Bezirk Laufenburg,19,German,German,False,11.210324893124112,4181
+4182,Wölflinswil,19,1906,Bezirk Laufenburg,19,German,German,False,9.643641172498882,4182
+4183,Zeihen,19,1906,Bezirk Laufenburg,19,German,German,False,6.704111,4183
+4184,Mettauertal,19,1906,Bezirk Laufenburg,19,German,German,False,21.57455988010345,4184
+4191,Ammerswil,19,1907,Bezirk Lenzburg,19,German,German,False,3.0970025,4191
+4192,Boniswil,19,1907,Bezirk Lenzburg,19,German,German,False,2.413601,4192
+4193,Brunegg,19,1907,Bezirk Lenzburg,19,German,German,False,1.653315,4193
+4194,Dintikon,19,1907,Bezirk Lenzburg,19,German,German,False,3.7167615,4194
+4195,Egliswil,19,1907,Bezirk Lenzburg,19,German,German,False,6.4158535,4195
+4196,Fahrwangen,19,1907,Bezirk Lenzburg,19,German,German,False,4.0231025,4196
+4197,Hallwil,19,1907,Bezirk Lenzburg,19,German,German,False,2.209075,4197
+4198,Hendschiken,19,1907,Bezirk Lenzburg,19,German,German,False,3.478754,4198
+4199,Holderbank (AG),19,1907,Bezirk Lenzburg,19,German,German,False,2.4032250300006273,4199
+420,Rüdtligen-Alchenflüh,2,245,Verwaltungskreis Emmental,2,German,German,False,2.602568,420
+4200,Hunzenschwil,19,1907,Bezirk Lenzburg,19,German,German,False,3.3187763288450354,4200
+4201,Lenzburg,19,1907,Bezirk Lenzburg,19,German,German,False,11.1380525,4201
+4202,Meisterschwanden,19,1907,Bezirk Lenzburg,19,German,German,False,4.234811,4202
+4203,Möriken-Wildegg,19,1907,Bezirk Lenzburg,19,German,German,False,6.736141589025668,4203
+4204,Niederlenz,19,1907,Bezirk Lenzburg,19,German,German,False,3.431453,4204
+4205,Othmarsingen,19,1907,Bezirk Lenzburg,19,German,German,False,4.6997665,4205
+4206,Rupperswil,19,1907,Bezirk Lenzburg,19,German,German,False,6.196533033653788,4206
+4207,Schafisheim,19,1907,Bezirk Lenzburg,19,German,German,False,6.2525035,4207
+4208,Seengen,19,1907,Bezirk Lenzburg,19,German,German,False,9.6802035,4208
+4209,Seon,19,1907,Bezirk Lenzburg,19,German,German,False,9.6862555,4209
+421,Rumendingen,2,245,Verwaltungskreis Emmental,2,German,German,False,2.494941,421
+4210,Staufen,19,1907,Bezirk Lenzburg,19,German,German,False,3.570657,4210
+422,Rüti bei Lyssach,2,245,Verwaltungskreis Emmental,2,German,German,False,1.297826,422
+4221,Abtwil,19,1908,Bezirk Muri,19,German,German,False,4.144658,4221
+4222,Aristau,19,1908,Bezirk Muri,19,German,German,False,8.693754083750058,4222
+4223,Auw,19,1908,Bezirk Muri,19,German,German,False,8.5762685,4223
+4224,Beinwil (Freiamt),19,1908,Bezirk Muri,19,German,German,False,11.192836,4224
+4226,Besenbüren,19,1908,Bezirk Muri,19,German,German,False,2.339845688751165,4226
+4227,Bettwil,19,1908,Bezirk Muri,19,German,German,False,4.3052225,4227
+4228,Boswil,19,1908,Bezirk Muri,19,German,German,False,11.636099946874493,4228
+4229,Bünzen,19,1908,Bezirk Muri,19,German,German,False,5.817489053125506,4229
+423,Willadingen,2,245,Verwaltungskreis Emmental,2,German,German,False,2.1316687262504397,423
+4230,Buttwil,19,1908,Bezirk Muri,19,German,German,False,4.556679,4230
+4231,Dietwil,19,1908,Bezirk Muri,19,German,German,False,5.4263005,4231
+4232,Geltwil,19,1908,Bezirk Muri,19,German,German,False,3.4492885,4232
+4233,Kallern,19,1908,Bezirk Muri,19,German,German,False,2.7294365,4233
+4234,Merenschwand,19,1908,Bezirk Muri,19,German,German,False,13.390269747498904,4234
+4235,Mühlau,19,1908,Bezirk Muri,19,German,German,False,5.621035,4235
+4236,Muri (AG),19,1908,Bezirk Muri,19,German,German,False,12.243981668751038,4236
+4237,Oberrüti,19,1908,Bezirk Muri,19,German,German,False,5.3167225,4237
+4238,Rottenschwil,19,1908,Bezirk Muri,19,German,German,False,4.53596062749999,4238
+4239,Sins,19,1908,Bezirk Muri,19,German,German,False,20.4534195,4239
+424,Wynigen,2,245,Verwaltungskreis Emmental,2,German,German,False,28.150556,424
+4240,Waltenschwil,19,1908,Bezirk Muri,19,German,German,False,4.519506,4240
+4251,Hellikon,19,1909,Bezirk Rheinfelden,19,German,German,False,7.180884,4251
+4252,Kaiseraugst,19,1909,Bezirk Rheinfelden,19,German,German,False,4.95954016178556,4252
+4253,Magden,19,1909,Bezirk Rheinfelden,19,German,German,False,10.87685906312403,4253
+4254,Möhlin,19,1909,Bezirk Rheinfelden,19,German,German,False,18.902612366156045,4254
+4255,Mumpf,19,1909,Bezirk Rheinfelden,19,German,German,False,3.4868207515146854,4255
+4256,Obermumpf,19,1909,Bezirk Rheinfelden,19,German,German,False,4.8486915,4256
+4257,Olsberg,19,1909,Bezirk Rheinfelden,19,German,German,False,4.812597706250731,4257
+4258,Rheinfelden,19,1909,Bezirk Rheinfelden,19,German,German,False,15.800801428262215,4258
+4259,Schupfart,19,1909,Bezirk Rheinfelden,19,German,German,False,7.104423,4259
+4260,Stein (AG),19,1909,Bezirk Rheinfelden,19,German,German,False,2.7720298831084973,4260
+4261,Wallbach,19,1909,Bezirk Rheinfelden,19,German,German,False,4.450113691556488,4261
+4262,Wegenstetten,19,1909,Bezirk Rheinfelden,19,German,German,False,6.973714,4262
+4263,Zeiningen,19,1909,Bezirk Rheinfelden,19,German,German,False,11.411162,4263
+4264,Zuzgen,19,1909,Bezirk Rheinfelden,19,German,German,False,8.3780275,4264
+4271,Aarburg,19,1910,Bezirk Zofingen,19,German,German,False,4.337012440955137,4271
+4273,Bottenwil,19,1910,Bezirk Zofingen,19,German,German,False,5.0055945,4273
+4274,Brittnau,19,1910,Bezirk Zofingen,19,German,German,False,13.8765225,4274
+4275,Kirchleerau,19,1910,Bezirk Zofingen,19,German,German,False,4.4740625,4275
+4276,Kölliken,19,1910,Bezirk Zofingen,19,German,German,False,8.871232428680006,4276
+4277,Moosleerau,19,1910,Bezirk Zofingen,19,German,German,False,3.876055584510737,4277
+4279,Murgenthal,19,1910,Bezirk Zofingen,19,German,German,False,18.70762548249993,4279
+4280,Oftringen,19,1910,Bezirk Zofingen,19,German,German,False,13.002238374999026,4280
+4281,Reitnau,19,1910,Bezirk Zofingen,19,German,German,False,8.196230119920674,4281
+4282,Rothrist,19,1910,Bezirk Zofingen,19,German,German,False,12.263826,4282
+4283,Safenwil,19,1910,Bezirk Zofingen,19,German,German,False,6.007503,4283
+4284,Staffelbach,19,1910,Bezirk Zofingen,19,German,German,False,8.85025576799028,4284
+4285,Strengelbach,19,1910,Bezirk Zofingen,19,German,German,False,6.0284255,4285
+4286,Uerkheim,19,1910,Bezirk Zofingen,19,German,German,False,7.2268625,4286
+4287,Vordemwald,19,1910,Bezirk Zofingen,19,German,German,False,10.1164945,4287
+4288,Wiliberg,19,1910,Bezirk Zofingen,19,German,German,False,1.0980364469520842,4288
+4289,Zofingen,19,1910,Bezirk Zofingen,19,German,German,False,10.969796809999288,4289
+43,Volken,1,102,Bezirk Andelfingen,1,German,German,False,3.232258,43
+4301,Baldingen,19,1911,Bezirk Zurzach,19,German,German,False,2.7924105,4301
+4302,Böbikon,19,1911,Bezirk Zurzach,19,German,German,False,2.5878735,4302
+4303,Böttstein,19,1911,Bezirk Zurzach,19,German,German,False,7.4356965,4303
+4304,Döttingen,19,1911,Bezirk Zurzach,19,German,German,False,6.9033025,4304
+4305,Endingen,19,1911,Bezirk Zurzach,19,German,German,False,12.0274095,4305
+4306,Fisibach,19,1911,Bezirk Zurzach,19,German,German,False,5.686375303493089,4306
+4307,Full-Reuenthal,19,1911,Bezirk Zurzach,19,German,German,False,4.632783621298819,4307
+4308,Kaiserstuhl,19,1911,Bezirk Zurzach,19,German,German,False,0.3362226512077322,4308
+4309,Klingnau,19,1911,Bezirk Zurzach,19,German,German,False,6.524896,4309
+431,Corgémont,2,241,Arrondissement administratif Jura bernois,2,French,French,False,17.836943,431
+4310,Koblenz,19,1911,Bezirk Zurzach,19,German,German,False,4.132943229731302,4310
+4311,Leibstadt,19,1911,Bezirk Zurzach,19,German,German,False,6.473111452230565,4311
+4312,Lengnau (AG),19,1911,Bezirk Zurzach,19,German,German,False,12.695451,4312
+4313,Leuggern,19,1911,Bezirk Zurzach,19,German,German,False,13.8807435,4313
+4314,Mellikon,19,1911,Bezirk Zurzach,19,German,German,False,2.5792672687319493,4314
+4315,Rekingen (AG),19,1911,Bezirk Zurzach,19,German,German,False,3.198009481593098,4315
+4316,Rietheim,19,1911,Bezirk Zurzach,19,German,German,False,3.89227773975938,4316
+4317,Rümikon,19,1911,Bezirk Zurzach,19,German,German,False,2.722088645820942,4317
+4318,Schneisingen,19,1911,Bezirk Zurzach,19,German,German,False,8.2166685,4318
+4319,Siglistorf,19,1911,Bezirk Zurzach,19,German,German,False,5.583914,4319
+432,Cormoret,2,241,Arrondissement administratif Jura bernois,2,French,French,False,13.115166,432
+4320,Tegerfelden,19,1911,Bezirk Zurzach,19,German,German,False,7.2129715,4320
+4322,Wislikofen,19,1911,Bezirk Zurzach,19,German,German,False,3.8569735,4322
+4323,Bad Zurzach,19,1911,Bezirk Zurzach,19,German,German,False,6.4908268544538785,4323
+433,Cortébert,2,241,Arrondissement administratif Jura bernois,2,French,French,False,14.7325485,433
+434,Courtelary,2,241,Arrondissement administratif Jura bernois,2,French,French,False,22.3656315,434
+435,La Ferrière,2,241,Arrondissement administratif Jura bernois,2,French,French,False,13.954573969375545,435
+437,Mont-Tramelan,2,241,Arrondissement administratif Jura bernois,2,French,German,False,4.723209,437
+438,Orvin,2,241,Arrondissement administratif Jura bernois,2,French,French,False,21.724908761873316,438
+4401,Arbon,20,2011,Bezirk Arbon,20,German,German,False,6.077920704999953,4401
+4406,Dozwil,20,2011,Bezirk Arbon,20,German,German,False,1.3059891350009385,4406
+441,Renan (BE),2,241,Arrondissement administratif Jura bernois,2,French,French,False,12.467575,441
+4411,Egnach,20,2011,Bezirk Arbon,20,German,German,False,18.58391487937631,4411
+4416,Hefenhofen,20,2011,Bezirk Arbon,20,German,German,False,6.0279909774991625,4416
+442,Romont (BE),2,241,Arrondissement administratif Jura bernois,2,French,French,False,7.0560295,442
+4421,Horn,20,2011,Bezirk Arbon,20,German,German,False,1.777604,4421
+4426,Kesswil,20,2011,Bezirk Arbon,20,German,German,False,4.552226387499899,4426
+443,Saint-Imier,2,241,Arrondissement administratif Jura bernois,2,French,French,False,20.868031,443
+4431,Roggwil (TG),20,2011,Bezirk Arbon,20,German,German,False,12.097622903749386,4431
+4436,Romanshorn,20,2011,Bezirk Arbon,20,German,German,False,8.7799875,4436
+444,Sonceboz-Sombeval,2,241,Arrondissement administratif Jura bernois,2,French,French,False,14.778492,444
+4441,Salmsach,20,2011,Bezirk Arbon,20,German,German,False,2.7078665,4441
+4446,Sommeri,20,2011,Bezirk Arbon,20,German,German,False,4.214743,4446
+445,Sonvilier,2,241,Arrondissement administratif Jura bernois,2,French,French,False,23.868844,445
+4451,Uttwil,20,2011,Bezirk Arbon,20,German,German,False,4.4185335,4451
+446,Tramelan,2,241,Arrondissement administratif Jura bernois,2,French,French,False,24.6509855,446
+4461,Amriswil,20,2011,Bezirk Arbon,20,German,German,False,19.039295218750446,4461
+4471,Bischofszell,20,2015,Bezirk Weinfelden,20,German,German,False,11.626412411249781,4471
+4476,Erlen,20,2015,Bezirk Weinfelden,20,German,German,False,11.955802,4476
+448,Villeret,2,241,Arrondissement administratif Jura bernois,2,French,French,False,16.4460395,448
+4486,Hauptwil-Gottshaus,20,2015,Bezirk Weinfelden,20,German,German,False,12.462111,4486
+449,Sauge,2,241,Arrondissement administratif Jura bernois,2,French,French,False,13.39798,449
+4495,Hohentannen,20,2015,Bezirk Weinfelden,20,German,German,False,8.0915335,4495
+450,Péry-La Heutte,2,241,Arrondissement administratif Jura bernois,2,French,French,False,23.8422855,450
+4501,Kradolf-Schönenberg,20,2015,Bezirk Weinfelden,20,German,German,False,10.880507,4501
+4506,Sulgen,20,2015,Bezirk Weinfelden,20,German,German,False,9.192683,4506
+4511,Zihlschlacht-Sitterdorf,20,2015,Bezirk Weinfelden,20,German,German,False,12.315874295625228,4511
+4536,Basadingen-Schlattingen,20,2012,Bezirk Frauenfeld,20,German,German,False,15.7326495,4536
+4545,Diessenhofen,20,2012,Bezirk Frauenfeld,20,German,German,False,9.841949637166385,4545
+4546,Schlatt (TG),20,2012,Bezirk Frauenfeld,20,German,German,False,15.579820462851993,4546
+4551,Aadorf,20,2014,Bezirk Münchwilen,20,German,German,False,19.792228,4551
+4561,Felben-Wellhausen,20,2012,Bezirk Frauenfeld,20,German,German,False,7.4331705,4561
+4566,Frauenfeld,20,2012,Bezirk Frauenfeld,20,German,German,False,27.537626955003677,4566
+4571,Gachnang,20,2012,Bezirk Frauenfeld,20,German,German,False,9.5691925,4571
+4590,Hüttlingen,20,2012,Bezirk Frauenfeld,20,German,German,False,11.437868,4590
+4591,Matzingen,20,2012,Bezirk Frauenfeld,20,German,German,False,7.784735,4591
+4601,Neunforn,20,2012,Bezirk Frauenfeld,20,German,German,False,11.3032635,4601
+4606,Stettfurt,20,2012,Bezirk Frauenfeld,20,German,German,False,6.416932,4606
+4611,Thundorf,20,2012,Bezirk Frauenfeld,20,German,German,False,15.561935,4611
+4616,Uesslingen-Buch,20,2012,Bezirk Frauenfeld,20,German,German,False,14.009434109374226,4616
+4621,Warth-Weiningen,20,2012,Bezirk Frauenfeld,20,German,German,False,8.054915435622096,4621
+4641,Altnau,20,2013,Bezirk Kreuzlingen,20,German,German,False,6.857604,4641
+4643,Bottighofen,20,2013,Bezirk Kreuzlingen,20,German,German,False,2.4559715,4643
+4646,Ermatingen,20,2013,Bezirk Kreuzlingen,20,German,German,False,10.538245145000444,4646
+4651,Gottlieben,20,2013,Bezirk Kreuzlingen,20,German,German,False,0.2842662862506155,4651
+4656,Güttingen,20,2013,Bezirk Kreuzlingen,20,German,German,False,9.4751045,4656
+4666,Kemmental,20,2013,Bezirk Kreuzlingen,20,German,German,False,25.239221,4666
+4671,Kreuzlingen,20,2013,Bezirk Kreuzlingen,20,German,German,False,11.530125443785,4671
+4681,Langrickenbach,20,2013,Bezirk Kreuzlingen,20,German,German,False,10.936592734374608,4681
+4683,Lengwil,20,2013,Bezirk Kreuzlingen,20,German,German,False,8.863829265625391,4683
+4691,Münsterlingen,20,2013,Bezirk Kreuzlingen,20,German,German,False,5.435724,4691
+4696,Tägerwilen,20,2013,Bezirk Kreuzlingen,20,German,German,False,11.557000867115141,4696
+4701,Wäldi,20,2013,Bezirk Kreuzlingen,20,German,German,False,12.253968000000022,4701
+4711,Affeltrangen,20,2015,Bezirk Weinfelden,20,German,German,False,14.3503975,4711
+4716,Bettwiesen,20,2014,Bezirk Münchwilen,20,German,German,False,3.912485,4716
+4721,Bichelsee-Balterswil,20,2014,Bezirk Münchwilen,20,German,German,False,12.1649365,4721
+4723,Braunau,20,2014,Bezirk Münchwilen,20,German,German,False,9.1363705,4723
+4724,Eschlikon,20,2014,Bezirk Münchwilen,20,German,German,False,6.2108725,4724
+4726,Fischingen,20,2014,Bezirk Münchwilen,20,German,German,False,30.277864021874876,4726
+4741,Lommis,20,2014,Bezirk Münchwilen,20,German,German,False,8.5165185,4741
+4746,Münchwilen (TG),20,2014,Bezirk Münchwilen,20,German,German,False,7.916359555980141,4746
+4751,Rickenbach (TG),20,2014,Bezirk Münchwilen,20,German,German,False,1.4438585937499553,4751
+4756,Schönholzerswilen,20,2015,Bezirk Weinfelden,20,German,German,False,11.0303495,4756
+4761,Sirnach,20,2014,Bezirk Münchwilen,20,German,German,False,12.5081275,4761
+4776,Tobel-Tägerschen,20,2014,Bezirk Münchwilen,20,German,German,False,7.0618355,4776
+4781,Wängi,20,2014,Bezirk Münchwilen,20,German,German,False,16.434585944019858,4781
+4786,Wilen (TG),20,2014,Bezirk Münchwilen,20,German,German,False,2.239212,4786
+4791,Wuppenau,20,2015,Bezirk Weinfelden,20,German,German,False,12.010976021249883,4791
+4801,Berlingen,20,2012,Bezirk Frauenfeld,20,German,German,False,3.878922,4801
+4806,Eschenz,20,2012,Bezirk Frauenfeld,20,German,German,False,12.097338,4806
+4811,Herdern,20,2012,Bezirk Frauenfeld,20,German,German,False,13.751168,4811
+4816,Homburg,20,2012,Bezirk Frauenfeld,20,German,German,False,24.2234255,4816
+4821,Hüttwilen,20,2012,Bezirk Frauenfeld,20,German,German,False,17.623129,4821
+4826,Mammern,20,2012,Bezirk Frauenfeld,20,German,German,False,5.5781595,4826
+4831,Müllheim,20,2012,Bezirk Frauenfeld,20,German,German,False,8.5124875,4831
+4841,Pfyn,20,2012,Bezirk Frauenfeld,20,German,German,False,13.205729,4841
+4846,Raperswilen,20,2013,Bezirk Kreuzlingen,20,German,German,False,7.6611805,4846
+4851,Salenstein,20,2013,Bezirk Kreuzlingen,20,German,German,False,6.7664905,4851
+4864,Steckborn,20,2012,Bezirk Frauenfeld,20,German,German,False,8.9847635,4864
+4871,Wagenhausen,20,2012,Bezirk Frauenfeld,20,German,German,False,11.6235175,4871
+4881,Amlikon-Bissegg,20,2015,Bezirk Weinfelden,20,German,German,False,14.545307,4881
+4891,Berg (TG),20,2015,Bezirk Weinfelden,20,German,German,False,13.033203853750306,4891
+4901,Birwinken,20,2015,Bezirk Weinfelden,20,German,German,False,12.290178527500272,4901
+491,Brüttelen,2,243,Verwaltungskreis Seeland,2,German,German,False,6.617859,491
+4911,Bürglen (TG),20,2015,Bezirk Weinfelden,20,German,German,False,11.80871711874942,4911
+492,Erlach,2,243,Verwaltungskreis Seeland,2,German,German,False,3.5870525,492
+4921,Bussnang,20,2015,Bezirk Weinfelden,20,German,German,False,19.1640855,4921
+493,Finsterhennen,2,243,Verwaltungskreis Seeland,2,German,German,False,3.5220815,493
+494,Gals,2,243,Verwaltungskreis Seeland,2,German,German,False,7.777049595000416,494
+4941,Märstetten,20,2015,Bezirk Weinfelden,20,German,German,False,9.8254365,4941
+4946,Weinfelden,20,2015,Bezirk Weinfelden,20,German,German,False,15.3447835,4946
+495,Gampelen,2,243,Verwaltungskreis Seeland,2,German,German,False,11.028665123750363,495
+4951,Wigoltingen,20,2015,Bezirk Weinfelden,20,German,German,False,17.2192725,4951
+496,Ins,2,243,Verwaltungskreis Seeland,2,German,German,False,23.7791495,496
+497,Lüscherz,2,243,Verwaltungskreis Seeland,2,German,German,False,5.475515,497
+498,Müntschemier,2,243,Verwaltungskreis Seeland,2,German,German,False,4.804425,498
+499,Siselen,2,243,Verwaltungskreis Seeland,2,German,German,False,5.549093,499
+5,Hedingen,1,101,Bezirk Affoltern,1,German,German,False,6.518725665000861,5
+500,Treiten,2,243,Verwaltungskreis Seeland,2,German,German,False,4.728072,500
+5001,Arbedo-Castione,21,2101,Distretto di Bellinzona,21,Italian,Italian,False,21.51215884499921,5001
+5002,Bellinzona,21,2101,Distretto di Bellinzona,21,Italian,Italian,False,164.6232966783186,5018
+5003,Cadenazzo,21,2101,Distretto di Bellinzona,21,Italian,Italian,False,8.312996,5003
+5009,Isone,21,2101,Distretto di Bellinzona,21,Italian,Italian,False,12.720366,5009
+501,Tschugg,2,243,Verwaltungskreis Seeland,2,German,German,False,3.244486,501
+5010,Lumino,21,2101,Distretto di Bellinzona,21,Italian,Italian,False,10.035329633224686,5010
+5017,Sant'Antonino,21,2101,Distretto di Bellinzona,21,Italian,Italian,False,6.5134695,5017
+502,Vinelz,2,243,Verwaltungskreis Seeland,2,German,German,False,4.8061885,502
+5048,Acquarossa,21,2102,Distretto di Blenio,21,Italian,Italian,False,61.40628299312419,5048
+5049,Blenio,21,2102,Distretto di Blenio,21,Italian,Italian,False,202.4454995950029,5049
+5050,Serravalle,21,2102,Distretto di Blenio,21,Italian,Italian,False,96.99319791187295,5050
+5061,Airolo,21,2103,Distretto di Leventina,21,Italian,Italian,False,94.35295634687965,5061
+5063,Bedretto,21,2103,Distretto di Leventina,21,Italian,Italian,False,75.37260650283554,5063
+5064,Bodio,21,2103,Distretto di Leventina,21,Italian,Italian,False,6.551576859292477,5064
+5071,Dalpe,21,2103,Distretto di Leventina,21,Italian,Italian,False,14.27319,5071
+5072,Faido,21,2103,Distretto di Leventina,21,Italian,Italian,False,133.05014772090314,5072
+5073,Giornico,21,2103,Distretto di Leventina,21,Italian,Italian,False,19.576958279096864,5073
+5076,Personico,21,2103,Distretto di Leventina,21,Italian,Italian,False,38.43242764070752,5076
+5077,Pollegio,21,2103,Distretto di Leventina,21,Italian,Italian,False,6.042888,5077
+5078,Prato (Leventina),21,2103,Distretto di Leventina,21,Italian,Italian,False,16.6322935,5078
+5079,Quinto,21,2103,Distretto di Leventina,21,Italian,Italian,False,75.1343955,5079
+5091,Ascona,21,2104,Distretto di Locarno,21,Italian,Italian,False,5.144045439998169,5091
+5096,Brione sopra Minusio,21,2104,Distretto di Locarno,21,Italian,Italian,False,3.83897,5096
+5097,Brissago,21,2104,Distretto di Locarno,21,Italian,Italian,False,18.524791695263556,5097
+51,Bachenbülach,1,103,Bezirk Bülach,1,German,German,False,4.2131715,51
+5108,Gordola,21,2104,Distretto di Locarno,21,Italian,Italian,False,6.688622800970142,5108
+5112,Lavertezzo,21,2104,Distretto di Locarno,21,Italian,Italian,False,58.15155123223834,5112
+5113,Locarno,21,2104,Distretto di Locarno,21,Italian,Italian,False,19.452301845342706,5113
+5115,Losone,21,2104,Distretto di Locarno,21,Italian,Italian,False,9.169898980947531,5115
+5117,Mergoscia,21,2104,Distretto di Locarno,21,Italian,Italian,False,12.2664935,5117
+5118,Minusio,21,2104,Distretto di Locarno,21,Italian,Italian,False,5.860106,5118
+5120,Muralto,21,2104,Distretto di Locarno,21,Italian,Italian,False,0.6184482487501987,5120
+5121,Orselina,21,2104,Distretto di Locarno,21,Italian,Italian,False,1.9955456387527697,5121
+5125,Ronco sopra Ascona,21,2104,Distretto di Locarno,21,Italian,Italian,False,5.0645285,5125
+5131,Tenero-Contra,21,2104,Distretto di Locarno,21,Italian,Italian,False,3.7053325,5131
+5136,Onsernone,21,2104,Distretto di Locarno,21,Italian,Italian,False,105.59866395739351,5132
+5138,Cugnasco-Gerra,21,2104,Distretto di Locarno,21,Italian,Italian,False,35.623933134983915,5138
+5141,Agno,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.5218102630931423,5141
+5143,Aranno,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.706577,5143
+5144,Arogno,21,2105,Distretto di Lugano,21,Italian,Italian,False,8.449852670727834,5144
+5146,Astano,21,2105,Distretto di Lugano,21,Italian,Italian,False,3.740595890855902,5146
+5148,Bedano,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.6393252127877116,5148
+5149,Bedigliora,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.3340074799987787,5149
+5151,Bioggio,21,2105,Distretto di Lugano,21,Italian,Italian,False,6.6054668550321125,5151
+5154,Bissone,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.2053638000002502,5154
+5160,Brusino Arsizio,21,2105,Distretto di Lugano,21,Italian,Italian,False,4.4114585,5160
+5161,Cademario,21,2105,Distretto di Lugano,21,Italian,Italian,False,3.7320085,5161
+5162,Cadempino,21,2105,Distretto di Lugano,21,Italian,Italian,False,0.718726,5162
+5167,Canobbio,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.2525725,5167
+5171,Caslano,21,2105,Distretto di Lugano,21,Italian,Italian,False,3.156225,5171
+5176,Comano,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.0577495,5176
+5178,Croglio,21,2105,Distretto di Lugano,21,Italian,Italian,False,4.279711944283004,5178
+5180,Cureglia,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.0923975,5180
+5181,Curio,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.934859684374597,5181
+5186,Grancia,21,2105,Distretto di Lugano,21,Italian,Italian,False,0.674344,5186
+5187,Gravesano,21,2105,Distretto di Lugano,21,Italian,Italian,False,0.7256533937064769,5187
+5189,Lamone,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.069306015383007,5189
+5192,Lugano,21,2105,Distretto di Lugano,21,Italian,Italian,False,76.6237913328122,5192
+5193,Magliaso,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.015086,5193
+5194,Manno,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.2806520556234977,5194
+5195,Maroggia,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.1750955,5195
+5196,Massagno,21,2105,Distretto di Lugano,21,Italian,Italian,False,0.8382375,5196
+5197,Melano,21,2105,Distretto di Lugano,21,Italian,Italian,False,4.7580725,5197
+5198,Melide,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.3732315,5198
+5199,Mezzovico-Vira,21,2105,Distretto di Lugano,21,Italian,Italian,False,11.01434193511521,5199
+52,Bassersdorf,1,103,Bezirk Bülach,1,German,German,False,9.255945971249748,52
+5200,Miglieglia,21,2105,Distretto di Lugano,21,Italian,Italian,False,4.983220510387568,5200
+5202,Monteggio,21,2105,Distretto di Lugano,21,Italian,Italian,False,3.4748932228869105,5202
+5203,Morcote,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.9373865,5203
+5205,Muzzano,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.58694999749914,5205
+5206,Neggio,21,2105,Distretto di Lugano,21,Italian,Italian,False,0.8238105,5206
+5207,Novaggio,21,2105,Distretto di Lugano,21,Italian,Italian,False,4.450674215672747,5207
+5208,Origlio,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.055313526875129,5208
+5210,Paradiso,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.00887,5210
+5212,Ponte Capriasca,21,2105,Distretto di Lugano,21,Italian,Italian,False,6.442125852649088,5212
+5213,Ponte Tresa,21,2105,Distretto di Lugano,21,Italian,Italian,False,0.47410272250002994,5213
+5214,Porza,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.578303,5214
+5216,Pura,21,2105,Distretto di Lugano,21,Italian,Italian,False,3.056528,5216
+5219,Rovio,21,2105,Distretto di Lugano,21,Italian,Italian,False,5.57685001970898,5219
+5221,Savosa,21,2105,Distretto di Lugano,21,Italian,Italian,False,0.770905,5221
+5222,Sessa,21,2105,Distretto di Lugano,21,Italian,Italian,False,2.8109378167339805,5222
+5225,Sorengo,21,2105,Distretto di Lugano,21,Italian,Italian,False,0.861235,5225
+5226,Capriasca,21,2105,Distretto di Lugano,21,Italian,Italian,False,36.29719247312487,5226
+5227,Torricella-Taverne,21,2105,Distretto di Lugano,21,Italian,Italian,False,5.279575116872931,5227
+5230,Vernate,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.4540857593757994,5230
+5231,Vezia,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.533998,5231
+5233,Vico Morcote,21,2105,Distretto di Lugano,21,Italian,Italian,False,1.984494,5233
+5236,Collina d'Oro,21,2105,Distretto di Lugano,21,Italian,Italian,False,6.481664,5236
+5237,Alto Malcantone,21,2105,Distretto di Lugano,21,Italian,Italian,False,22.060090070608556,5237
+5238,Monteceneri,21,2105,Distretto di Lugano,21,Italian,Italian,False,36.215993836134956,5238
+5242,Balerna,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,2.6669908793749757,5242
+5249,Castel San Pietro,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,11.935762829999303,5249
+5250,Chiasso,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,5.499900045234715,5250
+5251,Coldrerio,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,2.436783939999789,5251
+5254,Mendrisio,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,32.38494578507469,5254
+5257,Morbio Inferiore,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,2.0867995779296957,5257
+5260,Novazzano,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,5.329208250382971,5260
+5263,Riva San Vitale,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,6.0428328206253425,5263
+5266,Stabio,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,6.057946865811965,5266
+5268,Vacallo,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,1.4924805302918325,5268
+5269,Breggia,21,2106,Distretto di Mendrisio,21,Italian,Italian,False,25.62355251007018,5269
+5281,Biasca,21,2107,Distretto di Riviera,21,Italian,Italian,False,59.14900445437922,5281
+5287,Riviera,21,2107,Distretto di Riviera,21,Italian,Italian,False,86.48552200731287,5285
+53,Bülach,1,103,Bezirk Bülach,1,German,German,False,16.135500306874505,53
+5304,Bosco/Gurin,21,2108,Distretto di Vallemaggia,21,German,Italian,False,22.00058240537856,5304
+5307,Campo (Vallemaggia),21,2108,Distretto di Vallemaggia,21,Italian,Italian,False,43.29286438273548,5307
+5309,Cerentino,21,2108,Distretto di Vallemaggia,21,Italian,Italian,False,20.137144,5309
+5310,Cevio,21,2108,Distretto di Vallemaggia,21,Italian,Italian,False,151.1462062641787,5310
+5315,Linescio,21,2108,Distretto di Vallemaggia,21,Italian,Italian,False,6.5365545,5315
+5317,Maggia,21,2108,Distretto di Vallemaggia,21,Italian,Italian,False,110.76577345038902,5317
+5323,Lavizzara,21,2108,Distretto di Vallemaggia,21,Italian,Italian,False,187.80071,5323
+5324,Avegno Gordevio,21,2108,Distretto di Vallemaggia,21,Italian,Italian,False,27.521666549610988,5324
+533,Bätterkinden,2,245,Verwaltungskreis Emmental,2,German,German,False,10.1655035,533
+535,Deisswil bei Münchenbuchsee,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.106949,535
+536,Diemerswil,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.778355,536
+538,Fraubrunnen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,31.9875145,538
+5396,Terre di Pedemonte,21,2104,Distretto di Locarno,21,Italian,Italian,False,11.508053989376009,5396
+5397,Centovalli,21,2104,Distretto di Locarno,21,Italian,Italian,False,53.55136401256236,5397
+5398,Gambarogno,21,2104,Distretto di Locarno,21,Italian,Italian,False,52.90498111293342,5398
+54,Dietlikon,1,103,Bezirk Bülach,1,German,German,False,4.1613105,54
+540,Jegenstorf,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,13.5015035,540
+5401,Aigle,22,2221,District d'Aigle,22,French,French,False,16.557827,5401
+5402,Bex,22,2221,District d'Aigle,22,French,French,False,96.92969379195209,5402
+5403,Chessel,22,2221,District d'Aigle,22,French,French,False,3.5061505,5403
+5404,Corbeyrier,22,2221,District d'Aigle,22,French,French,False,22.0120965,5404
+5405,Gryon,22,2221,District d'Aigle,22,French,French,False,15.332910649996624,5405
+5406,Lavey-Morcles,22,2221,District d'Aigle,22,French,French,False,13.836120241252829,5406
+5407,Leysin,22,2221,District d'Aigle,22,French,French,False,18.3493475,5407
+5408,Noville,22,2221,District d'Aigle,22,French,French,False,10.3470155,5408
+5409,Ollon,22,2221,District d'Aigle,22,French,French,False,59.59117385000338,5409
+541,Iffwil,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,5.0584285,541
+5410,Ormont-Dessous,22,2221,District d'Aigle,22,French,French,False,63.5890215,5410
+5411,Ormont-Dessus,22,2221,District d'Aigle,22,French,French,False,61.8206415,5411
+5412,Rennaz,22,2221,District d'Aigle,22,French,French,False,2.2287165,5412
+5413,Roche (VD),22,2221,District d'Aigle,22,French,French,False,6.3367315,5413
+5414,Villeneuve (VD),22,2221,District d'Aigle,22,French,French,False,32.5232285,5414
+5415,Yvorne,22,2221,District d'Aigle,22,French,French,False,12.5620485,5415
+5421,Apples,22,2227,District de Morges,22,French,French,False,12.915862613127151,5421
+5422,Aubonne,22,2227,District de Morges,22,French,French,False,9.2761865,5422
+5423,Ballens,22,2227,District de Morges,22,French,French,False,8.486418,5423
+5424,Berolle,22,2227,District de Morges,22,French,French,False,9.341332,5424
+5425,Bière,22,2227,District de Morges,22,French,French,False,25.3274705,5425
+5426,Bougy-Villars,22,2227,District de Morges,22,French,French,False,1.7116345,5426
+5427,Féchy,22,2227,District de Morges,22,French,French,False,2.7652265,5427
+5428,Gimel,22,2227,District de Morges,22,French,French,False,18.8824545,5428
+5429,Longirod,22,2228,District de Nyon,22,French,French,False,9.5206585,5429
+543,Mattstetten,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,3.7850205,543
+5430,Marchissy,22,2228,District de Nyon,22,French,French,False,11.9425725,5430
+5431,Mollens (VD),22,2227,District de Morges,22,French,French,False,11.235752,5431
+5432,Montherod,22,2227,District de Morges,22,French,French,False,5.033152427500333,5432
+5434,Saint-George,22,2228,District de Nyon,22,French,French,False,12.3349485,5434
+5435,Saint-Livres,22,2227,District de Morges,22,French,French,False,8.152385,5435
+5436,Saint-Oyens,22,2227,District de Morges,22,French,French,False,3.0707795,5436
+5437,Saubraz,22,2227,District de Morges,22,French,French,False,3.5830990724996665,5437
+544,Moosseedorf,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,6.3963615,544
+5451,Avenches,22,2222,District de la Broye-Vully,22,French,French,False,19.500934220161312,5451
+5456,Cudrefin,22,2222,District de la Broye-Vully,22,French,French,False,15.948616,5456
+5458,Faoug,22,2222,District de la Broye-Vully,22,French,French,False,3.452614211252803,5458
+546,Münchenbuchsee,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,8.750218,546
+5464,Vully-les-Lacs,22,2222,District de la Broye-Vully,22,French,French,False,20.769591793750482,5464
+5471,Bettens,22,2223,District du Gros-de-Vaud,22,French,French,False,3.9170155,5471
+5472,Bournens,22,2223,District du Gros-de-Vaud,22,French,French,False,3.8899295,5472
+5473,Boussens,22,2223,District du Gros-de-Vaud,22,French,French,False,3.0902035619576402,5473
+5474,La Chaux (Cossonay),22,2227,District de Morges,22,French,French,False,6.709574601874178,5474
+5475,Chavannes-le-Veyron,22,2227,District de Morges,22,French,French,False,2.649437,5475
+5476,Chevilly,22,2227,District de Morges,22,French,French,False,3.8534076049985906,5476
+5477,Cossonay,22,2227,District de Morges,22,French,French,False,8.26646,5477
+5478,Cottens (VD),22,2227,District de Morges,22,French,French,False,2.3382525,5478
+5479,Cuarnens,22,2227,District de Morges,22,French,French,False,7.253311976249928,5479
+5480,Daillens,22,2223,District du Gros-de-Vaud,22,French,French,False,5.553535490624843,5480
+5481,Dizy,22,2227,District de Morges,22,French,French,False,3.0928285,5481
+5482,Eclépens,22,2227,District de Morges,22,French,French,False,5.746017,5482
+5483,Ferreyres,22,2227,District de Morges,22,French,French,False,3.1170675,5483
+5484,Gollion,22,2227,District de Morges,22,French,French,False,5.352698,5484
+5485,Grancy,22,2227,District de Morges,22,French,French,False,5.6901185,5485
+5486,L'Isle,22,2227,District de Morges,22,French,French,False,16.225637523750073,5486
+5487,Lussery-Villars,22,2223,District du Gros-de-Vaud,22,French,French,False,3.747728009375157,5487
+5488,Mauraz,22,2227,District de Morges,22,French,French,False,0.5217495,5488
+5489,Mex (VD),22,2223,District du Gros-de-Vaud,22,French,French,False,2.9380109850003233,5489
+5490,Moiry,22,2227,District de Morges,22,French,French,False,6.753195793127231,5490
+5491,Mont-la-Ville,22,2227,District de Morges,22,French,French,False,19.6402825,5491
+5492,Montricher,22,2227,District de Morges,22,French,French,False,25.936566,5492
+5493,Orny,22,2227,District de Morges,22,French,French,False,5.586651879376179,5493
+5494,Pampigny,22,2227,District de Morges,22,French,French,False,11.073163386872848,5494
+5495,Penthalaz,22,2223,District du Gros-de-Vaud,22,French,French,False,3.8113783989075465,5495
+5496,Penthaz,22,2223,District du Gros-de-Vaud,22,French,French,False,3.7372636010924536,5496
+5497,Pompaples,22,2227,District de Morges,22,French,French,False,4.313590709375624,5497
+5498,La Sarraz,22,2227,District de Morges,22,French,French,False,7.8125705862467045,5498
+5499,Senarclens,22,2227,District de Morges,22,French,French,False,4.0214435,5499
+55,Eglisau,1,103,Bezirk Bülach,1,German,German,False,9.1311315,55
+5500,Sévery,22,2227,District de Morges,22,French,French,False,2.4309345,5500
+5501,Sullens,22,2223,District du Gros-de-Vaud,22,French,French,False,3.9074900655423757,5501
+5503,Vufflens-la-Ville,22,2223,District du Gros-de-Vaud,22,French,French,False,5.474799646874674,5503
+551,Urtenen-Schönbühl,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,7.0770015,551
+5511,Assens,22,2223,District du Gros-de-Vaud,22,French,French,False,5.2314965,5511
+5512,Bercher,22,2223,District du Gros-de-Vaud,22,French,French,False,4.097212,5512
+5513,Bioley-Orjulaz,22,2223,District du Gros-de-Vaud,22,French,French,False,3.040358,5513
+5514,Bottens,22,2223,District du Gros-de-Vaud,22,French,French,False,6.771098,5514
+5515,Bretigny-sur-Morrens,22,2223,District du Gros-de-Vaud,22,French,French,False,2.869995,5515
+5516,Cugy (VD),22,2223,District du Gros-de-Vaud,22,French,French,False,3.090634,5516
+5518,Echallens,22,2223,District du Gros-de-Vaud,22,French,French,False,6.620853,5518
+552,Utzenstorf,2,245,Verwaltungskreis Emmental,2,German,German,False,16.84325520687609,552
+5520,Essertines-sur-Yverdon,22,2223,District du Gros-de-Vaud,22,French,French,False,9.761692,5520
+5521,Etagnières,22,2223,District du Gros-de-Vaud,22,French,French,False,3.8427565,5521
+5522,Fey,22,2223,District du Gros-de-Vaud,22,French,French,False,7.4071775,5522
+5523,Froideville,22,2223,District du Gros-de-Vaud,22,French,French,False,7.141903,5523
+5527,Morrens (VD),22,2223,District du Gros-de-Vaud,22,French,French,False,3.649978,5527
+5529,Oulens-sous-Echallens,22,2223,District du Gros-de-Vaud,22,French,French,False,5.7838265,5529
+553,Wiggiswil,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,1.5568885,553
+5530,Pailly,22,2223,District du Gros-de-Vaud,22,French,French,False,5.6833715,5530
+5531,Penthéréaz,22,2223,District du Gros-de-Vaud,22,French,French,False,5.7741815,5531
+5533,Poliez-Pittet,22,2223,District du Gros-de-Vaud,22,French,French,False,5.119035,5533
+5534,Rueyres,22,2223,District du Gros-de-Vaud,22,French,French,False,2.002098,5534
+5535,Saint-Barthélemy (VD),22,2223,District du Gros-de-Vaud,22,French,French,False,4.173929,5535
+5537,Villars-le-Terroir,22,2223,District du Gros-de-Vaud,22,French,French,False,7.1712665,5537
+5539,Vuarrens,22,2223,District du Gros-de-Vaud,22,French,French,False,9.0058875,5539
+554,Wiler bei Utzenstorf,2,245,Verwaltungskreis Emmental,2,German,German,False,3.75497,554
+5540,Montilliez,22,2223,District du Gros-de-Vaud,22,French,French,False,11.919281,5540
+5541,Goumoëns,22,2223,District du Gros-de-Vaud,22,French,French,False,10.69234,5541
+5551,Bonvillars,22,2224,District du Jura-Nord vaudois,22,French,French,False,7.748246,5551
+5552,Bullet,22,2224,District du Jura-Nord vaudois,22,French,French,False,16.759114,5552
+5553,Champagne,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.8668,5553
+5554,Concise,22,2224,District du Jura-Nord vaudois,22,French,French,False,11.545167,5554
+5555,Corcelles-près-Concise,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.0722045,5555
+5556,Fiez,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.85345,5556
+5557,Fontaines-sur-Grandson,22,2224,District du Jura-Nord vaudois,22,French,French,False,7.874359,5557
+5559,Giez,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.761367,5559
+556,Zielebach,2,245,Verwaltungskreis Emmental,2,German,German,False,1.916922,556
+5560,Grandevent,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.4477815,5560
+5561,Grandson,22,2224,District du Jura-Nord vaudois,22,French,French,False,8.0401045,5561
+5562,Mauborget,22,2224,District du Jura-Nord vaudois,22,French,French,False,5.5424885,5562
+5563,Mutrux,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.209788,5563
+5564,Novalles,22,2224,District du Jura-Nord vaudois,22,French,French,False,2.0012335,5564
+5565,Onnens (VD),22,2224,District du Jura-Nord vaudois,22,French,French,False,5.0931295,5565
+5566,Provence,22,2224,District du Jura-Nord vaudois,22,French,French,False,31.5999535,5566
+5568,Sainte-Croix,22,2224,District du Jura-Nord vaudois,22,French,French,False,39.771956346455895,5568
+557,Zuzwil (BE),2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,3.434858,557
+5571,Tévenon,22,2224,District du Jura-Nord vaudois,22,French,French,False,14.2870335,5571
+5581,Belmont-sur-Lausanne,22,2226,District de Lavaux-Oron,22,French,French,False,2.5903835,5581
+5582,Cheseaux-sur-Lausanne,22,2225,District de Lausanne,22,French,French,False,4.601435,5582
+5583,Crissier,22,2229,District de l'Ouest lausannois,22,French,French,False,5.4863398874996605,5583
+5584,Epalinges,22,2225,District de Lausanne,22,French,French,False,4.5553005,5584
+5585,Jouxtens-Mézery,22,2225,District de Lausanne,22,French,French,False,1.85215,5585
+5586,Lausanne,22,2225,District de Lausanne,22,French,French,False,41.442366,5586
+5587,Le Mont-sur-Lausanne,22,2225,District de Lausanne,22,French,French,False,9.8226075,5587
+5588,Paudex,22,2226,District de Lavaux-Oron,22,French,French,False,0.49741,5588
+5589,Prilly,22,2229,District de l'Ouest lausannois,22,French,French,False,2.1941125,5589
+5590,Pully,22,2226,District de Lavaux-Oron,22,French,French,False,5.862022,5590
+5591,Renens (VD),22,2229,District de l'Ouest lausannois,22,French,French,False,2.8999525,5591
+5592,Romanel-sur-Lausanne,22,2225,District de Lausanne,22,French,French,False,2.935788,5592
+56,Embrach,1,103,Bezirk Bülach,1,German,German,False,12.743558950626012,56
+5601,Chexbres,22,2226,District de Lavaux-Oron,22,French,French,False,2.1892848343744373,5601
+5604,Forel (Lavaux),22,2226,District de Lavaux-Oron,22,French,French,False,18.619456,5604
+5606,Lutry,22,2226,District de Lavaux-Oron,22,French,French,False,8.933568,5606
+5607,Puidoux,22,2226,District de Lavaux-Oron,22,French,French,False,22.98578843750064,5607
+5609,Rivaz,22,2226,District de Lavaux-Oron,22,French,French,False,0.32935922812492213,5609
+561,Adelboden,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,87.74134581957937,561
+5610,Saint-Saphorin (Lavaux),22,2226,District de Lavaux-Oron,22,French,French,False,0.9772925,5610
+5611,Savigny,22,2226,District de Lavaux-Oron,22,French,French,False,16.019696,5611
+5613,Bourg-en-Lavaux,22,2226,District de Lavaux-Oron,22,French,French,False,10.0501905,5613
+562,Aeschi bei Spiez,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,31.150579421290576,562
+5621,Aclens,22,2227,District de Morges,22,French,French,False,3.7811993531253263,5621
+5622,Bremblens,22,2227,District de Morges,22,French,French,False,2.7748355,5622
+5623,Buchillon,22,2227,District de Morges,22,French,French,False,2.1613695,5623
+5624,Bussigny,22,2229,District de l'Ouest lausannois,22,French,French,False,4.785673,5624
+5625,Bussy-Chardonney,22,2227,District de Morges,22,French,French,False,3.0823835,5625
+5627,Chavannes-près-Renens,22,2229,District de l'Ouest lausannois,22,French,French,False,1.5346405,5627
+5628,Chigny,22,2227,District de Morges,22,French,French,False,0.845826,5628
+5629,Clarmont,22,2227,District de Morges,22,French,French,False,1.055615,5629
+563,Frutigen,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,72.72350169375261,563
+5631,Denens,22,2227,District de Morges,22,French,French,False,3.2617575,5631
+5632,Denges,22,2227,District de Morges,22,French,French,False,1.594281,5632
+5633,Echandens,22,2227,District de Morges,22,French,French,False,3.8639625,5633
+5634,Echichens,22,2227,District de Morges,22,French,French,False,13.388428676637664,5634
+5635,Ecublens (VD),22,2229,District de l'Ouest lausannois,22,French,French,False,6.0413265,5635
+5636,Etoy,22,2227,District de Morges,22,French,French,False,5.0107685,5636
+5637,Lavigny,22,2227,District de Morges,22,French,French,False,4.0315515,5637
+5638,Lonay,22,2227,District de Morges,22,French,French,False,3.708682,5638
+5639,Lully (VD),22,2227,District de Morges,22,French,French,False,2.113944,5639
+564,Kandergrund,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,31.6904525,564
+5640,Lussy-sur-Morges,22,2227,District de Morges,22,French,French,False,2.284783,5640
+5642,Morges,22,2227,District de Morges,22,French,French,False,3.951619,5642
+5643,Préverenges,22,2227,District de Morges,22,French,French,False,1.936775,5643
+5644,Reverolle,22,2227,District de Morges,22,French,French,False,1.1318855,5644
+5645,Romanel-sur-Morges,22,2227,District de Morges,22,French,French,False,1.8690225,5645
+5646,Saint-Prex,22,2227,District de Morges,22,French,French,False,5.730952,5646
+5648,Saint-Sulpice (VD),22,2229,District de l'Ouest lausannois,22,French,French,False,1.818534,5648
+5649,Tolochenaz,22,2227,District de Morges,22,French,French,False,1.679003,5649
+565,Kandersteg,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,134.4180978554183,565
+5650,Vaux-sur-Morges,22,2227,District de Morges,22,French,French,False,2.1467098233623356,5650
+5651,Villars-Sainte-Croix,22,2229,District de l'Ouest lausannois,22,French,French,False,1.672658,5651
+5652,Villars-sous-Yens,22,2227,District de Morges,22,French,French,False,3.0744175,5652
+5653,Vufflens-le-Château,22,2227,District de Morges,22,French,French,False,2.080275,5653
+5654,Vullierens,22,2227,District de Morges,22,French,French,False,6.841483,5654
+5655,Yens,22,2227,District de Morges,22,French,French,False,9.4318195,5655
+566,Krattigen,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,6.1534165,566
+5661,Boulens,22,2223,District du Gros-de-Vaud,22,French,French,False,3.5122100826123877,5661
+5663,Bussy-sur-Moudon,22,2222,District de la Broye-Vully,22,French,French,False,3.006963,5663
+5665,Chavannes-sur-Moudon,22,2222,District de la Broye-Vully,22,French,French,False,4.9923525,5665
+5669,Curtilles,22,2222,District de la Broye-Vully,22,French,French,False,4.931395,5669
+567,Reichenbach im Kandertal,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,125.76500570995917,567
+5671,Dompierre (VD),22,2222,District de la Broye-Vully,22,French,French,False,3.2422115,5671
+5673,Hermenches,22,2222,District de la Broye-Vully,22,French,French,False,4.867949,5673
+5674,Lovatens,22,2222,District de la Broye-Vully,22,French,French,False,3.4297705,5674
+5675,Lucens,22,2222,District de la Broye-Vully,22,French,French,False,19.2801485,5675
+5678,Moudon,22,2222,District de la Broye-Vully,22,French,French,False,15.7715715,5678
+5680,Ogens,22,2223,District du Gros-de-Vaud,22,French,French,False,3.4954585,5680
+5683,Prévonloup,22,2222,District de la Broye-Vully,22,French,French,False,1.8191325,5683
+5684,Rossenges,22,2222,District de la Broye-Vully,22,French,French,False,1.115679,5684
+5688,Syens,22,2222,District de la Broye-Vully,22,French,French,False,2.5157535,5688
+5690,Villars-le-Comte,22,2222,District de la Broye-Vully,22,French,French,False,4.1107185,5690
+5692,Vucherens,22,2222,District de la Broye-Vully,22,French,French,False,3.295544,5692
+5693,Montanaire,22,2223,District du Gros-de-Vaud,22,French,French,False,33.539761917387615,5693
+57,Freienstein-Teufen,1,103,Bezirk Bülach,1,German,German,False,8.250594549373988,57
+5701,Arnex-sur-Nyon,22,2228,District de Nyon,22,French,French,False,1.9251665,5701
+5702,Arzier-Le Muids,22,2228,District de Nyon,22,French,French,False,51.66632272432076,5702
+5703,Bassins,22,2228,District de Nyon,22,French,French,False,20.929878084375368,5703
+5704,Begnins,22,2228,District de Nyon,22,French,French,False,4.734889424998328,5704
+5705,Bogis-Bossey,22,2228,District de Nyon,22,French,French,False,2.386337650000397,5705
+5706,Borex,22,2228,District de Nyon,22,French,French,False,2.0984655,5706
+5707,Chavannes-de-Bogis,22,2228,District de Nyon,22,French,French,False,2.9916470773447026,5707
+5708,Chavannes-des-Bois,22,2228,District de Nyon,22,French,French,False,2.1494960565756736,5708
+5709,Chéserex,22,2228,District de Nyon,22,French,French,False,10.45689,5709
+571,Beatenberg,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,28.8667,571
+5710,Coinsins,22,2228,District de Nyon,22,French,French,False,2.885709537498761,5710
+5711,Commugny,22,2228,District de Nyon,22,French,French,False,6.4686975,5711
+5712,Coppet,22,2228,District de Nyon,22,French,French,False,2.005055,5712
+5713,Crans-près-Céligny,22,2228,District de Nyon,22,French,French,False,4.3762845,5713
+5714,Crassier,22,2228,District de Nyon,22,French,French,False,2.0309178300012314,5714
+5715,Duillier,22,2228,District de Nyon,22,French,French,False,4.032827462501239,5715
+5716,Eysins,22,2228,District de Nyon,22,French,French,False,2.4363275425001496,5716
+5717,Founex,22,2228,District de Nyon,22,French,French,False,4.8977515,5717
+5718,Genolier,22,2228,District de Nyon,22,French,French,False,4.8339205,5718
+5719,Gingins,22,2228,District de Nyon,22,French,French,False,12.624661964329427,5719
+572,Bönigen,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,15.252978721249628,572
+5720,Givrins,22,2228,District de Nyon,22,French,French,False,4.0337645,5720
+5721,Gland,22,2228,District de Nyon,22,French,French,False,8.3597985,5721
+5722,Grens,22,2228,District de Nyon,22,French,French,False,2.4794897668747473,5722
+5723,Mies,22,2228,District de Nyon,22,French,French,False,3.4629585,5723
+5724,Nyon,22,2228,District de Nyon,22,French,French,False,7.04654345749985,5724
+5725,Prangins,22,2228,District de Nyon,22,French,French,False,6.154411,5725
+5726,La Rippe,22,2228,District de Nyon,22,French,French,False,16.595478706767995,5726
+5727,Saint-Cergue,22,2228,District de Nyon,22,French,French,False,24.410563622323107,5727
+5728,Signy-Avenex,22,2228,District de Nyon,22,French,French,False,2.002937,5728
+5729,Tannay,22,2228,District de Nyon,22,French,French,False,1.928712,5729
+573,Brienz (BE),2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,48.803617,573
+5730,Trélex,22,2228,District de Nyon,22,French,French,False,5.807064,5730
+5731,Le Vaud,22,2228,District de Nyon,22,French,French,False,3.1055293068761323,5731
+5732,Vich,22,2228,District de Nyon,22,French,French,False,1.5675145,5732
+574,Brienzwiler,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,17.68806692497199,574
+5741,L'Abergement,22,2224,District du Jura-Nord vaudois,22,French,French,False,5.815692577876374,5741
+5742,Agiez,22,2224,District du Jura-Nord vaudois,22,French,French,False,5.3719145,5742
+5743,Arnex-sur-Orbe,22,2224,District du Jura-Nord vaudois,22,French,French,False,7.713565446875847,5743
+5744,Ballaigues,22,2224,District du Jura-Nord vaudois,22,French,French,False,9.086573949430697,5744
+5745,Baulmes,22,2224,District du Jura-Nord vaudois,22,French,French,False,22.61645544744835,5745
+5746,Bavois,22,2224,District du Jura-Nord vaudois,22,French,French,False,9.3145895,5746
+5747,Bofflens,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.302217,5747
+5748,Bretonnières,22,2224,District du Jura-Nord vaudois,22,French,French,False,5.3546255,5748
+5749,Chavornay,22,2224,District du Jura-Nord vaudois,22,French,French,False,19.090473306251383,5749
+575,Därligen,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,7.214672907735713,575
+5750,Les Clées,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.793278,5750
+5752,Croy,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.452340378125645,5752
+5754,Juriens,22,2224,District du Jura-Nord vaudois,22,French,French,False,9.3607745,5754
+5755,Lignerolle,22,2224,District du Jura-Nord vaudois,22,French,French,False,10.876304746809613,5755
+5756,Montcherand,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.143835,5756
+5757,Orbe,22,2224,District du Jura-Nord vaudois,22,French,French,False,12.179907693748616,5757
+5758,La Praz,22,2224,District du Jura-Nord vaudois,22,French,French,False,5.177122,5758
+5759,Premier,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.0836465,5759
+576,Grindelwald,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,171.1404056967316,576
+5760,Rances,22,2224,District du Jura-Nord vaudois,22,French,French,False,9.7552725,5760
+5761,Romainmôtier-Envy,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.8361025,5761
+5762,Sergey,22,2224,District du Jura-Nord vaudois,22,French,French,False,1.447378,5762
+5763,Valeyres-sous-Rances,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.279987,5763
+5764,Vallorbe,22,2224,District du Jura-Nord vaudois,22,French,French,False,23.32663811233802,5764
+5765,Vaulion,22,2224,District du Jura-Nord vaudois,22,French,French,False,13.206037,5765
+5766,Vuiteboeuf,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.853650206250474,5766
+577,Gsteigwiler,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,7.1886635,577
+578,Gündlischwand,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,16.9154805,578
+5785,Corcelles-le-Jorat,22,2222,District de la Broye-Vully,22,French,French,False,8.002620871874784,5785
+5788,Essertes,22,2226,District de Lavaux-Oron,22,French,French,False,1.6529625,5788
+579,Habkern,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,51.103976,579
+5790,Maracon,22,2226,District de Lavaux-Oron,22,French,French,False,4.414046,5790
+5792,Montpreveyres,22,2226,District de Lavaux-Oron,22,French,French,False,4.0681785,5792
+5798,Ropraz,22,2222,District de la Broye-Vully,22,French,French,False,4.6679165,5798
+5799,Servion,22,2226,District de Lavaux-Oron,22,French,French,False,6.276788323748583,5799
+58,Glattfelden,1,103,Bezirk Bülach,1,German,German,False,12.503862473114948,58
+580,Hofstetten bei Brienz,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,8.856629033751695,580
+5803,Vulliens,22,2222,District de la Broye-Vully,22,French,French,False,6.631982,5803
+5804,Jorat-Menthue,22,2223,District du Gros-de-Vaud,22,French,French,False,17.59481962812521,5804
+5805,Oron,22,2226,District de Lavaux-Oron,22,French,French,False,24.648015,5805
+5806,Jorat-Mézières,22,2226,District de Lavaux-Oron,22,French,French,False,11.223978176251418,5782
+581,Interlaken,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,4.493807233911419,581
+5812,Champtauroz,22,2222,District de la Broye-Vully,22,French,French,False,2.958804,5812
+5813,Chevroux,22,2222,District de la Broye-Vully,22,French,French,False,4.321732,5813
+5816,Corcelles-près-Payerne,22,2222,District de la Broye-Vully,22,French,French,False,12.073353675419037,5816
+5817,Grandcour,22,2222,District de la Broye-Vully,22,French,French,False,10.101919,5817
+5819,Henniez,22,2222,District de la Broye-Vully,22,French,French,False,2.665424,5819
+582,Iseltwald,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,22.124891264458025,582
+5821,Missy,22,2222,District de la Broye-Vully,22,French,French,False,3.1186783361962513,5821
+5822,Payerne,22,2222,District de la Broye-Vully,22,French,French,False,24.323491523765078,5822
+5827,Trey,22,2222,District de la Broye-Vully,22,French,French,False,3.7378025,5827
+5828,Treytorrens (Payerne),22,2222,District de la Broye-Vully,22,French,French,False,2.977806748749837,5828
+5830,Villarzel,22,2222,District de la Broye-Vully,22,French,French,False,7.5587725,5830
+5831,Valbroye,22,2222,District de la Broye-Vully,22,French,French,False,33.581061365304926,5831
+584,Lauterbrunnen,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,163.94638284657054,584
+5841,Château-d'Oex,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,113.800302,5841
+5842,Rossinière,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,23.3933605,5842
+5843,Rougemont,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,48.66627146572561,5843
+585,Leissigen,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,10.736004,585
+5851,Allaman,22,2227,District de Morges,22,French,French,False,2.594841,5851
+5852,Bursinel,22,2228,District de Nyon,22,French,French,False,1.7325445,5852
+5853,Bursins,22,2228,District de Nyon,22,French,French,False,3.4411655,5853
+5854,Burtigny,22,2228,District de Nyon,22,French,French,False,5.723075683750171,5854
+5855,Dully,22,2228,District de Nyon,22,French,French,False,1.7294505,5855
+5856,Essertines-sur-Rolle,22,2228,District de Nyon,22,French,French,False,6.959181945624691,5856
+5857,Gilly,22,2228,District de Nyon,22,French,French,False,7.743092048750289,5857
+5858,Luins,22,2228,District de Nyon,22,French,French,False,2.771869,5858
+5859,Mont-sur-Rolle,22,2228,District de Nyon,22,French,French,False,3.6803365,5859
+586,Lütschental,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,12.434376993748158,586
+5860,Perroy,22,2228,District de Nyon,22,French,French,False,3.148421,5860
+5861,Rolle,22,2228,District de Nyon,22,French,French,False,2.893834,5861
+5862,Tartegnin,22,2228,District de Nyon,22,French,French,False,1.0960915056250207,5862
+5863,Vinzel,22,2228,District de Nyon,22,French,French,False,1.001655,5863
+587,Matten bei Interlaken,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,5.808457487261893,587
+5871,L'Abbaye,22,2224,District du Jura-Nord vaudois,22,French,French,False,31.978506,5871
+5872,Le Chenit,22,2224,District du Jura-Nord vaudois,22,French,French,False,99.10735198037573,5872
+5873,Le Lieu,22,2224,District du Jura-Nord vaudois,22,French,French,False,32.61126178001546,5873
+588,Niederried bei Interlaken,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,4.256766243751012,588
+5881,Blonay,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,16.04170291375,5881
+5882,Chardonne,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,10.4481145,5882
+5883,Corseaux,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,1.1923435,5883
+5884,Corsier-sur-Vevey,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,6.7870605,5884
+5885,Jongny,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,2.0884315,5885
+5886,Montreux,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,33.92357580624959,5886
+5888,Saint-Légier-La Chiésaz,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,15.433153,5888
+5889,La Tour-de-Peilz,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,3.5386375,5889
+589,Oberried am Brienzersee,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,20.149618,589
+5890,Vevey,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,2.503452,5890
+5891,Veytaux,22,2230,District de la Riviera-Pays-d'Enhaut,22,French,French,False,6.689187693750411,5891
+59,Hochfelden,1,103,Bezirk Bülach,1,German,German,False,6.1497365,59
+590,Ringgenberg (BE),2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,8.677828645000428,590
+5902,Belmont-sur-Yverdon,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.538340572054472,5902
+5903,Bioley-Magnoux,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.2313155,5903
+5904,Chamblon,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.0550795,5904
+5905,Champvent,22,2224,District du Jura-Nord vaudois,22,French,French,False,9.081903793749525,5905
+5907,Chavannes-le-Chêne,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.041318,5907
+5908,Chêne-Pâquier,22,2224,District du Jura-Nord vaudois,22,French,French,False,2.2150035,5908
+5909,Cheseaux-Noréaz,22,2224,District du Jura-Nord vaudois,22,French,French,False,5.794701559999614,5909
+591,Saxeten,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,19.1645835,591
+5910,Cronay,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.811734,5910
+5911,Cuarny,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.4775705,5911
+5912,Démoret,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.404603,5912
+5913,Donneloye,22,2224,District du Jura-Nord vaudois,22,French,French,False,8.879209,5913
+5914,Ependes (VD),22,2224,District du Jura-Nord vaudois,22,French,French,False,4.921046,5914
+5919,Mathod,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.6168205,5919
+592,Schwanden bei Brienz,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,7.008985,592
+5921,Molondin,22,2224,District du Jura-Nord vaudois,22,French,French,False,5.425745,5921
+5922,Montagny-près-Yverdon,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.4303835,5922
+5923,Oppens,22,2223,District du Gros-de-Vaud,22,French,French,False,3.639398,5923
+5924,Orges,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.047892,5924
+5925,Orzens,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.20719,5925
+5926,Pomy,22,2224,District du Jura-Nord vaudois,22,French,French,False,5.6866495,5926
+5928,Rovray,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.129154,5928
+5929,Suchy,22,2224,District du Jura-Nord vaudois,22,French,French,False,6.591659,5929
+593,Unterseen,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,14.160625224840068,593
+5930,Suscévaz,22,2224,District du Jura-Nord vaudois,22,French,French,False,4.0034025,5930
+5931,Treycovagnes,22,2224,District du Jura-Nord vaudois,22,French,French,False,1.927127,5931
+5932,Ursins,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.2663605,5932
+5933,Valeyres-sous-Montagny,22,2224,District du Jura-Nord vaudois,22,French,French,False,2.323635,5933
+5934,Valeyres-sous-Ursins,22,2224,District du Jura-Nord vaudois,22,French,French,False,2.893734,5934
+5935,Villars-Epeney,22,2224,District du Jura-Nord vaudois,22,French,French,False,0.865069,5935
+5937,Vugelles-La Mothe,22,2224,District du Jura-Nord vaudois,22,French,French,False,3.0491185,5937
+5938,Yverdon-les-Bains,22,2224,District du Jura-Nord vaudois,22,French,French,False,13.449692792944212,5938
+5939,Yvonand,22,2224,District du Jura-Nord vaudois,22,French,French,False,13.585559,5939
+594,Wilderswil,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,13.575445,594
+6,Kappel am Albis,1,101,Bezirk Affoltern,1,German,German,False,7.9068375,6
+60,Höri,1,103,Bezirk Bülach,1,German,German,False,4.8999705,60
+6002,Brig-Glis,23,2301,Bezirk Brig,23,German,German,False,37.61236229937381,6002
+6004,Eggerberg,23,2301,Bezirk Brig,23,German,German,False,6.275947158656057,6004
+6007,Naters,23,2301,Bezirk Brig,23,German,German,False,146.68855970303045,6007
+6008,Ried-Brig,23,2301,Bezirk Brig,23,German,German,False,47.9118475500956,6008
+6009,Simplon,23,2301,Bezirk Brig,23,German,German,False,90.76782480001,6009
+6010,Termen,23,2301,Bezirk Brig,23,German,German,False,18.55380607687481,6010
+6011,Zwischbergen,23,2301,Bezirk Brig,23,German,German,False,86.3770838857218,6011
+602,Arni (BE),2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,10.510462,602
+6021,Ardon,23,2302,District de Conthey,23,French,French,False,20.07403480249757,6021
+6022,Chamoson,23,2302,District de Conthey,23,French,French,False,32.54830238187506,6022
+6023,Conthey,23,2302,District de Conthey,23,French,French,False,85.11145819999975,6023
+6024,Nendaz,23,2302,District de Conthey,23,French,French,False,86.18400727000238,6024
+6025,Vétroz,23,2302,District de Conthey,23,French,French,False,10.5447365,6025
+603,Biglen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,3.6607825,603
+6031,Bagnes,23,2303,District d'Entremont,23,French,French,False,284.11099147268664,6031
+6032,Bourg-Saint-Pierre,23,2303,District d'Entremont,23,French,French,False,89.87127566157102,6032
+6033,Liddes,23,2303,District d'Entremont,23,French,French,False,58.58992213897664,6033
+6034,Orsières,23,2303,District d'Entremont,23,French,French,False,165.2199251435086,6034
+6035,Sembrancher,23,2303,District d'Entremont,23,French,French,False,17.3307955,6035
+6036,Vollèges,23,2303,District d'Entremont,23,French,French,False,17.7029275,6036
+605,Bowil,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,14.77181405005989,605
+6052,Bellwald,23,2304,Bezirk Goms,23,German,German,False,14.081762,6052
+6054,Binn,23,2304,Bezirk Goms,23,German,German,False,65.07697091113725,6054
+6056,Ernen,23,2304,Bezirk Goms,23,German,German,False,35.809924,6056
+6057,Fiesch,23,2304,Bezirk Goms,23,German,German,False,10.745788424764116,6057
+6058,Fieschertal,23,2304,Bezirk Goms,23,German,German,False,172.85409788148527,6058
+606,Brenzikofen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.2040136637504513,606
+6061,Lax,23,2304,Bezirk Goms,23,German,German,False,5.50159186239066,6061
+607,Freimettigen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.982977,607
+6076,Obergoms,23,2304,Bezirk Goms,23,German,German,False,155.91663566073206,6076
+6077,Goms,23,2304,Bezirk Goms,23,German,German,False,129.38039426103998,6074
+608,Grosshöchstetten,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,6.918279013749827,608
+6082,Ayent,23,2305,District d'Hérens,23,French,French,False,55.104349329553294,6082
+6083,Evolène,23,2305,District d'Hérens,23,French,French,False,210.06951030147832,6083
+6084,Hérémence,23,2305,District d'Hérens,23,French,French,False,107.47259911231173,6084
+6087,Saint-Martin (VS),23,2305,District d'Hérens,23,French,French,False,37.32569793937735,6087
+6089,Vex,23,2305,District d'Hérens,23,French,French,False,12.8645885,6089
+609,Häutligen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,3.133918,609
+6090,Mont-Noble,23,2305,District d'Hérens,23,French,French,False,43.809646507985214,6090
+61,Hüntwangen,1,103,Bezirk Bülach,1,German,German,False,4.754825419497418,61
+610,Herbligen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.8078255,610
+6101,Agarn,23,2306,Bezirk Leuk,23,German,German,False,7.7543985,6101
+6102,Albinen,23,2306,Bezirk Leuk,23,German,German,False,15.5395025,6102
+6104,Ergisch,23,2306,Bezirk Leuk,23,German,German,False,29.67803234500224,6104
+6109,Inden,23,2306,Bezirk Leuk,23,German,German,False,9.577703611818169,6109
+611,Kiesen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,4.752224732501451,611
+6110,Leuk,23,2306,Bezirk Leuk,23,German,German,False,54.81569065981607,6110
+6111,Leukerbad,23,2306,Bezirk Leuk,23,German,German,False,67.22450388818183,6111
+6112,Oberems,23,2306,Bezirk Leuk,23,German,German,False,50.01436381088642,6112
+6113,Salgesch,23,2306,Bezirk Leuk,23,German,German,False,11.352239744240029,6113
+6116,Varen,23,2306,Bezirk Leuk,23,German,German,False,12.836476002030848,6116
+6117,Guttet-Feschel,23,2306,Bezirk Leuk,23,German,German,False,10.557539361969798,6117
+6118,Gampel-Bratsch,23,2306,Bezirk Leuk,23,German,German,False,22.82720647821413,6118
+6119,Turtmann-Unterems,23,2306,Bezirk Leuk,23,German,German,False,42.74454241499972,6119
+612,Konolfingen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,13.0501875,612
+613,Landiswil,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,10.23928,613
+6131,Bovernier,23,2307,District de Martigny,23,French,French,False,13.210508509372966,6131
+6132,Charrat,23,2307,District de Martigny,23,French,French,False,7.456138,6132
+6133,Fully,23,2307,District de Martigny,23,French,French,False,38.016475929724415,6133
+6134,Isérables,23,2307,District de Martigny,23,French,French,False,15.4993455,6134
+6135,Leytron,23,2307,District de Martigny,23,French,French,False,26.571664021249465,6135
+6136,Martigny,23,2307,District de Martigny,23,French,French,False,25.180133125625073,6136
+6137,Martigny-Combe,23,2307,District de Martigny,23,French,French,False,37.312059365001964,6137
+6139,Riddes,23,2307,District de Martigny,23,French,French,False,23.835984481249707,6139
+614,Linden,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,13.278816,614
+6140,Saillon,23,2307,District de Martigny,23,French,French,False,13.641550018750296,6140
+6141,Saxon,23,2307,District de Martigny,23,French,French,False,23.10293522749925,6141
+6142,Trient,23,2307,District de Martigny,23,French,French,False,39.448317360776855,6142
+615,Mirchel,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.334557,615
+6151,Champéry,23,2308,District de Monthey,23,French,French,False,38.90231704404244,6151
+6152,Collombey-Muraz,23,2308,District de Monthey,23,French,French,False,29.825549141468674,6152
+6153,Monthey,23,2308,District de Monthey,23,French,French,False,28.83139690106886,6153
+6154,Port-Valais,23,2308,District de Monthey,23,French,French,False,14.5557535,6154
+6155,Saint-Gingolph,23,2308,District de Monthey,23,French,French,False,14.430361562627517,6155
+6156,Troistorrents,23,2308,District de Monthey,23,French,French,False,37.0857823368495,6156
+6157,Val-d'Illiez,23,2308,District de Monthey,23,French,French,False,39.166451768447416,6157
+6158,Vionnaz,23,2308,District de Monthey,23,French,French,False,20.932865473536047,6158
+6159,Vouvry,23,2308,District de Monthey,23,French,French,False,33.507246791945526,6159
+616,Münsingen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,15.700378,616
+617,Niederhünigen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,5.3594095,617
+6172,Bister,23,2309,Bezirk Raron,23,German,German,False,6.073118,6172
+6173,Bitsch,23,2309,Bezirk Raron,23,German,German,False,6.132585854670926,6173
+6177,Grengiols,23,2309,Bezirk Raron,23,German,German,False,58.343279112625765,6177
+6181,Riederalp,23,2309,Bezirk Raron,23,German,German,False,19.232145008005826,6181
+619,Oberdiessbach,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,16.242822,619
+6191,Ausserberg,23,2309,Bezirk Raron,23,German,German,False,14.759249542500909,6191
+6192,Blatten,23,2309,Bezirk Raron,23,German,German,False,90.215262,6192
+6193,Bürchen,23,2309,Bezirk Raron,23,German,German,False,13.5158375,6193
+6194,Eischoll,23,2309,Bezirk Raron,23,German,German,False,14.363607272502076,6194
+6195,Ferden,23,2309,Bezirk Raron,23,German,German,False,27.7438465,6195
+6197,Kippel,23,2309,Bezirk Raron,23,German,German,False,11.7003635,6197
+6198,Niedergesteln,23,2309,Bezirk Raron,23,German,German,False,17.71255580999975,6198
+6199,Raron,23,2309,Bezirk Raron,23,German,German,False,30.19517831437417,6199
+62,Kloten,1,103,Bezirk Bülach,1,German,German,False,19.1201335,62
+620,Oberthal,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,10.4059085,620
+6201,Unterbäch,23,2309,Bezirk Raron,23,German,German,False,21.830666413123748,6201
+6202,Wiler (Lötschen),23,2309,Bezirk Raron,23,German,German,False,15.098006,6202
+6203,Mörel-Filet,23,2309,Bezirk Raron,23,German,German,False,8.4450875,6203
+6204,Steg-Hohtenn,23,2309,Bezirk Raron,23,German,German,False,14.16334269000025,6204
+6205,Bettmeralp,23,2309,Bezirk Raron,23,German,German,False,28.438270505746715,6205
+6211,Collonges,23,2310,District de Saint-Maurice,23,French,French,False,12.033169305649714,6211
+6212,Dorénaz,23,2310,District de Saint-Maurice,23,French,French,False,12.173724026632373,6212
+6213,Evionnaz,23,2310,District de Saint-Maurice,23,French,French,False,48.3559015600957,6213
+6214,Finhaut,23,2310,District de Saint-Maurice,23,French,French,False,22.863265369725255,6214
+6215,Massongex,23,2310,District de Saint-Maurice,23,French,French,False,6.4602285,6215
+6217,Saint-Maurice,23,2310,District de Saint-Maurice,23,French,French,False,15.104163,6217
+6218,Salvan,23,2310,District de Saint-Maurice,23,French,French,False,53.35570756018502,6218
+6219,Vernayaz,23,2310,District de Saint-Maurice,23,French,French,False,5.647730309373733,6219
+622,Oppligen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,3.2967395,622
+6220,Vérossaz,23,2310,District de Saint-Maurice,23,French,French,False,14.20513,6220
+623,Rubigen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,6.877165253749926,623
+6232,Chalais,23,2311,District de Sierre,23,French,French,False,24.17911083201358,6232
+6235,Chippis,23,2311,District de Sierre,23,French,French,False,1.961618,6235
+6238,Grône,23,2311,District de Sierre,23,French,French,False,20.46504751548861,6238
+6239,Icogne,23,2311,District de Sierre,23,French,French,False,25.110276,6239
+6240,Lens,23,2311,District de Sierre,23,French,French,False,13.7732325,6240
+6241,Miège,23,2311,District de Sierre,23,French,French,False,2.470058,6241
+6246,Saint-Léonard,23,2311,District de Sierre,23,French,French,False,3.893329,6246
+6248,Sierre,23,2311,District de Sierre,23,French,French,False,19.145603,6248
+6249,Venthône,23,2311,District de Sierre,23,French,French,False,2.4501693118746206,6249
+6250,Veyras,23,2311,District de Sierre,23,French,French,False,1.561795,6250
+6252,Anniviers,23,2311,District de Sierre,23,French,French,False,243.37066351049774,6252
+6253,Crans-Montana,23,2311,District de Sierre,23,French,French,False,59.57309994185451,6242
+626,Walkringen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,17.098592,626
+6261,Arbaz,23,2312,District de Sion,23,French,French,False,19.198064170446713,6261
+6263,Grimisuat,23,2312,District de Sion,23,French,French,False,4.2653895,6263
+6265,Savièse,23,2312,District de Sion,23,French,French,False,71.16986734750073,6265
+6266,Sion,23,2312,District de Sion,23,French,French,False,34.70720045249954,6266
+6267,Veysonnaz,23,2312,District de Sion,23,French,French,False,1.1173365,6267
+627,Worb,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,21.247628486250175,627
+628,Zäziwil,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,5.481676,628
+6281,Baltschieder,23,2313,Bezirk Visp,23,German,German,False,31.52583095749909,6281
+6282,Eisten,23,2313,Bezirk Visp,23,German,German,False,38.0588385,6282
+6283,Embd,23,2313,Bezirk Visp,23,German,German,False,13.1930005,6283
+6285,Grächen,23,2313,Bezirk Visp,23,German,German,False,14.442033,6285
+6286,Lalden,23,2313,Bezirk Visp,23,German,German,False,1.3414575,6286
+6287,Randa,23,2313,Bezirk Visp,23,German,German,False,54.763303,6287
+6288,Saas-Almagell,23,2313,Bezirk Visp,23,German,German,False,110.69536361984484,6288
+6289,Saas-Balen,23,2313,Bezirk Visp,23,German,German,False,30.2398055,6289
+629,Oberhünigen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,5.8122865,629
+6290,Saas-Fee,23,2313,Bezirk Visp,23,German,German,False,40.14796460108946,6290
+6291,Saas-Grund,23,2313,Bezirk Visp,23,German,German,False,24.668001931864318,6291
+6292,St. Niklaus,23,2313,Bezirk Visp,23,German,German,False,89.2821385,6292
+6293,Stalden (VS),23,2313,Bezirk Visp,23,German,German,False,10.358988919536493,6293
+6294,Staldenried,23,2313,Bezirk Visp,23,German,German,False,14.471402824932548,6294
+6295,Täsch,23,2313,Bezirk Visp,23,German,German,False,58.3030115,6295
+6296,Törbel,23,2313,Bezirk Visp,23,German,German,False,17.60673875553096,6296
+6297,Visp,23,2313,Bezirk Visp,23,German,German,False,13.1271665,6297
+6298,Visperterminen,23,2313,Bezirk Visp,23,German,German,False,51.421373,6298
+6299,Zeneggen,23,2313,Bezirk Visp,23,German,German,False,7.2430135,6299
+63,Lufingen,1,103,Bezirk Bülach,1,German,German,False,5.1509685,63
+630,Allmendingen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,3.7336155862500036,630
+6300,Zermatt,23,2313,Bezirk Visp,23,German,German,False,243.06097807645594,6300
+632,Wichtrach,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,11.443379,632
+64,Nürensdorf,1,103,Bezirk Bülach,1,German,German,False,9.9416195,64
+6404,Boudry,24,2400,Neuchâtel (CT),24,French,French,False,17.114761984998875,6404
+6407,Corcelles-Cormondrèche,24,2400,Neuchâtel (CT),24,French,French,False,4.922351,6407
+6408,Cortaillod,24,2400,Neuchâtel (CT),24,French,French,False,3.585296,6408
+6412,Peseux,24,2400,Neuchâtel (CT),24,French,French,False,3.394494,6412
+6413,Rochefort,24,2400,Neuchâtel (CT),24,French,French,False,25.884300515001126,6413
+6416,Milvignes,24,2400,Neuchâtel (CT),24,French,French,False,9.253794,6416
+6417,La Grande-Béroche,24,2400,Neuchâtel (CT),24,French,French,False,42.674926,6410
+6421,La Chaux-de-Fonds,24,2400,Neuchâtel (CT),24,French,French,False,55.47867553341746,6421
+6422,Les Planchettes,24,2400,Neuchâtel (CT),24,French,French,False,11.609569441604261,6422
+6423,La Sagne,24,2400,Neuchâtel (CT),24,French,French,False,25.7350605,6423
+6431,Les Brenets,24,2400,Neuchâtel (CT),24,French,French,False,11.523357432058528,6431
+6432,La Brévine,24,2400,Neuchâtel (CT),24,French,French,False,41.96295966389547,6432
+6433,Brot-Plamboz,24,2400,Neuchâtel (CT),24,French,French,False,16.04753,6433
+6434,Le Cerneux-Péquignot,24,2400,Neuchâtel (CT),24,French,French,False,15.600749014381442,6434
+6435,La Chaux-du-Milieu,24,2400,Neuchâtel (CT),24,French,French,False,16.942831,6435
+6436,Le Locle,24,2400,Neuchâtel (CT),24,French,French,False,23.34634976765324,6436
+6437,Les Ponts-de-Martel,24,2400,Neuchâtel (CT),24,French,French,False,18.177974,6437
+6451,Cornaux,24,2400,Neuchâtel (CT),24,French,French,False,4.898238,6451
+6452,Cressier (NE),24,2400,Neuchâtel (CT),24,French,French,False,8.706179,6452
+6453,Enges,24,2400,Neuchâtel (CT),24,French,French,False,9.532476,6453
+6454,Hauterive (NE),24,2400,Neuchâtel (CT),24,French,French,False,2.3637735,6454
+6455,Le Landeron,24,2400,Neuchâtel (CT),24,French,French,False,10.508396648183705,6455
+6456,Lignières,24,2400,Neuchâtel (CT),24,French,French,False,12.2187145,6456
+6458,Neuchâtel,24,2400,Neuchâtel (CT),24,French,French,False,18.786006581357952,6458
+6459,Saint-Blaise,24,2400,Neuchâtel (CT),24,French,French,False,8.933384,6459
+6461,La Tène,24,2400,Neuchâtel (CT),24,French,French,False,5.274999075000301,6461
+6485,Valangin,24,2400,Neuchâtel (CT),24,French,French,False,3.8786095,6485
+6487,Val-de-Ruz,24,2400,Neuchâtel (CT),24,French,French,False,124.61584791864206,6487
+65,Oberembrach,1,103,Bezirk Bülach,1,German,German,False,10.2343025,65
+6504,La Côte-aux-Fées,24,2400,Neuchâtel (CT),24,French,French,False,12.784620794659624,6504
+6511,Les Verrières,24,2400,Neuchâtel (CT),24,French,French,False,29.16299768120293,6511
+6512,Val-de-Travers,24,2400,Neuchâtel (CT),24,French,French,False,124.80914224765448,6512
+66,Opfikon,1,103,Bezirk Bülach,1,German,German,False,5.5593245,66
+6601,Aire-la-Ville,25,2500,Genève (CT),25,French,French,False,2.940983,6601
+6602,Anières,25,2500,Genève (CT),25,French,French,False,3.8121873717764214,6602
+6603,Avully,25,2500,Genève (CT),25,French,French,False,4.529972851352718,6603
+6604,Avusy,25,2500,Genève (CT),25,French,French,False,5.241091247938173,6604
+6605,Bardonnex,25,2500,Genève (CT),25,French,French,False,4.967759489860008,6605
+6606,Bellevue,25,2500,Genève (CT),25,French,French,False,4.601166134583953,6606
+6607,Bernex,25,2500,Genève (CT),25,French,French,False,12.976571403903513,6607
+6608,Carouge (GE),25,2500,Genève (CT),25,French,French,False,2.666259772499733,6608
+6609,Cartigny,25,2500,Genève (CT),25,French,French,False,4.358959,6609
+661,Clavaleyres,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,1.021849,661
+6610,Céligny,25,2500,Genève (CT),25,French,French,False,4.654511,6610
+6611,Chancy,25,2500,Genève (CT),25,French,French,False,5.307615389719454,6611
+6612,Chêne-Bougeries,25,2500,Genève (CT),25,French,French,False,4.1760120437491235,6612
+6613,Chêne-Bourg,25,2500,Genève (CT),25,French,French,False,1.088854328750182,6613
+6614,Choulex,25,2500,Genève (CT),25,French,French,False,3.930416,6614
+6615,Collex-Bossy,25,2500,Genève (CT),25,French,French,False,7.006909124642635,6615
+6616,Collonge-Bellerive,25,2500,Genève (CT),25,French,French,False,6.1410445,6616
+6617,Cologny,25,2500,Genève (CT),25,French,French,False,3.7346735,6617
+6618,Confignon,25,2500,Genève (CT),25,French,French,False,2.794763182325487,6618
+6619,Corsier (GE),25,2500,Genève (CT),25,French,French,False,2.717215443749763,6619
+662,Ferenbalm,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,9.103413496019742,662
+6620,Dardagny,25,2500,Genève (CT),25,French,French,False,8.523711509718403,6620
+6621,Genève,25,2500,Genève (CT),25,French,French,False,15.9322975,6621
+6622,Genthod,25,2500,Genève (CT),25,French,French,False,3.116431,6622
+6623,Le Grand-Saconnex,25,2500,Genève (CT),25,French,French,False,4.351521811310081,6623
+6624,Gy,25,2500,Genève (CT),25,French,French,False,3.33441745542855,6624
+6625,Hermance,25,2500,Genève (CT),25,French,French,False,1.3583152791556496,6625
+6626,Jussy,25,2500,Genève (CT),25,French,French,False,11.366768824390158,6626
+6627,Laconnex,25,2500,Genève (CT),25,French,French,False,3.875438,6627
+6628,Lancy,25,2500,Genève (CT),25,French,French,False,4.751341727500267,6628
+6629,Meinier,25,2500,Genève (CT),25,French,French,False,6.922492,6629
+663,Frauenkappelen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,9.308127,663
+6630,Meyrin,25,2500,Genève (CT),25,French,French,False,9.944473379112585,6630
+6631,Onex,25,2500,Genève (CT),25,French,French,False,2.897168,6631
+6632,Perly-Certoux,25,2500,Genève (CT),25,French,French,False,2.614723397917348,6632
+6633,Plan-les-Ouates,25,2500,Genève (CT),25,French,French,False,5.876485119872384,6633
+6634,Pregny-Chambésy,25,2500,Genève (CT),25,French,French,False,3.148697,6634
+6635,Presinge,25,2500,Genève (CT),25,French,French,False,4.785883066187172,6635
+6636,Puplinge,25,2500,Genève (CT),25,French,French,False,2.690397656787472,6636
+6637,Russin,25,2500,Genève (CT),25,French,French,False,4.963228,6637
+6638,Satigny,25,2500,Genève (CT),25,French,French,False,18.854397763845682,6638
+6639,Soral,25,2500,Genève (CT),25,French,French,False,3.0561587529876286,6639
+6640,Thônex,25,2500,Genève (CT),25,French,French,False,4.009895848526323,6640
+6641,Troinex,25,2500,Genève (CT),25,French,French,False,3.4835358893680013,6641
+6642,Vandoeuvres,25,2500,Genève (CT),25,French,French,False,4.4387195,6642
+6643,Vernier,25,2500,Genève (CT),25,French,French,False,7.51872572800427,6643
+6644,Versoix,25,2500,Genève (CT),25,French,French,False,10.571062945881314,6644
+6645,Veyrier,25,2500,Genève (CT),25,French,French,False,6.540982239807957,6645
+665,Gurbrü,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,1.6675755,665
+666,Kriechenwil,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,4.902314,666
+667,Laupen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,4.087821398980855,667
+668,Mühleberg,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,26.254437531250204,668
+669,Münchenwiler,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.561816,669
+67,Rafz,1,103,Bezirk Bülach,1,German,German,False,10.580948060345607,67
+670,Neuenegg,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,21.550256,670
+6702,Boécourt,26,2601,District de Delémont,26,French,French,False,12.133971601874617,6702
+6703,Bourrignon,26,2601,District de Delémont,26,French,French,False,13.6310405,6703
+6704,Châtillon (JU),26,2601,District de Delémont,26,French,French,False,5.27261,6704
+6706,Courchapoix,26,2601,District de Delémont,26,French,French,False,6.3945485,6706
+6708,Courrendlin,26,2601,District de Delémont,26,French,French,False,21.41114878875109,6708
+6709,Courroux,26,2601,District de Delémont,26,French,French,False,19.909742711248914,6709
+671,Wileroltigen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,4.3012755,671
+6710,Courtételle,26,2601,District de Delémont,26,French,French,False,13.25006749225507,6710
+6711,Delémont,26,2601,District de Delémont,26,French,French,False,22.18354461014794,6711
+6712,Develier,26,2601,District de Delémont,26,French,French,False,12.207746473749355,6712
+6713,Ederswiler,26,2601,District de Delémont,26,German,German,False,3.2919559968754575,6713
+6715,Mervelier,26,2601,District de Delémont,26,French,French,False,9.78710356562211,6715
+6716,Mettembert,26,2601,District de Delémont,26,French,French,False,2.646593,6716
+6718,Movelier,26,2601,District de Delémont,26,French,French,False,7.95934,6718
+6719,Pleigne,26,2601,District de Delémont,26,French,French,False,17.558375682815683,6719
+6721,Rossemaison,26,2601,District de Delémont,26,French,French,False,1.8783134238476369,6721
+6722,Saulcy,26,2601,District de Delémont,26,French,French,False,7.97059457258402,6722
+6724,Soyhières,26,2601,District de Delémont,26,French,French,False,7.729464,6724
+6729,Haute-Sorne,26,2601,District de Delémont,26,French,French,False,71.51690432554136,6729
+6730,Val Terbi,26,2601,District de Delémont,26,French,French,False,46.40658,6730
+6741,Le Bémont (JU),26,2602,District des Franches-Montagnes,26,French,French,False,11.847563,6741
+6742,Les Bois,26,2602,District des Franches-Montagnes,26,French,French,False,24.7257797303204,6742
+6743,Les Breuleux,26,2602,District des Franches-Montagnes,26,French,French,False,10.753455,6743
+6744,La Chaux-des-Breuleux,26,2602,District des Franches-Montagnes,26,French,French,False,4.205666,6744
+6745,Les Enfers,26,2602,District des Franches-Montagnes,26,French,French,False,6.99921,6745
+6748,Les Genevez (JU),26,2602,District des Franches-Montagnes,26,French,French,False,13.7158325,6748
+6750,Lajoux (JU),26,2602,District des Franches-Montagnes,26,French,French,False,12.5254505,6750
+6751,Montfaucon,26,2602,District des Franches-Montagnes,26,French,French,False,18.170741,6751
+6753,Muriaux,26,2602,District des Franches-Montagnes,26,French,French,False,16.670346,6753
+6754,Le Noirmont,26,2602,District des Franches-Montagnes,26,French,French,False,20.704089671310307,6754
+6757,Saignelégier,26,2602,District des Franches-Montagnes,26,French,French,False,31.692730682936773,6757
+6758,Saint-Brais,26,2602,District des Franches-Montagnes,26,French,French,False,14.890646,6758
+6759,Soubey,26,2602,District des Franches-Montagnes,26,French,French,False,13.694556022948825,6759
+6771,Alle,26,2603,District de Porrentruy,26,French,French,False,10.5440165,6771
+6773,Beurnevésin,26,2603,District de Porrentruy,26,French,French,False,5.023213911488541,6773
+6774,Boncourt,26,2603,District de Porrentruy,26,French,French,False,8.873872162613733,6774
+6775,Bonfol,26,2603,District de Porrentruy,26,French,French,False,13.671203042788354,6775
+6778,Bure,26,2603,District de Porrentruy,26,French,French,False,13.985526859891813,6778
+6781,Coeuve,26,2603,District de Porrentruy,26,French,French,False,11.7814535,6781
+6782,Cornol,26,2603,District de Porrentruy,26,French,French,False,10.507260518751226,6782
+6783,Courchavon,26,2603,District de Porrentruy,26,French,French,False,6.121791279999926,6783
+6784,Courgenay,26,2603,District de Porrentruy,26,French,French,False,18.180438,6784
+6785,Courtedoux,26,2603,District de Porrentruy,26,French,French,False,7.9828875,6785
+6787,Damphreux,26,2603,District de Porrentruy,26,French,French,False,5.738466,6787
+6789,Fahy,26,2603,District de Porrentruy,26,French,French,False,7.871433937111466,6789
+6790,Fontenais,26,2603,District de Porrentruy,26,French,French,False,20.162751029328057,6790
+6792,Grandfontaine,26,2603,District de Porrentruy,26,French,French,False,8.831114157657055,6792
+6793,Lugnez,26,2603,District de Porrentruy,26,French,French,False,5.183033765372709,6793
+68,Rorbas,1,103,Bezirk Bülach,1,German,German,False,4.585684,68
+6800,Porrentruy,26,2603,District de Porrentruy,26,French,French,False,14.623017720000073,6800
+6806,Vendlincourt,26,2603,District de Porrentruy,26,French,French,False,8.97637484250014,6806
+6807,Basse-Allaine,26,2603,District de Porrentruy,26,French,French,False,23.21248680182641,6807
+6808,Clos du Doubs,26,2603,District de Porrentruy,26,French,French,False,61.861022005546936,6808
+6809,Haute-Ajoie,26,2603,District de Porrentruy,26,French,French,False,41.12653078073647,6809
+681,Belprahon,2,241,Arrondissement administratif Jura bernois,2,French,French,False,4.0975175,681
+6810,La Baroche,26,2603,District de Porrentruy,26,French,French,False,31.089658176053735,6810
+683,Champoz,2,241,Arrondissement administratif Jura bernois,2,French,French,False,7.1003495,683
+687,Corcelles (BE),2,241,Arrondissement administratif Jura bernois,2,French,French,False,6.922897,687
+69,Wallisellen,1,103,Bezirk Bülach,1,German,German,False,6.556803,69
+690,Court,2,241,Arrondissement administratif Jura bernois,2,French,French,False,24.638426,690
+691,Crémines,2,241,Arrondissement administratif Jura bernois,2,French,French,False,9.153459,691
+692,Eschert,2,241,Arrondissement administratif Jura bernois,2,French,French,False,6.374196,692
+694,Grandval,2,241,Arrondissement administratif Jura bernois,2,French,French,False,8.2860715,694
+696,Loveresse,2,241,Arrondissement administratif Jura bernois,2,French,French,False,4.5860815,696
+7,Knonau,1,101,Bezirk Affoltern,1,German,German,False,6.589624813123629,7
+70,Wasterkingen,1,103,Bezirk Bülach,1,German,German,False,4.022266688806517,70
+700,Moutier,2,241,Arrondissement administratif Jura bernois,2,French,French,False,19.4563795,700
+701,Perrefitte,2,241,Arrondissement administratif Jura bernois,2,French,French,False,8.5638225,701
+703,Reconvilier,2,241,Arrondissement administratif Jura bernois,2,French,French,False,8.123422991250642,703
+704,Roches (BE),2,241,Arrondissement administratif Jura bernois,2,French,French,False,9.1620275,704
+706,Saicourt,2,241,Arrondissement administratif Jura bernois,2,French,French,False,13.882889,706
+707,Saules (BE),2,241,Arrondissement administratif Jura bernois,2,French,French,False,4.19877,707
+708,Schelten,2,241,Arrondissement administratif Jura bernois,2,French,German,False,5.53813693437789,708
+709,Seehof,2,241,Arrondissement administratif Jura bernois,2,French,German,False,8.43662,709
+71,Wil (ZH),1,103,Bezirk Bülach,1,German,German,False,8.901398507514996,71
+711,Sorvilier,2,241,Arrondissement administratif Jura bernois,2,French,French,False,6.9689635,711
+713,Tavannes,2,241,Arrondissement administratif Jura bernois,2,French,French,False,14.887307508749359,713
+715,Rebévelier,2,241,Arrondissement administratif Jura bernois,2,French,German,False,3.3283625,715
+716,Petit-Val,2,241,Arrondissement administratif Jura bernois,2,French,French,False,24.138515,716
+717,Valbirse,2,241,Arrondissement administratif Jura bernois,2,French,French,False,18.689086,717
+72,Winkel,1,103,Bezirk Bülach,1,German,German,False,8.135902,72
+723,La Neuveville,2,241,Arrondissement administratif Jura bernois,2,French,French,False,7.031161950622732,723
+724,Nods,2,241,Arrondissement administratif Jura bernois,2,French,French,False,26.6961705,724
+726,Plateau de Diesse,2,241,Arrondissement administratif Jura bernois,2,French,French,False,25.2344145,726
+731,Aegerten,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,2.100963,731
+732,Bellmund,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,3.754012,732
+733,Brügg,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,5.0532375,733
+734,Bühl,2,243,Verwaltungskreis Seeland,2,German,German,False,2.986048,734
+735,Epsach,2,243,Verwaltungskreis Seeland,2,German,German,False,3.437293,735
+736,Hagneck,2,243,Verwaltungskreis Seeland,2,German,German,False,1.8872715,736
+737,Hermrigen,2,243,Verwaltungskreis Seeland,2,German,German,False,3.5007295,737
+738,Jens,2,243,Verwaltungskreis Seeland,2,German,German,False,4.614691,738
+739,Ipsach,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,1.9659305749997422,739
+740,Ligerz,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,2.10800403125,740
+741,Merzligen,2,243,Verwaltungskreis Seeland,2,German,German,False,2.2447685,741
+742,Mörigen,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,2.142584,742
+743,Nidau,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,1.5548129250002578,743
+744,Orpund,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,3.909179,744
+745,Port,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,2.436203,745
+746,Safnern,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,5.6202445,746
+747,Scheuren,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,2.2035975,747
+748,Schwadernau,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,4.2339055,748
+749,Studen (BE),2,243,Verwaltungskreis Seeland,2,German,German,False,2.6631514999994783,749
+750,Sutz-Lattrigen,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,3.650373,750
+751,Täuffelen,2,243,Verwaltungskreis Seeland,2,German,German,False,4.3634935,751
+754,Walperswil,2,243,Verwaltungskreis Seeland,2,German,German,False,6.853004,754
+755,Worben,2,243,Verwaltungskreis Seeland,2,German,German,False,2.7586334837510025,755
+756,Twann-Tüscherz,2,242,Verwaltungskreis Biel/Bienne,2,German,German,True,12.935707,756
+761,Därstetten,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,32.791118,761
+762,Diemtigen,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,129.56487443374792,762
+763,Erlenbach im Simmental,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,36.8532025,763
+766,Oberwil im Simmental,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,46.50195056625209,766
+767,Reutigen,2,247,Verwaltungskreis Thun,2,German,German,False,11.0865215,767
+768,Spiez,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,17.2528505,768
+769,Wimmis,2,249,Verwaltungskreis Frutigen-Niedersimmental,2,German,German,False,22.082641,769
+770,Stocken-Höfen,2,247,Verwaltungskreis Thun,2,German,German,False,14.0858605,770
+782,Guttannen,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,201.8377545,782
+783,Hasliberg,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,41.6166645,783
+784,Innertkirchen,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,236.36151064250018,784
+785,Meiringen,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,40.40696744756491,785
+786,Schattenhalb,2,250,Verwaltungskreis Interlaken-Oberhasli,2,German,German,False,31.555991792203017,786
+791,Boltigen,2,248,Verwaltungskreis Obersimmental-Saanen,2,German,German,False,76.6350045,791
+792,Lenk,2,248,Verwaltungskreis Obersimmental-Saanen,2,German,German,False,123.03851187755147,792
+793,St. Stephan,2,248,Verwaltungskreis Obersimmental-Saanen,2,German,German,False,61.13290650245003,793
+794,Zweisimmen,2,248,Verwaltungskreis Obersimmental-Saanen,2,German,German,False,73.05184200625045,794
+8,Maschwanden,1,101,Bezirk Affoltern,1,German,German,False,4.621254,8
+81,Bachs,1,104,Bezirk Dielsdorf,1,German,German,False,9.294403,81
+82,Boppelsen,1,104,Bezirk Dielsdorf,1,German,German,False,3.884395542499386,82
+83,Buchs (ZH),1,104,Bezirk Dielsdorf,1,German,German,False,5.956724678749761,83
+84,Dällikon,1,104,Bezirk Dielsdorf,1,German,German,False,4.3579915,84
+841,Gsteig,2,248,Verwaltungskreis Obersimmental-Saanen,2,German,German,False,62.030767,841
+842,Lauenen,2,248,Verwaltungskreis Obersimmental-Saanen,2,German,German,False,58.45653460042171,842
+843,Saanen,2,248,Verwaltungskreis Obersimmental-Saanen,2,German,German,False,120.37269854760075,843
+85,Dänikon,1,104,Bezirk Dielsdorf,1,German,German,False,2.8492785,85
+852,Guggisberg,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,54.9522455,852
+853,Rüschegg,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,57.191982,853
+855,Schwarzenburg,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,44.83551526000105,855
+86,Dielsdorf,1,104,Bezirk Dielsdorf,1,German,German,False,5.9075675,86
+861,Belp,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,23.189072660000072,861
+863,Burgistein,2,247,Verwaltungskreis Thun,2,German,German,False,7.3575235,863
+866,Gerzensee,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,7.9587515,866
+867,Gurzelen,2,247,Verwaltungskreis Thun,2,German,German,False,4.6041115,867
+868,Jaberg,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,1.221453,868
+869,Kaufdorf,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,2.0046155,869
+87,Hüttikon,1,104,Bezirk Dielsdorf,1,German,German,False,1.694842,87
+870,Kehrsatz,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,4.5013805,870
+872,Kirchdorf (BE),2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,14.517355,872
+889,Thurnen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,5.9969585,876
+877,Niedermuhlern,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,7.3217375,877
+879,Riggisberg,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,29.94393660875013,879
+88,Neerach,1,104,Bezirk Dielsdorf,1,German,German,False,5.862077,88
+880,Rüeggisberg,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,35.81244689124987,880
+881,Rümligen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,4.6875175,881
+883,Seftigen,2,247,Verwaltungskreis Thun,2,German,German,False,3.9211935,883
+884,Toffen,2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,4.995802,884
+885,Uttigen,2,247,Verwaltungskreis Thun,2,German,German,False,3.7955505499978774,885
+886,Wattenwil,2,247,Verwaltungskreis Thun,2,German,German,False,14.4666415,886
+888,Wald (BE),2,246,Verwaltungskreis Bern-Mittelland,2,German,German,False,13.169974,888
+89,Niederglatt,1,104,Bezirk Dielsdorf,1,German,German,False,3.661777675000168,89
+9,Mettmenstetten,1,101,Bezirk Affoltern,1,German,German,False,12.924536186876372,9
+90,Niederhasli,1,104,Bezirk Dielsdorf,1,German,German,False,11.248818140625911,90
+901,Eggiwil,2,245,Verwaltungskreis Emmental,2,German,German,False,60.2202375,901
+902,Langnau im Emmental,2,245,Verwaltungskreis Emmental,2,German,German,False,48.7633825,902
+903,Lauperswil,2,245,Verwaltungskreis Emmental,2,German,German,False,20.805068719999745,903
+904,Röthenbach im Emmental,2,245,Verwaltungskreis Emmental,2,German,German,False,36.9179965,904
+905,Rüderswil,2,245,Verwaltungskreis Emmental,2,German,German,False,17.492169280000255,905
+906,Schangnau,2,245,Verwaltungskreis Emmental,2,German,German,False,36.377712,906
+907,Signau,2,245,Verwaltungskreis Emmental,2,German,German,False,21.964474949940108,907
+908,Trub,2,245,Verwaltungskreis Emmental,2,German,German,False,61.98033445062546,908
+909,Trubschachen,2,245,Verwaltungskreis Emmental,2,German,German,False,15.590909049374533,909
+91,Niederweningen,1,104,Bezirk Dielsdorf,1,German,German,False,6.8358535,91
+92,Oberglatt,1,104,Bezirk Dielsdorf,1,German,German,False,8.266858,92
+921,Amsoldingen,2,247,Verwaltungskreis Thun,2,German,German,False,4.7683935,921
+922,Blumenstein,2,247,Verwaltungskreis Thun,2,German,German,False,15.6116015,922
+923,Buchholterberg,2,247,Verwaltungskreis Thun,2,German,German,False,15.078545,923
+924,Eriz,2,247,Verwaltungskreis Thun,2,German,German,False,21.711129,924
+925,Fahrni,2,247,Verwaltungskreis Thun,2,German,German,False,6.804137,925
+927,Heiligenschwendi,2,247,Verwaltungskreis Thun,2,German,German,False,5.486335,927
+928,Heimberg,2,247,Verwaltungskreis Thun,2,German,German,False,5.761379631249528,928
+929,Hilterfingen,2,247,Verwaltungskreis Thun,2,German,German,False,2.9089725,929
+93,Oberweningen,1,104,Bezirk Dielsdorf,1,German,German,False,4.747168,93
+931,Homberg,2,247,Verwaltungskreis Thun,2,German,German,False,6.4846025,931
+932,Horrenbach-Buchen,2,247,Verwaltungskreis Thun,2,German,German,False,20.493645,932
+934,Oberhofen am Thunersee,2,247,Verwaltungskreis Thun,2,German,German,False,2.9561525,934
+935,Oberlangenegg,2,247,Verwaltungskreis Thun,2,German,German,False,9.2372495,935
+936,Pohlern,2,247,Verwaltungskreis Thun,2,German,German,False,9.9913205,936
+938,Sigriswil,2,247,Verwaltungskreis Thun,2,German,German,False,55.6973735,938
+939,Steffisburg,2,247,Verwaltungskreis Thun,2,German,German,False,14.685726922500692,939
+94,Otelfingen,1,104,Bezirk Dielsdorf,1,German,German,False,7.213563778750854,94
+940,Teuffenthal (BE),2,247,Verwaltungskreis Thun,2,German,German,False,4.517865,940
+941,Thierachern,2,247,Verwaltungskreis Thun,2,German,German,False,7.5295975,941
+942,Thun,2,247,Verwaltungskreis Thun,2,German,German,False,21.47808222875166,942
+943,Uebeschi,2,247,Verwaltungskreis Thun,2,German,German,False,4.351029,943
+944,Uetendorf,2,247,Verwaltungskreis Thun,2,German,German,False,10.1261885,944
+945,Unterlangenegg,2,247,Verwaltungskreis Thun,2,German,German,False,6.8874125,945
+946,Wachseldorn,2,247,Verwaltungskreis Thun,2,German,German,False,3.577755,946
+947,Zwieselberg,2,247,Verwaltungskreis Thun,2,German,German,False,2.4631737712483406,947
+948,Forst-Längenbühl,2,247,Verwaltungskreis Thun,2,German,German,False,4.49532,948
+95,Regensberg,1,104,Bezirk Dielsdorf,1,German,German,False,2.3273415,95
+951,Affoltern im Emmental,2,245,Verwaltungskreis Emmental,2,German,German,False,11.530204,951
+952,Dürrenroth,2,245,Verwaltungskreis Emmental,2,German,German,False,14.1423585,952
+953,Eriswil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,11.344018,953
+954,Huttwil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,17.5116765,954
+955,Lützelflüh,2,245,Verwaltungskreis Emmental,2,German,German,False,26.4690125,955
+956,Rüegsau,2,245,Verwaltungskreis Emmental,2,German,German,False,15.377946,956
+957,Sumiswald,2,245,Verwaltungskreis Emmental,2,German,German,False,59.3876835,957
+958,Trachselwald,2,245,Verwaltungskreis Emmental,2,German,German,False,16.0417165,958
+959,Walterswil (BE),2,244,Verwaltungskreis Oberaargau,2,German,German,False,7.8190995,959
+96,Regensdorf,1,104,Bezirk Dielsdorf,1,German,German,False,14.71188614500007,96
+960,Wyssachen,2,244,Verwaltungskreis Oberaargau,2,German,German,False,11.499025,960
+97,Rümlang,1,104,Bezirk Dielsdorf,1,German,German,False,12.29596495187429,97
+971,Attiswil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,7.6187015,971
+972,Berken,2,244,Verwaltungskreis Oberaargau,2,German,German,False,1.376819,972
+973,Bettenhausen,2,244,Verwaltungskreis Oberaargau,2,German,German,False,3.9713728993744777,973
+975,Farnern,2,244,Verwaltungskreis Oberaargau,2,German,German,False,3.765408,975
+976,Graben,2,244,Verwaltungskreis Oberaargau,2,German,German,False,3.3274455,976
+977,Heimenhausen,2,244,Verwaltungskreis Oberaargau,2,German,German,False,5.8966445,977
+979,Herzogenbuchsee,2,244,Verwaltungskreis Oberaargau,2,German,German,False,9.902345356274328,979
+98,Schleinikon,1,104,Bezirk Dielsdorf,1,German,German,False,5.6949705,98
+980,Inkwil,2,244,Verwaltungskreis Oberaargau,2,German,German,False,3.2621695,980
+981,Niederbipp,2,244,Verwaltungskreis Oberaargau,2,German,German,False,19.857910574712157,981
+982,Niederönz,2,244,Verwaltungskreis Oberaargau,2,German,German,False,2.907499,982
+983,Oberbipp,2,244,Verwaltungskreis Oberaargau,2,German,German,False,8.659639925287841,983
+985,Ochlenberg,2,244,Verwaltungskreis Oberaargau,2,German,German,False,12.020399,985
+987,Rumisberg,2,244,Verwaltungskreis Oberaargau,2,German,German,False,5.1882095,987
+988,Seeberg,2,244,Verwaltungskreis Oberaargau,2,German,German,False,16.965955775000772,988
+989,Thörigen,2,244,Verwaltungskreis Oberaargau,2,German,German,False,4.496436,989
+99,Schöfflisdorf,1,104,Bezirk Dielsdorf,1,German,German,False,4.010324,99
+990,Walliswil bei Niederbipp,2,244,Verwaltungskreis Oberaargau,2,German,German,False,1.651745,990
+991,Walliswil bei Wangen,2,244,Verwaltungskreis Oberaargau,2,German,German,False,2.9217965,991
+992,Wangen an der Aare,2,244,Verwaltungskreis Oberaargau,2,German,German,False,5.330974,992
+993,Wangenried,2,244,Verwaltungskreis Oberaargau,2,German,German,False,2.9126105,993
+995,Wiedlisbach,2,244,Verwaltungskreis Oberaargau,2,German,German,False,7.397011,995
+5399,Verzasca,21,2104,Distretto di Locarno,21,Italian,Italian,False,218.520257,5112

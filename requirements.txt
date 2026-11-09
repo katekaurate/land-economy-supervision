@@ -1,0 +1,6 @@
+pandas==3.0.5
+numpy==2.5.3
+geopandas==1.2.0
+pyfixest==0.60.0
+matplotlib==3.11.2
+pyarrow==26.0.1

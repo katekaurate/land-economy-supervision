@@ -1,0 +1,77 @@
+[  176s] A1 Main (PPML, 2018)
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -3.426       0.043
+diff_canton    -0.507       0.043
+diff_lang      -1.157       0.086
+[    0s] A2 OLS on log positive flows
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -2.257       0.015
+diff_canton    -0.348       0.009
+diff_lang      -0.325       0.057
+[  878s] A3 Flexible travel-time bands
+             Estimate  Std. Error
+Coefficient                      
+diff_canton    -0.428       0.038
+diff_lang      -0.912       0.076
+[  178s] A4 Drop bilingual-area communes (See/Lac, Biel)
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -3.409       0.042
+diff_canton    -0.509       0.044
+diff_lang      -1.378       0.084
+[  172s] A5 Drop Graubuenden (Romansh/Italian/German mix)
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -3.411       0.043
+diff_canton    -0.499       0.044
+diff_lang      -1.183       0.090
+[  422s] A6 Only pairs within 60 min
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -3.157       0.036
+diff_canton    -0.480       0.031
+diff_lang      -0.881       0.086
+[  231s] A7 Interaction (both borders at once)
+                       Estimate  Std. Error
+Coefficient                                
+ln_time                  -3.425       0.043
+diff_canton              -0.491       0.043
+diff_lang                -0.727       0.064
+diff_canton:diff_lang    -0.636       0.109
+[  392s] B1 Asymmetry: German->French vs French->German
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -3.424       0.043
+diff_canton    -0.506       0.043
+de_to_fr       -1.002       0.209
+fr_to_de       -1.269       0.176
+involves_it    -2.001       0.163
+involves_rm    -0.492       0.175
+[  223s] C 2014
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -3.521       0.042
+diff_canton    -0.548       0.043
+diff_lang      -1.139       0.091
+[  213s] C 2020
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -3.495       0.042
+diff_canton    -0.453       0.044
+diff_lang      -1.216       0.104
+[    0s] D District level (MAUP check)
+             Estimate  Std. Error
+Coefficient                      
+ln_time        -4.606       0.154
+diff_canton    -0.374       0.066
+diff_lang      -0.951       0.093
+done
+             Estimate  Std. Error
+Coefficient                      
+ln_time       -32.252       0.439
+diff_canton    -3.740       0.164
+diff_lang       0.116       0.302
+baseline share of pairs (<=60 min) with a flow: 9.38 %
+EXIT 0
